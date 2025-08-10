@@ -1,0 +1,3286 @@
+date,hospital_id,drug_name,inventory,demand
+2024-01-01,Hosp_B_Oncology,Paracetamol,180,5
+2024-01-01,Hosp_B_Oncology,Ibuprofen,102,1
+2024-01-01,Hosp_B_Oncology,Amoxicillin,137,5
+2024-01-01,Hosp_B_Oncology,Metformin,179,163
+2024-01-01,Hosp_B_Oncology,Atorvastatin,237,120
+2024-01-01,Hosp_B_Oncology,Letrozole,210,175
+2024-01-01,Hosp_B_Oncology,Trastuzumab,107,121
+2024-01-01,Hosp_B_Oncology,Oseltamivir,285,8
+2024-01-01,Hosp_B_Oncology,Cough Syrup,98,9
+2024-01-02,Hosp_B_Oncology,Paracetamol,130,3
+2024-01-02,Hosp_B_Oncology,Ibuprofen,99,7
+2024-01-02,Hosp_B_Oncology,Amoxicillin,181,1
+2024-01-02,Hosp_B_Oncology,Metformin,183,153
+2024-01-02,Hosp_B_Oncology,Atorvastatin,155,103
+2024-01-02,Hosp_B_Oncology,Letrozole,103,192
+2024-01-02,Hosp_B_Oncology,Trastuzumab,240,117
+2024-01-02,Hosp_B_Oncology,Oseltamivir,267,1
+2024-01-02,Hosp_B_Oncology,Cough Syrup,251,3
+2024-01-03,Hosp_B_Oncology,Paracetamol,299,8
+2024-01-03,Hosp_B_Oncology,Ibuprofen,77,6
+2024-01-03,Hosp_B_Oncology,Amoxicillin,250,7
+2024-01-03,Hosp_B_Oncology,Metformin,61,133
+2024-01-03,Hosp_B_Oncology,Atorvastatin,82,147
+2024-01-03,Hosp_B_Oncology,Letrozole,296,122
+2024-01-03,Hosp_B_Oncology,Trastuzumab,111,187
+2024-01-03,Hosp_B_Oncology,Oseltamivir,86,2
+2024-01-03,Hosp_B_Oncology,Cough Syrup,221,7
+2024-01-04,Hosp_B_Oncology,Paracetamol,115,9
+2024-01-04,Hosp_B_Oncology,Ibuprofen,94,8
+2024-01-04,Hosp_B_Oncology,Amoxicillin,294,5
+2024-01-04,Hosp_B_Oncology,Metformin,77,127
+2024-01-04,Hosp_B_Oncology,Atorvastatin,157,143
+2024-01-04,Hosp_B_Oncology,Letrozole,133,129
+2024-01-04,Hosp_B_Oncology,Trastuzumab,239,174
+2024-01-04,Hosp_B_Oncology,Oseltamivir,177,9
+2024-01-04,Hosp_B_Oncology,Cough Syrup,296,8
+2024-01-05,Hosp_B_Oncology,Paracetamol,51,1
+2024-01-05,Hosp_B_Oncology,Ibuprofen,269,5
+2024-01-05,Hosp_B_Oncology,Amoxicillin,136,4
+2024-01-05,Hosp_B_Oncology,Metformin,273,196
+2024-01-05,Hosp_B_Oncology,Atorvastatin,178,118
+2024-01-05,Hosp_B_Oncology,Letrozole,175,101
+2024-01-05,Hosp_B_Oncology,Trastuzumab,102,143
+2024-01-05,Hosp_B_Oncology,Oseltamivir,267,5
+2024-01-05,Hosp_B_Oncology,Cough Syrup,209,6
+2024-01-06,Hosp_B_Oncology,Paracetamol,178,8
+2024-01-06,Hosp_B_Oncology,Ibuprofen,266,1
+2024-01-06,Hosp_B_Oncology,Amoxicillin,200,9
+2024-01-06,Hosp_B_Oncology,Metformin,148,106
+2024-01-06,Hosp_B_Oncology,Atorvastatin,193,189
+2024-01-06,Hosp_B_Oncology,Letrozole,161,159
+2024-01-06,Hosp_B_Oncology,Trastuzumab,162,101
+2024-01-06,Hosp_B_Oncology,Oseltamivir,178,4
+2024-01-06,Hosp_B_Oncology,Cough Syrup,86,6
+2024-01-07,Hosp_B_Oncology,Paracetamol,297,7
+2024-01-07,Hosp_B_Oncology,Ibuprofen,184,2
+2024-01-07,Hosp_B_Oncology,Amoxicillin,194,0
+2024-01-07,Hosp_B_Oncology,Metformin,225,175
+2024-01-07,Hosp_B_Oncology,Atorvastatin,236,185
+2024-01-07,Hosp_B_Oncology,Letrozole,168,121
+2024-01-07,Hosp_B_Oncology,Trastuzumab,287,129
+2024-01-07,Hosp_B_Oncology,Oseltamivir,87,5
+2024-01-07,Hosp_B_Oncology,Cough Syrup,158,2
+2024-01-08,Hosp_B_Oncology,Paracetamol,210,2
+2024-01-08,Hosp_B_Oncology,Ibuprofen,177,1
+2024-01-08,Hosp_B_Oncology,Amoxicillin,74,9
+2024-01-08,Hosp_B_Oncology,Metformin,272,153
+2024-01-08,Hosp_B_Oncology,Atorvastatin,107,166
+2024-01-08,Hosp_B_Oncology,Letrozole,153,145
+2024-01-08,Hosp_B_Oncology,Trastuzumab,73,131
+2024-01-08,Hosp_B_Oncology,Oseltamivir,224,5
+2024-01-08,Hosp_B_Oncology,Cough Syrup,200,1
+2024-01-09,Hosp_B_Oncology,Paracetamol,240,5
+2024-01-09,Hosp_B_Oncology,Ibuprofen,100,8
+2024-01-09,Hosp_B_Oncology,Amoxicillin,235,5
+2024-01-09,Hosp_B_Oncology,Metformin,107,157
+2024-01-09,Hosp_B_Oncology,Atorvastatin,135,148
+2024-01-09,Hosp_B_Oncology,Letrozole,229,141
+2024-01-09,Hosp_B_Oncology,Trastuzumab,119,114
+2024-01-09,Hosp_B_Oncology,Oseltamivir,103,4
+2024-01-09,Hosp_B_Oncology,Cough Syrup,274,7
+2024-01-10,Hosp_B_Oncology,Paracetamol,171,0
+2024-01-10,Hosp_B_Oncology,Ibuprofen,288,1
+2024-01-10,Hosp_B_Oncology,Amoxicillin,145,5
+2024-01-10,Hosp_B_Oncology,Metformin,97,188
+2024-01-10,Hosp_B_Oncology,Atorvastatin,281,100
+2024-01-10,Hosp_B_Oncology,Letrozole,65,160
+2024-01-10,Hosp_B_Oncology,Trastuzumab,280,163
+2024-01-10,Hosp_B_Oncology,Oseltamivir,240,4
+2024-01-10,Hosp_B_Oncology,Cough Syrup,71,6
+2024-01-11,Hosp_B_Oncology,Paracetamol,299,2
+2024-01-11,Hosp_B_Oncology,Ibuprofen,235,0
+2024-01-11,Hosp_B_Oncology,Amoxicillin,297,4
+2024-01-11,Hosp_B_Oncology,Metformin,286,103
+2024-01-11,Hosp_B_Oncology,Atorvastatin,65,123
+2024-01-11,Hosp_B_Oncology,Letrozole,129,101
+2024-01-11,Hosp_B_Oncology,Trastuzumab,290,191
+2024-01-11,Hosp_B_Oncology,Oseltamivir,177,3
+2024-01-11,Hosp_B_Oncology,Cough Syrup,201,1
+2024-01-12,Hosp_B_Oncology,Paracetamol,286,7
+2024-01-12,Hosp_B_Oncology,Ibuprofen,213,8
+2024-01-12,Hosp_B_Oncology,Amoxicillin,70,8
+2024-01-12,Hosp_B_Oncology,Metformin,213,109
+2024-01-12,Hosp_B_Oncology,Atorvastatin,150,172
+2024-01-12,Hosp_B_Oncology,Letrozole,201,163
+2024-01-12,Hosp_B_Oncology,Trastuzumab,276,148
+2024-01-12,Hosp_B_Oncology,Oseltamivir,148,3
+2024-01-12,Hosp_B_Oncology,Cough Syrup,259,0
+2024-01-13,Hosp_B_Oncology,Paracetamol,189,8
+2024-01-13,Hosp_B_Oncology,Ibuprofen,229,4
+2024-01-13,Hosp_B_Oncology,Amoxicillin,277,4
+2024-01-13,Hosp_B_Oncology,Metformin,200,115
+2024-01-13,Hosp_B_Oncology,Atorvastatin,106,138
+2024-01-13,Hosp_B_Oncology,Letrozole,158,152
+2024-01-13,Hosp_B_Oncology,Trastuzumab,91,157
+2024-01-13,Hosp_B_Oncology,Oseltamivir,216,9
+2024-01-13,Hosp_B_Oncology,Cough Syrup,182,2
+2024-01-14,Hosp_B_Oncology,Paracetamol,85,5
+2024-01-14,Hosp_B_Oncology,Ibuprofen,208,2
+2024-01-14,Hosp_B_Oncology,Amoxicillin,238,5
+2024-01-14,Hosp_B_Oncology,Metformin,216,190
+2024-01-14,Hosp_B_Oncology,Atorvastatin,251,189
+2024-01-14,Hosp_B_Oncology,Letrozole,68,138
+2024-01-14,Hosp_B_Oncology,Trastuzumab,175,166
+2024-01-14,Hosp_B_Oncology,Oseltamivir,222,1
+2024-01-14,Hosp_B_Oncology,Cough Syrup,269,9
+2024-01-15,Hosp_B_Oncology,Paracetamol,195,8
+2024-01-15,Hosp_B_Oncology,Ibuprofen,98,0
+2024-01-15,Hosp_B_Oncology,Amoxicillin,166,5
+2024-01-15,Hosp_B_Oncology,Metformin,167,102
+2024-01-15,Hosp_B_Oncology,Atorvastatin,193,186
+2024-01-15,Hosp_B_Oncology,Letrozole,234,174
+2024-01-15,Hosp_B_Oncology,Trastuzumab,61,173
+2024-01-15,Hosp_B_Oncology,Oseltamivir,273,7
+2024-01-15,Hosp_B_Oncology,Cough Syrup,151,7
+2024-01-16,Hosp_B_Oncology,Paracetamol,291,4
+2024-01-16,Hosp_B_Oncology,Ibuprofen,168,7
+2024-01-16,Hosp_B_Oncology,Amoxicillin,82,5
+2024-01-16,Hosp_B_Oncology,Metformin,114,117
+2024-01-16,Hosp_B_Oncology,Atorvastatin,273,148
+2024-01-16,Hosp_B_Oncology,Letrozole,60,184
+2024-01-16,Hosp_B_Oncology,Trastuzumab,75,162
+2024-01-16,Hosp_B_Oncology,Oseltamivir,266,5
+2024-01-16,Hosp_B_Oncology,Cough Syrup,108,0
+2024-01-17,Hosp_B_Oncology,Paracetamol,203,9
+2024-01-17,Hosp_B_Oncology,Ibuprofen,211,5
+2024-01-17,Hosp_B_Oncology,Amoxicillin,167,2
+2024-01-17,Hosp_B_Oncology,Metformin,172,149
+2024-01-17,Hosp_B_Oncology,Atorvastatin,61,164
+2024-01-17,Hosp_B_Oncology,Letrozole,103,104
+2024-01-17,Hosp_B_Oncology,Trastuzumab,271,193
+2024-01-17,Hosp_B_Oncology,Oseltamivir,106,0
+2024-01-17,Hosp_B_Oncology,Cough Syrup,161,6
+2024-01-18,Hosp_B_Oncology,Paracetamol,55,4
+2024-01-18,Hosp_B_Oncology,Ibuprofen,243,2
+2024-01-18,Hosp_B_Oncology,Amoxicillin,160,8
+2024-01-18,Hosp_B_Oncology,Metformin,200,154
+2024-01-18,Hosp_B_Oncology,Atorvastatin,129,194
+2024-01-18,Hosp_B_Oncology,Letrozole,252,115
+2024-01-18,Hosp_B_Oncology,Trastuzumab,57,103
+2024-01-18,Hosp_B_Oncology,Oseltamivir,153,3
+2024-01-18,Hosp_B_Oncology,Cough Syrup,233,8
+2024-01-19,Hosp_B_Oncology,Paracetamol,97,0
+2024-01-19,Hosp_B_Oncology,Ibuprofen,75,3
+2024-01-19,Hosp_B_Oncology,Amoxicillin,50,7
+2024-01-19,Hosp_B_Oncology,Metformin,162,198
+2024-01-19,Hosp_B_Oncology,Atorvastatin,229,178
+2024-01-19,Hosp_B_Oncology,Letrozole,96,155
+2024-01-19,Hosp_B_Oncology,Trastuzumab,263,113
+2024-01-19,Hosp_B_Oncology,Oseltamivir,267,6
+2024-01-19,Hosp_B_Oncology,Cough Syrup,127,7
+2024-01-20,Hosp_B_Oncology,Paracetamol,116,8
+2024-01-20,Hosp_B_Oncology,Ibuprofen,158,1
+2024-01-20,Hosp_B_Oncology,Amoxicillin,160,3
+2024-01-20,Hosp_B_Oncology,Metformin,160,185
+2024-01-20,Hosp_B_Oncology,Atorvastatin,83,107
+2024-01-20,Hosp_B_Oncology,Letrozole,217,182
+2024-01-20,Hosp_B_Oncology,Trastuzumab,91,140
+2024-01-20,Hosp_B_Oncology,Oseltamivir,150,5
+2024-01-20,Hosp_B_Oncology,Cough Syrup,229,9
+2024-01-21,Hosp_B_Oncology,Paracetamol,183,5
+2024-01-21,Hosp_B_Oncology,Ibuprofen,162,7
+2024-01-21,Hosp_B_Oncology,Amoxicillin,279,2
+2024-01-21,Hosp_B_Oncology,Metformin,111,156
+2024-01-21,Hosp_B_Oncology,Atorvastatin,243,178
+2024-01-21,Hosp_B_Oncology,Letrozole,252,107
+2024-01-21,Hosp_B_Oncology,Trastuzumab,75,150
+2024-01-21,Hosp_B_Oncology,Oseltamivir,222,4
+2024-01-21,Hosp_B_Oncology,Cough Syrup,119,9
+2024-01-22,Hosp_B_Oncology,Paracetamol,58,7
+2024-01-22,Hosp_B_Oncology,Ibuprofen,87,6
+2024-01-22,Hosp_B_Oncology,Amoxicillin,212,0
+2024-01-22,Hosp_B_Oncology,Metformin,118,161
+2024-01-22,Hosp_B_Oncology,Atorvastatin,237,149
+2024-01-22,Hosp_B_Oncology,Letrozole,127,174
+2024-01-22,Hosp_B_Oncology,Trastuzumab,186,133
+2024-01-22,Hosp_B_Oncology,Oseltamivir,125,2
+2024-01-22,Hosp_B_Oncology,Cough Syrup,84,0
+2024-01-23,Hosp_B_Oncology,Paracetamol,288,6
+2024-01-23,Hosp_B_Oncology,Ibuprofen,243,4
+2024-01-23,Hosp_B_Oncology,Amoxicillin,153,7
+2024-01-23,Hosp_B_Oncology,Metformin,228,138
+2024-01-23,Hosp_B_Oncology,Atorvastatin,228,169
+2024-01-23,Hosp_B_Oncology,Letrozole,183,166
+2024-01-23,Hosp_B_Oncology,Trastuzumab,184,150
+2024-01-23,Hosp_B_Oncology,Oseltamivir,249,9
+2024-01-23,Hosp_B_Oncology,Cough Syrup,241,3
+2024-01-24,Hosp_B_Oncology,Paracetamol,117,1
+2024-01-24,Hosp_B_Oncology,Ibuprofen,204,2
+2024-01-24,Hosp_B_Oncology,Amoxicillin,292,3
+2024-01-24,Hosp_B_Oncology,Metformin,85,125
+2024-01-24,Hosp_B_Oncology,Atorvastatin,92,126
+2024-01-24,Hosp_B_Oncology,Letrozole,118,119
+2024-01-24,Hosp_B_Oncology,Trastuzumab,60,173
+2024-01-24,Hosp_B_Oncology,Oseltamivir,153,5
+2024-01-24,Hosp_B_Oncology,Cough Syrup,183,7
+2024-01-25,Hosp_B_Oncology,Paracetamol,95,4
+2024-01-25,Hosp_B_Oncology,Ibuprofen,198,9
+2024-01-25,Hosp_B_Oncology,Amoxicillin,159,3
+2024-01-25,Hosp_B_Oncology,Metformin,231,186
+2024-01-25,Hosp_B_Oncology,Atorvastatin,106,100
+2024-01-25,Hosp_B_Oncology,Letrozole,112,153
+2024-01-25,Hosp_B_Oncology,Trastuzumab,104,139
+2024-01-25,Hosp_B_Oncology,Oseltamivir,192,4
+2024-01-25,Hosp_B_Oncology,Cough Syrup,224,8
+2024-01-26,Hosp_B_Oncology,Paracetamol,203,1
+2024-01-26,Hosp_B_Oncology,Ibuprofen,262,0
+2024-01-26,Hosp_B_Oncology,Amoxicillin,248,0
+2024-01-26,Hosp_B_Oncology,Metformin,133,148
+2024-01-26,Hosp_B_Oncology,Atorvastatin,197,185
+2024-01-26,Hosp_B_Oncology,Letrozole,269,162
+2024-01-26,Hosp_B_Oncology,Trastuzumab,238,148
+2024-01-26,Hosp_B_Oncology,Oseltamivir,120,0
+2024-01-26,Hosp_B_Oncology,Cough Syrup,273,6
+2024-01-27,Hosp_B_Oncology,Paracetamol,136,6
+2024-01-27,Hosp_B_Oncology,Ibuprofen,269,1
+2024-01-27,Hosp_B_Oncology,Amoxicillin,184,7
+2024-01-27,Hosp_B_Oncology,Metformin,114,156
+2024-01-27,Hosp_B_Oncology,Atorvastatin,296,166
+2024-01-27,Hosp_B_Oncology,Letrozole,265,186
+2024-01-27,Hosp_B_Oncology,Trastuzumab,236,171
+2024-01-27,Hosp_B_Oncology,Oseltamivir,103,8
+2024-01-27,Hosp_B_Oncology,Cough Syrup,288,4
+2024-01-28,Hosp_B_Oncology,Paracetamol,60,9
+2024-01-28,Hosp_B_Oncology,Ibuprofen,179,2
+2024-01-28,Hosp_B_Oncology,Amoxicillin,264,6
+2024-01-28,Hosp_B_Oncology,Metformin,189,119
+2024-01-28,Hosp_B_Oncology,Atorvastatin,54,136
+2024-01-28,Hosp_B_Oncology,Letrozole,215,193
+2024-01-28,Hosp_B_Oncology,Trastuzumab,186,197
+2024-01-28,Hosp_B_Oncology,Oseltamivir,102,2
+2024-01-28,Hosp_B_Oncology,Cough Syrup,293,9
+2024-01-29,Hosp_B_Oncology,Paracetamol,90,5
+2024-01-29,Hosp_B_Oncology,Ibuprofen,83,0
+2024-01-29,Hosp_B_Oncology,Amoxicillin,214,8
+2024-01-29,Hosp_B_Oncology,Metformin,279,175
+2024-01-29,Hosp_B_Oncology,Atorvastatin,136,185
+2024-01-29,Hosp_B_Oncology,Letrozole,262,126
+2024-01-29,Hosp_B_Oncology,Trastuzumab,106,130
+2024-01-29,Hosp_B_Oncology,Oseltamivir,183,7
+2024-01-29,Hosp_B_Oncology,Cough Syrup,147,8
+2024-01-30,Hosp_B_Oncology,Paracetamol,82,9
+2024-01-30,Hosp_B_Oncology,Ibuprofen,85,3
+2024-01-30,Hosp_B_Oncology,Amoxicillin,260,2
+2024-01-30,Hosp_B_Oncology,Metformin,293,180
+2024-01-30,Hosp_B_Oncology,Atorvastatin,239,197
+2024-01-30,Hosp_B_Oncology,Letrozole,250,125
+2024-01-30,Hosp_B_Oncology,Trastuzumab,243,172
+2024-01-30,Hosp_B_Oncology,Oseltamivir,250,7
+2024-01-30,Hosp_B_Oncology,Cough Syrup,66,0
+2024-01-31,Hosp_B_Oncology,Paracetamol,249,8
+2024-01-31,Hosp_B_Oncology,Ibuprofen,259,8
+2024-01-31,Hosp_B_Oncology,Amoxicillin,61,9
+2024-01-31,Hosp_B_Oncology,Metformin,282,125
+2024-01-31,Hosp_B_Oncology,Atorvastatin,96,131
+2024-01-31,Hosp_B_Oncology,Letrozole,59,115
+2024-01-31,Hosp_B_Oncology,Trastuzumab,248,116
+2024-01-31,Hosp_B_Oncology,Oseltamivir,200,9
+2024-01-31,Hosp_B_Oncology,Cough Syrup,262,5
+2024-02-01,Hosp_B_Oncology,Paracetamol,169,0
+2024-02-01,Hosp_B_Oncology,Ibuprofen,53,5
+2024-02-01,Hosp_B_Oncology,Amoxicillin,202,1
+2024-02-01,Hosp_B_Oncology,Metformin,210,115
+2024-02-01,Hosp_B_Oncology,Atorvastatin,286,141
+2024-02-01,Hosp_B_Oncology,Letrozole,157,165
+2024-02-01,Hosp_B_Oncology,Trastuzumab,104,198
+2024-02-01,Hosp_B_Oncology,Oseltamivir,219,1
+2024-02-01,Hosp_B_Oncology,Cough Syrup,207,6
+2024-02-02,Hosp_B_Oncology,Paracetamol,256,8
+2024-02-02,Hosp_B_Oncology,Ibuprofen,192,0
+2024-02-02,Hosp_B_Oncology,Amoxicillin,170,7
+2024-02-02,Hosp_B_Oncology,Metformin,245,111
+2024-02-02,Hosp_B_Oncology,Atorvastatin,236,136
+2024-02-02,Hosp_B_Oncology,Letrozole,110,142
+2024-02-02,Hosp_B_Oncology,Trastuzumab,173,169
+2024-02-02,Hosp_B_Oncology,Oseltamivir,88,7
+2024-02-02,Hosp_B_Oncology,Cough Syrup,112,7
+2024-02-03,Hosp_B_Oncology,Paracetamol,212,1
+2024-02-03,Hosp_B_Oncology,Ibuprofen,131,0
+2024-02-03,Hosp_B_Oncology,Amoxicillin,265,2
+2024-02-03,Hosp_B_Oncology,Metformin,209,198
+2024-02-03,Hosp_B_Oncology,Atorvastatin,279,112
+2024-02-03,Hosp_B_Oncology,Letrozole,169,188
+2024-02-03,Hosp_B_Oncology,Trastuzumab,122,167
+2024-02-03,Hosp_B_Oncology,Oseltamivir,191,4
+2024-02-03,Hosp_B_Oncology,Cough Syrup,147,8
+2024-02-04,Hosp_B_Oncology,Paracetamol,142,2
+2024-02-04,Hosp_B_Oncology,Ibuprofen,235,2
+2024-02-04,Hosp_B_Oncology,Amoxicillin,105,7
+2024-02-04,Hosp_B_Oncology,Metformin,147,139
+2024-02-04,Hosp_B_Oncology,Atorvastatin,140,176
+2024-02-04,Hosp_B_Oncology,Letrozole,286,132
+2024-02-04,Hosp_B_Oncology,Trastuzumab,55,187
+2024-02-04,Hosp_B_Oncology,Oseltamivir,196,7
+2024-02-04,Hosp_B_Oncology,Cough Syrup,141,0
+2024-02-05,Hosp_B_Oncology,Paracetamol,273,0
+2024-02-05,Hosp_B_Oncology,Ibuprofen,282,0
+2024-02-05,Hosp_B_Oncology,Amoxicillin,153,1
+2024-02-05,Hosp_B_Oncology,Metformin,237,163
+2024-02-05,Hosp_B_Oncology,Atorvastatin,137,134
+2024-02-05,Hosp_B_Oncology,Letrozole,289,169
+2024-02-05,Hosp_B_Oncology,Trastuzumab,260,129
+2024-02-05,Hosp_B_Oncology,Oseltamivir,248,9
+2024-02-05,Hosp_B_Oncology,Cough Syrup,282,1
+2024-02-06,Hosp_B_Oncology,Paracetamol,128,2
+2024-02-06,Hosp_B_Oncology,Ibuprofen,252,9
+2024-02-06,Hosp_B_Oncology,Amoxicillin,264,9
+2024-02-06,Hosp_B_Oncology,Metformin,275,145
+2024-02-06,Hosp_B_Oncology,Atorvastatin,275,128
+2024-02-06,Hosp_B_Oncology,Letrozole,53,180
+2024-02-06,Hosp_B_Oncology,Trastuzumab,148,112
+2024-02-06,Hosp_B_Oncology,Oseltamivir,282,6
+2024-02-06,Hosp_B_Oncology,Cough Syrup,64,6
+2024-02-07,Hosp_B_Oncology,Paracetamol,74,7
+2024-02-07,Hosp_B_Oncology,Ibuprofen,61,1
+2024-02-07,Hosp_B_Oncology,Amoxicillin,64,7
+2024-02-07,Hosp_B_Oncology,Metformin,109,145
+2024-02-07,Hosp_B_Oncology,Atorvastatin,266,116
+2024-02-07,Hosp_B_Oncology,Letrozole,142,152
+2024-02-07,Hosp_B_Oncology,Trastuzumab,57,178
+2024-02-07,Hosp_B_Oncology,Oseltamivir,76,1
+2024-02-07,Hosp_B_Oncology,Cough Syrup,293,6
+2024-02-08,Hosp_B_Oncology,Paracetamol,82,5
+2024-02-08,Hosp_B_Oncology,Ibuprofen,218,7
+2024-02-08,Hosp_B_Oncology,Amoxicillin,60,5
+2024-02-08,Hosp_B_Oncology,Metformin,228,187
+2024-02-08,Hosp_B_Oncology,Atorvastatin,90,116
+2024-02-08,Hosp_B_Oncology,Letrozole,125,145
+2024-02-08,Hosp_B_Oncology,Trastuzumab,209,178
+2024-02-08,Hosp_B_Oncology,Oseltamivir,129,5
+2024-02-08,Hosp_B_Oncology,Cough Syrup,135,3
+2024-02-09,Hosp_B_Oncology,Paracetamol,209,8
+2024-02-09,Hosp_B_Oncology,Ibuprofen,163,7
+2024-02-09,Hosp_B_Oncology,Amoxicillin,121,1
+2024-02-09,Hosp_B_Oncology,Metformin,141,161
+2024-02-09,Hosp_B_Oncology,Atorvastatin,133,161
+2024-02-09,Hosp_B_Oncology,Letrozole,160,106
+2024-02-09,Hosp_B_Oncology,Trastuzumab,252,183
+2024-02-09,Hosp_B_Oncology,Oseltamivir,257,3
+2024-02-09,Hosp_B_Oncology,Cough Syrup,183,9
+2024-02-10,Hosp_B_Oncology,Paracetamol,180,9
+2024-02-10,Hosp_B_Oncology,Ibuprofen,292,2
+2024-02-10,Hosp_B_Oncology,Amoxicillin,238,5
+2024-02-10,Hosp_B_Oncology,Metformin,240,178
+2024-02-10,Hosp_B_Oncology,Atorvastatin,146,106
+2024-02-10,Hosp_B_Oncology,Letrozole,125,148
+2024-02-10,Hosp_B_Oncology,Trastuzumab,143,184
+2024-02-10,Hosp_B_Oncology,Oseltamivir,208,9
+2024-02-10,Hosp_B_Oncology,Cough Syrup,238,7
+2024-02-11,Hosp_B_Oncology,Paracetamol,274,2
+2024-02-11,Hosp_B_Oncology,Ibuprofen,75,7
+2024-02-11,Hosp_B_Oncology,Amoxicillin,149,6
+2024-02-11,Hosp_B_Oncology,Metformin,91,143
+2024-02-11,Hosp_B_Oncology,Atorvastatin,63,177
+2024-02-11,Hosp_B_Oncology,Letrozole,51,136
+2024-02-11,Hosp_B_Oncology,Trastuzumab,118,137
+2024-02-11,Hosp_B_Oncology,Oseltamivir,286,8
+2024-02-11,Hosp_B_Oncology,Cough Syrup,111,5
+2024-02-12,Hosp_B_Oncology,Paracetamol,154,0
+2024-02-12,Hosp_B_Oncology,Ibuprofen,182,3
+2024-02-12,Hosp_B_Oncology,Amoxicillin,57,0
+2024-02-12,Hosp_B_Oncology,Metformin,106,163
+2024-02-12,Hosp_B_Oncology,Atorvastatin,167,183
+2024-02-12,Hosp_B_Oncology,Letrozole,77,136
+2024-02-12,Hosp_B_Oncology,Trastuzumab,224,175
+2024-02-12,Hosp_B_Oncology,Oseltamivir,214,0
+2024-02-12,Hosp_B_Oncology,Cough Syrup,290,7
+2024-02-13,Hosp_B_Oncology,Paracetamol,99,8
+2024-02-13,Hosp_B_Oncology,Ibuprofen,88,7
+2024-02-13,Hosp_B_Oncology,Amoxicillin,288,1
+2024-02-13,Hosp_B_Oncology,Metformin,200,143
+2024-02-13,Hosp_B_Oncology,Atorvastatin,87,183
+2024-02-13,Hosp_B_Oncology,Letrozole,200,144
+2024-02-13,Hosp_B_Oncology,Trastuzumab,101,179
+2024-02-13,Hosp_B_Oncology,Oseltamivir,227,9
+2024-02-13,Hosp_B_Oncology,Cough Syrup,173,6
+2024-02-14,Hosp_B_Oncology,Paracetamol,243,1
+2024-02-14,Hosp_B_Oncology,Ibuprofen,241,5
+2024-02-14,Hosp_B_Oncology,Amoxicillin,112,8
+2024-02-14,Hosp_B_Oncology,Metformin,210,140
+2024-02-14,Hosp_B_Oncology,Atorvastatin,138,147
+2024-02-14,Hosp_B_Oncology,Letrozole,62,172
+2024-02-14,Hosp_B_Oncology,Trastuzumab,294,176
+2024-02-14,Hosp_B_Oncology,Oseltamivir,208,8
+2024-02-14,Hosp_B_Oncology,Cough Syrup,252,3
+2024-02-15,Hosp_B_Oncology,Paracetamol,249,9
+2024-02-15,Hosp_B_Oncology,Ibuprofen,243,8
+2024-02-15,Hosp_B_Oncology,Amoxicillin,52,4
+2024-02-15,Hosp_B_Oncology,Metformin,75,171
+2024-02-15,Hosp_B_Oncology,Atorvastatin,97,165
+2024-02-15,Hosp_B_Oncology,Letrozole,247,127
+2024-02-15,Hosp_B_Oncology,Trastuzumab,166,192
+2024-02-15,Hosp_B_Oncology,Oseltamivir,203,8
+2024-02-15,Hosp_B_Oncology,Cough Syrup,61,4
+2024-02-16,Hosp_B_Oncology,Paracetamol,101,2
+2024-02-16,Hosp_B_Oncology,Ibuprofen,185,9
+2024-02-16,Hosp_B_Oncology,Amoxicillin,213,1
+2024-02-16,Hosp_B_Oncology,Metformin,51,148
+2024-02-16,Hosp_B_Oncology,Atorvastatin,126,103
+2024-02-16,Hosp_B_Oncology,Letrozole,139,188
+2024-02-16,Hosp_B_Oncology,Trastuzumab,143,174
+2024-02-16,Hosp_B_Oncology,Oseltamivir,56,9
+2024-02-16,Hosp_B_Oncology,Cough Syrup,88,6
+2024-02-17,Hosp_B_Oncology,Paracetamol,117,1
+2024-02-17,Hosp_B_Oncology,Ibuprofen,201,2
+2024-02-17,Hosp_B_Oncology,Amoxicillin,149,6
+2024-02-17,Hosp_B_Oncology,Metformin,251,188
+2024-02-17,Hosp_B_Oncology,Atorvastatin,195,118
+2024-02-17,Hosp_B_Oncology,Letrozole,213,173
+2024-02-17,Hosp_B_Oncology,Trastuzumab,274,154
+2024-02-17,Hosp_B_Oncology,Oseltamivir,291,4
+2024-02-17,Hosp_B_Oncology,Cough Syrup,224,0
+2024-02-18,Hosp_B_Oncology,Paracetamol,68,3
+2024-02-18,Hosp_B_Oncology,Ibuprofen,267,5
+2024-02-18,Hosp_B_Oncology,Amoxicillin,91,6
+2024-02-18,Hosp_B_Oncology,Metformin,158,135
+2024-02-18,Hosp_B_Oncology,Atorvastatin,281,196
+2024-02-18,Hosp_B_Oncology,Letrozole,213,102
+2024-02-18,Hosp_B_Oncology,Trastuzumab,122,107
+2024-02-18,Hosp_B_Oncology,Oseltamivir,146,5
+2024-02-18,Hosp_B_Oncology,Cough Syrup,218,6
+2024-02-19,Hosp_B_Oncology,Paracetamol,104,9
+2024-02-19,Hosp_B_Oncology,Ibuprofen,239,8
+2024-02-19,Hosp_B_Oncology,Amoxicillin,104,0
+2024-02-19,Hosp_B_Oncology,Metformin,193,111
+2024-02-19,Hosp_B_Oncology,Atorvastatin,185,183
+2024-02-19,Hosp_B_Oncology,Letrozole,52,115
+2024-02-19,Hosp_B_Oncology,Trastuzumab,79,122
+2024-02-19,Hosp_B_Oncology,Oseltamivir,141,2
+2024-02-19,Hosp_B_Oncology,Cough Syrup,153,5
+2024-02-20,Hosp_B_Oncology,Paracetamol,220,5
+2024-02-20,Hosp_B_Oncology,Ibuprofen,109,4
+2024-02-20,Hosp_B_Oncology,Amoxicillin,293,9
+2024-02-20,Hosp_B_Oncology,Metformin,61,148
+2024-02-20,Hosp_B_Oncology,Atorvastatin,91,137
+2024-02-20,Hosp_B_Oncology,Letrozole,131,144
+2024-02-20,Hosp_B_Oncology,Trastuzumab,84,129
+2024-02-20,Hosp_B_Oncology,Oseltamivir,265,9
+2024-02-20,Hosp_B_Oncology,Cough Syrup,207,5
+2024-02-21,Hosp_B_Oncology,Paracetamol,183,8
+2024-02-21,Hosp_B_Oncology,Ibuprofen,190,4
+2024-02-21,Hosp_B_Oncology,Amoxicillin,275,7
+2024-02-21,Hosp_B_Oncology,Metformin,198,197
+2024-02-21,Hosp_B_Oncology,Atorvastatin,245,124
+2024-02-21,Hosp_B_Oncology,Letrozole,128,167
+2024-02-21,Hosp_B_Oncology,Trastuzumab,222,159
+2024-02-21,Hosp_B_Oncology,Oseltamivir,61,3
+2024-02-21,Hosp_B_Oncology,Cough Syrup,195,5
+2024-02-22,Hosp_B_Oncology,Paracetamol,150,6
+2024-02-22,Hosp_B_Oncology,Ibuprofen,173,3
+2024-02-22,Hosp_B_Oncology,Amoxicillin,270,3
+2024-02-22,Hosp_B_Oncology,Metformin,213,137
+2024-02-22,Hosp_B_Oncology,Atorvastatin,280,149
+2024-02-22,Hosp_B_Oncology,Letrozole,112,162
+2024-02-22,Hosp_B_Oncology,Trastuzumab,111,198
+2024-02-22,Hosp_B_Oncology,Oseltamivir,56,5
+2024-02-22,Hosp_B_Oncology,Cough Syrup,63,6
+2024-02-23,Hosp_B_Oncology,Paracetamol,276,8
+2024-02-23,Hosp_B_Oncology,Ibuprofen,270,3
+2024-02-23,Hosp_B_Oncology,Amoxicillin,206,5
+2024-02-23,Hosp_B_Oncology,Metformin,91,120
+2024-02-23,Hosp_B_Oncology,Atorvastatin,91,112
+2024-02-23,Hosp_B_Oncology,Letrozole,162,163
+2024-02-23,Hosp_B_Oncology,Trastuzumab,66,108
+2024-02-23,Hosp_B_Oncology,Oseltamivir,218,0
+2024-02-23,Hosp_B_Oncology,Cough Syrup,179,0
+2024-02-24,Hosp_B_Oncology,Paracetamol,182,3
+2024-02-24,Hosp_B_Oncology,Ibuprofen,70,7
+2024-02-24,Hosp_B_Oncology,Amoxicillin,107,3
+2024-02-24,Hosp_B_Oncology,Metformin,188,151
+2024-02-24,Hosp_B_Oncology,Atorvastatin,192,182
+2024-02-24,Hosp_B_Oncology,Letrozole,184,127
+2024-02-24,Hosp_B_Oncology,Trastuzumab,100,157
+2024-02-24,Hosp_B_Oncology,Oseltamivir,54,4
+2024-02-24,Hosp_B_Oncology,Cough Syrup,143,5
+2024-02-25,Hosp_B_Oncology,Paracetamol,275,9
+2024-02-25,Hosp_B_Oncology,Ibuprofen,64,0
+2024-02-25,Hosp_B_Oncology,Amoxicillin,217,1
+2024-02-25,Hosp_B_Oncology,Metformin,232,172
+2024-02-25,Hosp_B_Oncology,Atorvastatin,202,158
+2024-02-25,Hosp_B_Oncology,Letrozole,127,188
+2024-02-25,Hosp_B_Oncology,Trastuzumab,163,121
+2024-02-25,Hosp_B_Oncology,Oseltamivir,293,3
+2024-02-25,Hosp_B_Oncology,Cough Syrup,262,2
+2024-02-26,Hosp_B_Oncology,Paracetamol,254,5
+2024-02-26,Hosp_B_Oncology,Ibuprofen,220,4
+2024-02-26,Hosp_B_Oncology,Amoxicillin,238,0
+2024-02-26,Hosp_B_Oncology,Metformin,233,102
+2024-02-26,Hosp_B_Oncology,Atorvastatin,240,118
+2024-02-26,Hosp_B_Oncology,Letrozole,72,128
+2024-02-26,Hosp_B_Oncology,Trastuzumab,79,138
+2024-02-26,Hosp_B_Oncology,Oseltamivir,157,8
+2024-02-26,Hosp_B_Oncology,Cough Syrup,177,4
+2024-02-27,Hosp_B_Oncology,Paracetamol,255,8
+2024-02-27,Hosp_B_Oncology,Ibuprofen,211,4
+2024-02-27,Hosp_B_Oncology,Amoxicillin,170,3
+2024-02-27,Hosp_B_Oncology,Metformin,124,115
+2024-02-27,Hosp_B_Oncology,Atorvastatin,292,194
+2024-02-27,Hosp_B_Oncology,Letrozole,296,169
+2024-02-27,Hosp_B_Oncology,Trastuzumab,105,182
+2024-02-27,Hosp_B_Oncology,Oseltamivir,150,9
+2024-02-27,Hosp_B_Oncology,Cough Syrup,181,3
+2024-02-28,Hosp_B_Oncology,Paracetamol,159,2
+2024-02-28,Hosp_B_Oncology,Ibuprofen,199,7
+2024-02-28,Hosp_B_Oncology,Amoxicillin,158,9
+2024-02-28,Hosp_B_Oncology,Metformin,279,130
+2024-02-28,Hosp_B_Oncology,Atorvastatin,149,163
+2024-02-28,Hosp_B_Oncology,Letrozole,68,147
+2024-02-28,Hosp_B_Oncology,Trastuzumab,222,199
+2024-02-28,Hosp_B_Oncology,Oseltamivir,143,6
+2024-02-28,Hosp_B_Oncology,Cough Syrup,162,6
+2024-02-29,Hosp_B_Oncology,Paracetamol,158,2
+2024-02-29,Hosp_B_Oncology,Ibuprofen,294,2
+2024-02-29,Hosp_B_Oncology,Amoxicillin,219,2
+2024-02-29,Hosp_B_Oncology,Metformin,95,125
+2024-02-29,Hosp_B_Oncology,Atorvastatin,292,168
+2024-02-29,Hosp_B_Oncology,Letrozole,142,163
+2024-02-29,Hosp_B_Oncology,Trastuzumab,214,183
+2024-02-29,Hosp_B_Oncology,Oseltamivir,98,4
+2024-02-29,Hosp_B_Oncology,Cough Syrup,123,4
+2024-03-01,Hosp_B_Oncology,Paracetamol,266,5
+2024-03-01,Hosp_B_Oncology,Ibuprofen,93,8
+2024-03-01,Hosp_B_Oncology,Amoxicillin,94,3
+2024-03-01,Hosp_B_Oncology,Metformin,233,183
+2024-03-01,Hosp_B_Oncology,Atorvastatin,131,156
+2024-03-01,Hosp_B_Oncology,Letrozole,70,167
+2024-03-01,Hosp_B_Oncology,Trastuzumab,227,132
+2024-03-01,Hosp_B_Oncology,Oseltamivir,268,6
+2024-03-01,Hosp_B_Oncology,Cough Syrup,119,1
+2024-03-02,Hosp_B_Oncology,Paracetamol,82,0
+2024-03-02,Hosp_B_Oncology,Ibuprofen,201,1
+2024-03-02,Hosp_B_Oncology,Amoxicillin,77,9
+2024-03-02,Hosp_B_Oncology,Metformin,92,140
+2024-03-02,Hosp_B_Oncology,Atorvastatin,216,185
+2024-03-02,Hosp_B_Oncology,Letrozole,226,116
+2024-03-02,Hosp_B_Oncology,Trastuzumab,147,169
+2024-03-02,Hosp_B_Oncology,Oseltamivir,287,5
+2024-03-02,Hosp_B_Oncology,Cough Syrup,147,0
+2024-03-03,Hosp_B_Oncology,Paracetamol,263,3
+2024-03-03,Hosp_B_Oncology,Ibuprofen,141,8
+2024-03-03,Hosp_B_Oncology,Amoxicillin,217,9
+2024-03-03,Hosp_B_Oncology,Metformin,77,125
+2024-03-03,Hosp_B_Oncology,Atorvastatin,162,162
+2024-03-03,Hosp_B_Oncology,Letrozole,115,124
+2024-03-03,Hosp_B_Oncology,Trastuzumab,297,102
+2024-03-03,Hosp_B_Oncology,Oseltamivir,249,0
+2024-03-03,Hosp_B_Oncology,Cough Syrup,91,3
+2024-03-04,Hosp_B_Oncology,Paracetamol,158,2
+2024-03-04,Hosp_B_Oncology,Ibuprofen,76,1
+2024-03-04,Hosp_B_Oncology,Amoxicillin,156,7
+2024-03-04,Hosp_B_Oncology,Metformin,279,132
+2024-03-04,Hosp_B_Oncology,Atorvastatin,269,100
+2024-03-04,Hosp_B_Oncology,Letrozole,296,107
+2024-03-04,Hosp_B_Oncology,Trastuzumab,150,131
+2024-03-04,Hosp_B_Oncology,Oseltamivir,173,4
+2024-03-04,Hosp_B_Oncology,Cough Syrup,53,5
+2024-03-05,Hosp_B_Oncology,Paracetamol,270,8
+2024-03-05,Hosp_B_Oncology,Ibuprofen,165,5
+2024-03-05,Hosp_B_Oncology,Amoxicillin,227,5
+2024-03-05,Hosp_B_Oncology,Metformin,260,159
+2024-03-05,Hosp_B_Oncology,Atorvastatin,221,110
+2024-03-05,Hosp_B_Oncology,Letrozole,243,146
+2024-03-05,Hosp_B_Oncology,Trastuzumab,157,172
+2024-03-05,Hosp_B_Oncology,Oseltamivir,262,7
+2024-03-05,Hosp_B_Oncology,Cough Syrup,275,5
+2024-03-06,Hosp_B_Oncology,Paracetamol,247,8
+2024-03-06,Hosp_B_Oncology,Ibuprofen,197,0
+2024-03-06,Hosp_B_Oncology,Amoxicillin,249,6
+2024-03-06,Hosp_B_Oncology,Metformin,136,162
+2024-03-06,Hosp_B_Oncology,Atorvastatin,116,103
+2024-03-06,Hosp_B_Oncology,Letrozole,235,124
+2024-03-06,Hosp_B_Oncology,Trastuzumab,96,137
+2024-03-06,Hosp_B_Oncology,Oseltamivir,192,4
+2024-03-06,Hosp_B_Oncology,Cough Syrup,276,8
+2024-03-07,Hosp_B_Oncology,Paracetamol,264,5
+2024-03-07,Hosp_B_Oncology,Ibuprofen,225,8
+2024-03-07,Hosp_B_Oncology,Amoxicillin,132,2
+2024-03-07,Hosp_B_Oncology,Metformin,180,141
+2024-03-07,Hosp_B_Oncology,Atorvastatin,68,172
+2024-03-07,Hosp_B_Oncology,Letrozole,77,183
+2024-03-07,Hosp_B_Oncology,Trastuzumab,222,170
+2024-03-07,Hosp_B_Oncology,Oseltamivir,255,8
+2024-03-07,Hosp_B_Oncology,Cough Syrup,173,6
+2024-03-08,Hosp_B_Oncology,Paracetamol,111,0
+2024-03-08,Hosp_B_Oncology,Ibuprofen,225,2
+2024-03-08,Hosp_B_Oncology,Amoxicillin,60,1
+2024-03-08,Hosp_B_Oncology,Metformin,262,120
+2024-03-08,Hosp_B_Oncology,Atorvastatin,118,147
+2024-03-08,Hosp_B_Oncology,Letrozole,69,166
+2024-03-08,Hosp_B_Oncology,Trastuzumab,221,132
+2024-03-08,Hosp_B_Oncology,Oseltamivir,294,8
+2024-03-08,Hosp_B_Oncology,Cough Syrup,238,8
+2024-03-09,Hosp_B_Oncology,Paracetamol,285,1
+2024-03-09,Hosp_B_Oncology,Ibuprofen,265,1
+2024-03-09,Hosp_B_Oncology,Amoxicillin,140,6
+2024-03-09,Hosp_B_Oncology,Metformin,154,100
+2024-03-09,Hosp_B_Oncology,Atorvastatin,121,186
+2024-03-09,Hosp_B_Oncology,Letrozole,215,105
+2024-03-09,Hosp_B_Oncology,Trastuzumab,263,124
+2024-03-09,Hosp_B_Oncology,Oseltamivir,259,0
+2024-03-09,Hosp_B_Oncology,Cough Syrup,110,5
+2024-03-10,Hosp_B_Oncology,Paracetamol,98,8
+2024-03-10,Hosp_B_Oncology,Ibuprofen,66,7
+2024-03-10,Hosp_B_Oncology,Amoxicillin,70,2
+2024-03-10,Hosp_B_Oncology,Metformin,108,138
+2024-03-10,Hosp_B_Oncology,Atorvastatin,232,140
+2024-03-10,Hosp_B_Oncology,Letrozole,88,112
+2024-03-10,Hosp_B_Oncology,Trastuzumab,241,110
+2024-03-10,Hosp_B_Oncology,Oseltamivir,287,2
+2024-03-10,Hosp_B_Oncology,Cough Syrup,188,0
+2024-03-11,Hosp_B_Oncology,Paracetamol,176,3
+2024-03-11,Hosp_B_Oncology,Ibuprofen,131,4
+2024-03-11,Hosp_B_Oncology,Amoxicillin,196,7
+2024-03-11,Hosp_B_Oncology,Metformin,133,196
+2024-03-11,Hosp_B_Oncology,Atorvastatin,125,114
+2024-03-11,Hosp_B_Oncology,Letrozole,90,138
+2024-03-11,Hosp_B_Oncology,Trastuzumab,51,162
+2024-03-11,Hosp_B_Oncology,Oseltamivir,78,8
+2024-03-11,Hosp_B_Oncology,Cough Syrup,251,1
+2024-03-12,Hosp_B_Oncology,Paracetamol,202,6
+2024-03-12,Hosp_B_Oncology,Ibuprofen,201,8
+2024-03-12,Hosp_B_Oncology,Amoxicillin,87,4
+2024-03-12,Hosp_B_Oncology,Metformin,231,117
+2024-03-12,Hosp_B_Oncology,Atorvastatin,213,198
+2024-03-12,Hosp_B_Oncology,Letrozole,222,172
+2024-03-12,Hosp_B_Oncology,Trastuzumab,230,129
+2024-03-12,Hosp_B_Oncology,Oseltamivir,237,1
+2024-03-12,Hosp_B_Oncology,Cough Syrup,81,2
+2024-03-13,Hosp_B_Oncology,Paracetamol,188,0
+2024-03-13,Hosp_B_Oncology,Ibuprofen,162,5
+2024-03-13,Hosp_B_Oncology,Amoxicillin,113,4
+2024-03-13,Hosp_B_Oncology,Metformin,185,133
+2024-03-13,Hosp_B_Oncology,Atorvastatin,225,155
+2024-03-13,Hosp_B_Oncology,Letrozole,253,164
+2024-03-13,Hosp_B_Oncology,Trastuzumab,80,103
+2024-03-13,Hosp_B_Oncology,Oseltamivir,162,1
+2024-03-13,Hosp_B_Oncology,Cough Syrup,118,7
+2024-03-14,Hosp_B_Oncology,Paracetamol,273,5
+2024-03-14,Hosp_B_Oncology,Ibuprofen,117,4
+2024-03-14,Hosp_B_Oncology,Amoxicillin,214,8
+2024-03-14,Hosp_B_Oncology,Metformin,98,112
+2024-03-14,Hosp_B_Oncology,Atorvastatin,211,185
+2024-03-14,Hosp_B_Oncology,Letrozole,102,186
+2024-03-14,Hosp_B_Oncology,Trastuzumab,228,102
+2024-03-14,Hosp_B_Oncology,Oseltamivir,91,1
+2024-03-14,Hosp_B_Oncology,Cough Syrup,209,2
+2024-03-15,Hosp_B_Oncology,Paracetamol,113,4
+2024-03-15,Hosp_B_Oncology,Ibuprofen,147,5
+2024-03-15,Hosp_B_Oncology,Amoxicillin,222,5
+2024-03-15,Hosp_B_Oncology,Metformin,198,110
+2024-03-15,Hosp_B_Oncology,Atorvastatin,280,191
+2024-03-15,Hosp_B_Oncology,Letrozole,54,180
+2024-03-15,Hosp_B_Oncology,Trastuzumab,233,119
+2024-03-15,Hosp_B_Oncology,Oseltamivir,218,9
+2024-03-15,Hosp_B_Oncology,Cough Syrup,61,5
+2024-03-16,Hosp_B_Oncology,Paracetamol,87,2
+2024-03-16,Hosp_B_Oncology,Ibuprofen,236,4
+2024-03-16,Hosp_B_Oncology,Amoxicillin,62,6
+2024-03-16,Hosp_B_Oncology,Metformin,257,195
+2024-03-16,Hosp_B_Oncology,Atorvastatin,71,192
+2024-03-16,Hosp_B_Oncology,Letrozole,263,142
+2024-03-16,Hosp_B_Oncology,Trastuzumab,116,153
+2024-03-16,Hosp_B_Oncology,Oseltamivir,187,9
+2024-03-16,Hosp_B_Oncology,Cough Syrup,113,4
+2024-03-17,Hosp_B_Oncology,Paracetamol,153,6
+2024-03-17,Hosp_B_Oncology,Ibuprofen,58,1
+2024-03-17,Hosp_B_Oncology,Amoxicillin,223,3
+2024-03-17,Hosp_B_Oncology,Metformin,207,194
+2024-03-17,Hosp_B_Oncology,Atorvastatin,151,174
+2024-03-17,Hosp_B_Oncology,Letrozole,148,171
+2024-03-17,Hosp_B_Oncology,Trastuzumab,52,113
+2024-03-17,Hosp_B_Oncology,Oseltamivir,237,1
+2024-03-17,Hosp_B_Oncology,Cough Syrup,94,2
+2024-03-18,Hosp_B_Oncology,Paracetamol,70,2
+2024-03-18,Hosp_B_Oncology,Ibuprofen,102,2
+2024-03-18,Hosp_B_Oncology,Amoxicillin,106,8
+2024-03-18,Hosp_B_Oncology,Metformin,263,130
+2024-03-18,Hosp_B_Oncology,Atorvastatin,130,154
+2024-03-18,Hosp_B_Oncology,Letrozole,72,131
+2024-03-18,Hosp_B_Oncology,Trastuzumab,239,173
+2024-03-18,Hosp_B_Oncology,Oseltamivir,59,3
+2024-03-18,Hosp_B_Oncology,Cough Syrup,249,5
+2024-03-19,Hosp_B_Oncology,Paracetamol,170,8
+2024-03-19,Hosp_B_Oncology,Ibuprofen,114,2
+2024-03-19,Hosp_B_Oncology,Amoxicillin,186,1
+2024-03-19,Hosp_B_Oncology,Metformin,221,167
+2024-03-19,Hosp_B_Oncology,Atorvastatin,149,181
+2024-03-19,Hosp_B_Oncology,Letrozole,192,150
+2024-03-19,Hosp_B_Oncology,Trastuzumab,190,182
+2024-03-19,Hosp_B_Oncology,Oseltamivir,226,5
+2024-03-19,Hosp_B_Oncology,Cough Syrup,161,7
+2024-03-20,Hosp_B_Oncology,Paracetamol,148,1
+2024-03-20,Hosp_B_Oncology,Ibuprofen,255,2
+2024-03-20,Hosp_B_Oncology,Amoxicillin,285,8
+2024-03-20,Hosp_B_Oncology,Metformin,173,170
+2024-03-20,Hosp_B_Oncology,Atorvastatin,282,112
+2024-03-20,Hosp_B_Oncology,Letrozole,259,112
+2024-03-20,Hosp_B_Oncology,Trastuzumab,149,130
+2024-03-20,Hosp_B_Oncology,Oseltamivir,179,8
+2024-03-20,Hosp_B_Oncology,Cough Syrup,122,5
+2024-03-21,Hosp_B_Oncology,Paracetamol,73,1
+2024-03-21,Hosp_B_Oncology,Ibuprofen,263,0
+2024-03-21,Hosp_B_Oncology,Amoxicillin,149,9
+2024-03-21,Hosp_B_Oncology,Metformin,212,124
+2024-03-21,Hosp_B_Oncology,Atorvastatin,180,116
+2024-03-21,Hosp_B_Oncology,Letrozole,61,153
+2024-03-21,Hosp_B_Oncology,Trastuzumab,165,123
+2024-03-21,Hosp_B_Oncology,Oseltamivir,78,8
+2024-03-21,Hosp_B_Oncology,Cough Syrup,277,9
+2024-03-22,Hosp_B_Oncology,Paracetamol,254,6
+2024-03-22,Hosp_B_Oncology,Ibuprofen,277,2
+2024-03-22,Hosp_B_Oncology,Amoxicillin,250,7
+2024-03-22,Hosp_B_Oncology,Metformin,274,186
+2024-03-22,Hosp_B_Oncology,Atorvastatin,266,171
+2024-03-22,Hosp_B_Oncology,Letrozole,94,185
+2024-03-22,Hosp_B_Oncology,Trastuzumab,108,103
+2024-03-22,Hosp_B_Oncology,Oseltamivir,153,2
+2024-03-22,Hosp_B_Oncology,Cough Syrup,206,8
+2024-03-23,Hosp_B_Oncology,Paracetamol,205,0
+2024-03-23,Hosp_B_Oncology,Ibuprofen,98,3
+2024-03-23,Hosp_B_Oncology,Amoxicillin,151,7
+2024-03-23,Hosp_B_Oncology,Metformin,231,159
+2024-03-23,Hosp_B_Oncology,Atorvastatin,106,146
+2024-03-23,Hosp_B_Oncology,Letrozole,208,145
+2024-03-23,Hosp_B_Oncology,Trastuzumab,291,125
+2024-03-23,Hosp_B_Oncology,Oseltamivir,290,1
+2024-03-23,Hosp_B_Oncology,Cough Syrup,54,3
+2024-03-24,Hosp_B_Oncology,Paracetamol,60,5
+2024-03-24,Hosp_B_Oncology,Ibuprofen,218,3
+2024-03-24,Hosp_B_Oncology,Amoxicillin,148,7
+2024-03-24,Hosp_B_Oncology,Metformin,113,158
+2024-03-24,Hosp_B_Oncology,Atorvastatin,139,161
+2024-03-24,Hosp_B_Oncology,Letrozole,298,175
+2024-03-24,Hosp_B_Oncology,Trastuzumab,188,188
+2024-03-24,Hosp_B_Oncology,Oseltamivir,67,2
+2024-03-24,Hosp_B_Oncology,Cough Syrup,264,6
+2024-03-25,Hosp_B_Oncology,Paracetamol,85,4
+2024-03-25,Hosp_B_Oncology,Ibuprofen,269,9
+2024-03-25,Hosp_B_Oncology,Amoxicillin,220,4
+2024-03-25,Hosp_B_Oncology,Metformin,265,141
+2024-03-25,Hosp_B_Oncology,Atorvastatin,153,165
+2024-03-25,Hosp_B_Oncology,Letrozole,104,171
+2024-03-25,Hosp_B_Oncology,Trastuzumab,225,190
+2024-03-25,Hosp_B_Oncology,Oseltamivir,71,4
+2024-03-25,Hosp_B_Oncology,Cough Syrup,204,8
+2024-03-26,Hosp_B_Oncology,Paracetamol,158,3
+2024-03-26,Hosp_B_Oncology,Ibuprofen,165,6
+2024-03-26,Hosp_B_Oncology,Amoxicillin,59,8
+2024-03-26,Hosp_B_Oncology,Metformin,154,104
+2024-03-26,Hosp_B_Oncology,Atorvastatin,171,164
+2024-03-26,Hosp_B_Oncology,Letrozole,194,121
+2024-03-26,Hosp_B_Oncology,Trastuzumab,147,140
+2024-03-26,Hosp_B_Oncology,Oseltamivir,270,3
+2024-03-26,Hosp_B_Oncology,Cough Syrup,246,7
+2024-03-27,Hosp_B_Oncology,Paracetamol,73,7
+2024-03-27,Hosp_B_Oncology,Ibuprofen,240,3
+2024-03-27,Hosp_B_Oncology,Amoxicillin,275,7
+2024-03-27,Hosp_B_Oncology,Metformin,73,103
+2024-03-27,Hosp_B_Oncology,Atorvastatin,116,133
+2024-03-27,Hosp_B_Oncology,Letrozole,234,148
+2024-03-27,Hosp_B_Oncology,Trastuzumab,264,152
+2024-03-27,Hosp_B_Oncology,Oseltamivir,297,3
+2024-03-27,Hosp_B_Oncology,Cough Syrup,72,4
+2024-03-28,Hosp_B_Oncology,Paracetamol,96,5
+2024-03-28,Hosp_B_Oncology,Ibuprofen,277,6
+2024-03-28,Hosp_B_Oncology,Amoxicillin,65,7
+2024-03-28,Hosp_B_Oncology,Metformin,71,184
+2024-03-28,Hosp_B_Oncology,Atorvastatin,103,120
+2024-03-28,Hosp_B_Oncology,Letrozole,249,115
+2024-03-28,Hosp_B_Oncology,Trastuzumab,108,130
+2024-03-28,Hosp_B_Oncology,Oseltamivir,219,9
+2024-03-28,Hosp_B_Oncology,Cough Syrup,81,1
+2024-03-29,Hosp_B_Oncology,Paracetamol,218,8
+2024-03-29,Hosp_B_Oncology,Ibuprofen,190,5
+2024-03-29,Hosp_B_Oncology,Amoxicillin,55,3
+2024-03-29,Hosp_B_Oncology,Metformin,101,102
+2024-03-29,Hosp_B_Oncology,Atorvastatin,130,162
+2024-03-29,Hosp_B_Oncology,Letrozole,98,175
+2024-03-29,Hosp_B_Oncology,Trastuzumab,161,146
+2024-03-29,Hosp_B_Oncology,Oseltamivir,158,6
+2024-03-29,Hosp_B_Oncology,Cough Syrup,241,0
+2024-03-30,Hosp_B_Oncology,Paracetamol,276,2
+2024-03-30,Hosp_B_Oncology,Ibuprofen,253,9
+2024-03-30,Hosp_B_Oncology,Amoxicillin,138,3
+2024-03-30,Hosp_B_Oncology,Metformin,144,167
+2024-03-30,Hosp_B_Oncology,Atorvastatin,221,122
+2024-03-30,Hosp_B_Oncology,Letrozole,51,121
+2024-03-30,Hosp_B_Oncology,Trastuzumab,164,156
+2024-03-30,Hosp_B_Oncology,Oseltamivir,278,7
+2024-03-30,Hosp_B_Oncology,Cough Syrup,56,7
+2024-03-31,Hosp_B_Oncology,Paracetamol,246,1
+2024-03-31,Hosp_B_Oncology,Ibuprofen,271,6
+2024-03-31,Hosp_B_Oncology,Amoxicillin,245,0
+2024-03-31,Hosp_B_Oncology,Metformin,190,183
+2024-03-31,Hosp_B_Oncology,Atorvastatin,231,106
+2024-03-31,Hosp_B_Oncology,Letrozole,128,186
+2024-03-31,Hosp_B_Oncology,Trastuzumab,63,186
+2024-03-31,Hosp_B_Oncology,Oseltamivir,196,5
+2024-03-31,Hosp_B_Oncology,Cough Syrup,270,7
+2024-04-01,Hosp_B_Oncology,Paracetamol,220,6
+2024-04-01,Hosp_B_Oncology,Ibuprofen,88,5
+2024-04-01,Hosp_B_Oncology,Amoxicillin,69,8
+2024-04-01,Hosp_B_Oncology,Metformin,231,119
+2024-04-01,Hosp_B_Oncology,Atorvastatin,157,118
+2024-04-01,Hosp_B_Oncology,Letrozole,133,198
+2024-04-01,Hosp_B_Oncology,Trastuzumab,160,165
+2024-04-01,Hosp_B_Oncology,Oseltamivir,207,4
+2024-04-01,Hosp_B_Oncology,Cough Syrup,83,5
+2024-04-02,Hosp_B_Oncology,Paracetamol,162,3
+2024-04-02,Hosp_B_Oncology,Ibuprofen,56,0
+2024-04-02,Hosp_B_Oncology,Amoxicillin,186,3
+2024-04-02,Hosp_B_Oncology,Metformin,132,100
+2024-04-02,Hosp_B_Oncology,Atorvastatin,187,135
+2024-04-02,Hosp_B_Oncology,Letrozole,122,145
+2024-04-02,Hosp_B_Oncology,Trastuzumab,155,131
+2024-04-02,Hosp_B_Oncology,Oseltamivir,81,5
+2024-04-02,Hosp_B_Oncology,Cough Syrup,225,5
+2024-04-03,Hosp_B_Oncology,Paracetamol,274,8
+2024-04-03,Hosp_B_Oncology,Ibuprofen,159,4
+2024-04-03,Hosp_B_Oncology,Amoxicillin,92,1
+2024-04-03,Hosp_B_Oncology,Metformin,89,174
+2024-04-03,Hosp_B_Oncology,Atorvastatin,110,149
+2024-04-03,Hosp_B_Oncology,Letrozole,244,161
+2024-04-03,Hosp_B_Oncology,Trastuzumab,107,132
+2024-04-03,Hosp_B_Oncology,Oseltamivir,124,1
+2024-04-03,Hosp_B_Oncology,Cough Syrup,143,6
+2024-04-04,Hosp_B_Oncology,Paracetamol,279,9
+2024-04-04,Hosp_B_Oncology,Ibuprofen,217,3
+2024-04-04,Hosp_B_Oncology,Amoxicillin,163,4
+2024-04-04,Hosp_B_Oncology,Metformin,128,191
+2024-04-04,Hosp_B_Oncology,Atorvastatin,67,197
+2024-04-04,Hosp_B_Oncology,Letrozole,112,121
+2024-04-04,Hosp_B_Oncology,Trastuzumab,188,157
+2024-04-04,Hosp_B_Oncology,Oseltamivir,234,3
+2024-04-04,Hosp_B_Oncology,Cough Syrup,263,6
+2024-04-05,Hosp_B_Oncology,Paracetamol,72,8
+2024-04-05,Hosp_B_Oncology,Ibuprofen,70,9
+2024-04-05,Hosp_B_Oncology,Amoxicillin,101,7
+2024-04-05,Hosp_B_Oncology,Metformin,202,154
+2024-04-05,Hosp_B_Oncology,Atorvastatin,95,131
+2024-04-05,Hosp_B_Oncology,Letrozole,104,195
+2024-04-05,Hosp_B_Oncology,Trastuzumab,182,135
+2024-04-05,Hosp_B_Oncology,Oseltamivir,159,9
+2024-04-05,Hosp_B_Oncology,Cough Syrup,226,9
+2024-04-06,Hosp_B_Oncology,Paracetamol,134,1
+2024-04-06,Hosp_B_Oncology,Ibuprofen,278,5
+2024-04-06,Hosp_B_Oncology,Amoxicillin,157,1
+2024-04-06,Hosp_B_Oncology,Metformin,143,121
+2024-04-06,Hosp_B_Oncology,Atorvastatin,295,132
+2024-04-06,Hosp_B_Oncology,Letrozole,207,180
+2024-04-06,Hosp_B_Oncology,Trastuzumab,175,131
+2024-04-06,Hosp_B_Oncology,Oseltamivir,219,2
+2024-04-06,Hosp_B_Oncology,Cough Syrup,255,9
+2024-04-07,Hosp_B_Oncology,Paracetamol,294,6
+2024-04-07,Hosp_B_Oncology,Ibuprofen,177,7
+2024-04-07,Hosp_B_Oncology,Amoxicillin,75,0
+2024-04-07,Hosp_B_Oncology,Metformin,120,112
+2024-04-07,Hosp_B_Oncology,Atorvastatin,118,125
+2024-04-07,Hosp_B_Oncology,Letrozole,98,166
+2024-04-07,Hosp_B_Oncology,Trastuzumab,56,157
+2024-04-07,Hosp_B_Oncology,Oseltamivir,98,6
+2024-04-07,Hosp_B_Oncology,Cough Syrup,102,0
+2024-04-08,Hosp_B_Oncology,Paracetamol,228,1
+2024-04-08,Hosp_B_Oncology,Ibuprofen,273,7
+2024-04-08,Hosp_B_Oncology,Amoxicillin,71,5
+2024-04-08,Hosp_B_Oncology,Metformin,253,156
+2024-04-08,Hosp_B_Oncology,Atorvastatin,153,135
+2024-04-08,Hosp_B_Oncology,Letrozole,128,191
+2024-04-08,Hosp_B_Oncology,Trastuzumab,165,156
+2024-04-08,Hosp_B_Oncology,Oseltamivir,98,1
+2024-04-08,Hosp_B_Oncology,Cough Syrup,115,5
+2024-04-09,Hosp_B_Oncology,Paracetamol,250,9
+2024-04-09,Hosp_B_Oncology,Ibuprofen,107,4
+2024-04-09,Hosp_B_Oncology,Amoxicillin,161,6
+2024-04-09,Hosp_B_Oncology,Metformin,273,157
+2024-04-09,Hosp_B_Oncology,Atorvastatin,293,180
+2024-04-09,Hosp_B_Oncology,Letrozole,148,182
+2024-04-09,Hosp_B_Oncology,Trastuzumab,241,143
+2024-04-09,Hosp_B_Oncology,Oseltamivir,78,6
+2024-04-09,Hosp_B_Oncology,Cough Syrup,141,8
+2024-04-10,Hosp_B_Oncology,Paracetamol,129,0
+2024-04-10,Hosp_B_Oncology,Ibuprofen,267,1
+2024-04-10,Hosp_B_Oncology,Amoxicillin,227,2
+2024-04-10,Hosp_B_Oncology,Metformin,139,122
+2024-04-10,Hosp_B_Oncology,Atorvastatin,195,161
+2024-04-10,Hosp_B_Oncology,Letrozole,273,161
+2024-04-10,Hosp_B_Oncology,Trastuzumab,87,166
+2024-04-10,Hosp_B_Oncology,Oseltamivir,215,2
+2024-04-10,Hosp_B_Oncology,Cough Syrup,271,0
+2024-04-11,Hosp_B_Oncology,Paracetamol,225,5
+2024-04-11,Hosp_B_Oncology,Ibuprofen,266,7
+2024-04-11,Hosp_B_Oncology,Amoxicillin,159,7
+2024-04-11,Hosp_B_Oncology,Metformin,281,128
+2024-04-11,Hosp_B_Oncology,Atorvastatin,248,176
+2024-04-11,Hosp_B_Oncology,Letrozole,279,117
+2024-04-11,Hosp_B_Oncology,Trastuzumab,51,107
+2024-04-11,Hosp_B_Oncology,Oseltamivir,124,0
+2024-04-11,Hosp_B_Oncology,Cough Syrup,231,5
+2024-04-12,Hosp_B_Oncology,Paracetamol,235,2
+2024-04-12,Hosp_B_Oncology,Ibuprofen,52,4
+2024-04-12,Hosp_B_Oncology,Amoxicillin,134,9
+2024-04-12,Hosp_B_Oncology,Metformin,132,124
+2024-04-12,Hosp_B_Oncology,Atorvastatin,117,160
+2024-04-12,Hosp_B_Oncology,Letrozole,78,118
+2024-04-12,Hosp_B_Oncology,Trastuzumab,220,165
+2024-04-12,Hosp_B_Oncology,Oseltamivir,123,8
+2024-04-12,Hosp_B_Oncology,Cough Syrup,69,2
+2024-04-13,Hosp_B_Oncology,Paracetamol,218,8
+2024-04-13,Hosp_B_Oncology,Ibuprofen,282,5
+2024-04-13,Hosp_B_Oncology,Amoxicillin,251,5
+2024-04-13,Hosp_B_Oncology,Metformin,132,164
+2024-04-13,Hosp_B_Oncology,Atorvastatin,113,170
+2024-04-13,Hosp_B_Oncology,Letrozole,53,164
+2024-04-13,Hosp_B_Oncology,Trastuzumab,192,175
+2024-04-13,Hosp_B_Oncology,Oseltamivir,199,5
+2024-04-13,Hosp_B_Oncology,Cough Syrup,291,0
+2024-04-14,Hosp_B_Oncology,Paracetamol,57,7
+2024-04-14,Hosp_B_Oncology,Ibuprofen,267,0
+2024-04-14,Hosp_B_Oncology,Amoxicillin,177,3
+2024-04-14,Hosp_B_Oncology,Metformin,165,154
+2024-04-14,Hosp_B_Oncology,Atorvastatin,193,145
+2024-04-14,Hosp_B_Oncology,Letrozole,111,106
+2024-04-14,Hosp_B_Oncology,Trastuzumab,257,144
+2024-04-14,Hosp_B_Oncology,Oseltamivir,236,7
+2024-04-14,Hosp_B_Oncology,Cough Syrup,225,4
+2024-04-15,Hosp_B_Oncology,Paracetamol,151,7
+2024-04-15,Hosp_B_Oncology,Ibuprofen,187,3
+2024-04-15,Hosp_B_Oncology,Amoxicillin,64,4
+2024-04-15,Hosp_B_Oncology,Metformin,133,102
+2024-04-15,Hosp_B_Oncology,Atorvastatin,86,139
+2024-04-15,Hosp_B_Oncology,Letrozole,121,139
+2024-04-15,Hosp_B_Oncology,Trastuzumab,285,155
+2024-04-15,Hosp_B_Oncology,Oseltamivir,200,7
+2024-04-15,Hosp_B_Oncology,Cough Syrup,188,7
+2024-04-16,Hosp_B_Oncology,Paracetamol,114,6
+2024-04-16,Hosp_B_Oncology,Ibuprofen,272,9
+2024-04-16,Hosp_B_Oncology,Amoxicillin,106,6
+2024-04-16,Hosp_B_Oncology,Metformin,155,152
+2024-04-16,Hosp_B_Oncology,Atorvastatin,233,197
+2024-04-16,Hosp_B_Oncology,Letrozole,58,121
+2024-04-16,Hosp_B_Oncology,Trastuzumab,190,188
+2024-04-16,Hosp_B_Oncology,Oseltamivir,225,1
+2024-04-16,Hosp_B_Oncology,Cough Syrup,164,7
+2024-04-17,Hosp_B_Oncology,Paracetamol,290,4
+2024-04-17,Hosp_B_Oncology,Ibuprofen,183,2
+2024-04-17,Hosp_B_Oncology,Amoxicillin,126,8
+2024-04-17,Hosp_B_Oncology,Metformin,237,189
+2024-04-17,Hosp_B_Oncology,Atorvastatin,63,194
+2024-04-17,Hosp_B_Oncology,Letrozole,103,103
+2024-04-17,Hosp_B_Oncology,Trastuzumab,88,171
+2024-04-17,Hosp_B_Oncology,Oseltamivir,74,5
+2024-04-17,Hosp_B_Oncology,Cough Syrup,240,5
+2024-04-18,Hosp_B_Oncology,Paracetamol,219,1
+2024-04-18,Hosp_B_Oncology,Ibuprofen,226,3
+2024-04-18,Hosp_B_Oncology,Amoxicillin,293,0
+2024-04-18,Hosp_B_Oncology,Metformin,231,135
+2024-04-18,Hosp_B_Oncology,Atorvastatin,274,100
+2024-04-18,Hosp_B_Oncology,Letrozole,192,176
+2024-04-18,Hosp_B_Oncology,Trastuzumab,66,123
+2024-04-18,Hosp_B_Oncology,Oseltamivir,107,7
+2024-04-18,Hosp_B_Oncology,Cough Syrup,291,6
+2024-04-19,Hosp_B_Oncology,Paracetamol,177,3
+2024-04-19,Hosp_B_Oncology,Ibuprofen,207,0
+2024-04-19,Hosp_B_Oncology,Amoxicillin,106,3
+2024-04-19,Hosp_B_Oncology,Metformin,186,153
+2024-04-19,Hosp_B_Oncology,Atorvastatin,160,100
+2024-04-19,Hosp_B_Oncology,Letrozole,93,198
+2024-04-19,Hosp_B_Oncology,Trastuzumab,124,197
+2024-04-19,Hosp_B_Oncology,Oseltamivir,257,8
+2024-04-19,Hosp_B_Oncology,Cough Syrup,81,0
+2024-04-20,Hosp_B_Oncology,Paracetamol,98,4
+2024-04-20,Hosp_B_Oncology,Ibuprofen,164,1
+2024-04-20,Hosp_B_Oncology,Amoxicillin,112,7
+2024-04-20,Hosp_B_Oncology,Metformin,132,127
+2024-04-20,Hosp_B_Oncology,Atorvastatin,66,105
+2024-04-20,Hosp_B_Oncology,Letrozole,196,155
+2024-04-20,Hosp_B_Oncology,Trastuzumab,279,127
+2024-04-20,Hosp_B_Oncology,Oseltamivir,243,5
+2024-04-20,Hosp_B_Oncology,Cough Syrup,168,4
+2024-04-21,Hosp_B_Oncology,Paracetamol,186,7
+2024-04-21,Hosp_B_Oncology,Ibuprofen,125,7
+2024-04-21,Hosp_B_Oncology,Amoxicillin,168,8
+2024-04-21,Hosp_B_Oncology,Metformin,83,166
+2024-04-21,Hosp_B_Oncology,Atorvastatin,299,123
+2024-04-21,Hosp_B_Oncology,Letrozole,167,172
+2024-04-21,Hosp_B_Oncology,Trastuzumab,75,119
+2024-04-21,Hosp_B_Oncology,Oseltamivir,241,7
+2024-04-21,Hosp_B_Oncology,Cough Syrup,59,2
+2024-04-22,Hosp_B_Oncology,Paracetamol,262,0
+2024-04-22,Hosp_B_Oncology,Ibuprofen,165,5
+2024-04-22,Hosp_B_Oncology,Amoxicillin,192,9
+2024-04-22,Hosp_B_Oncology,Metformin,299,151
+2024-04-22,Hosp_B_Oncology,Atorvastatin,256,145
+2024-04-22,Hosp_B_Oncology,Letrozole,74,120
+2024-04-22,Hosp_B_Oncology,Trastuzumab,265,104
+2024-04-22,Hosp_B_Oncology,Oseltamivir,119,0
+2024-04-22,Hosp_B_Oncology,Cough Syrup,156,6
+2024-04-23,Hosp_B_Oncology,Paracetamol,79,6
+2024-04-23,Hosp_B_Oncology,Ibuprofen,139,7
+2024-04-23,Hosp_B_Oncology,Amoxicillin,240,5
+2024-04-23,Hosp_B_Oncology,Metformin,269,193
+2024-04-23,Hosp_B_Oncology,Atorvastatin,250,194
+2024-04-23,Hosp_B_Oncology,Letrozole,235,184
+2024-04-23,Hosp_B_Oncology,Trastuzumab,233,133
+2024-04-23,Hosp_B_Oncology,Oseltamivir,296,3
+2024-04-23,Hosp_B_Oncology,Cough Syrup,138,0
+2024-04-24,Hosp_B_Oncology,Paracetamol,294,7
+2024-04-24,Hosp_B_Oncology,Ibuprofen,212,5
+2024-04-24,Hosp_B_Oncology,Amoxicillin,246,5
+2024-04-24,Hosp_B_Oncology,Metformin,107,148
+2024-04-24,Hosp_B_Oncology,Atorvastatin,200,188
+2024-04-24,Hosp_B_Oncology,Letrozole,211,125
+2024-04-24,Hosp_B_Oncology,Trastuzumab,96,104
+2024-04-24,Hosp_B_Oncology,Oseltamivir,267,3
+2024-04-24,Hosp_B_Oncology,Cough Syrup,183,5
+2024-04-25,Hosp_B_Oncology,Paracetamol,190,5
+2024-04-25,Hosp_B_Oncology,Ibuprofen,107,4
+2024-04-25,Hosp_B_Oncology,Amoxicillin,161,3
+2024-04-25,Hosp_B_Oncology,Metformin,89,158
+2024-04-25,Hosp_B_Oncology,Atorvastatin,257,191
+2024-04-25,Hosp_B_Oncology,Letrozole,193,161
+2024-04-25,Hosp_B_Oncology,Trastuzumab,181,144
+2024-04-25,Hosp_B_Oncology,Oseltamivir,139,1
+2024-04-25,Hosp_B_Oncology,Cough Syrup,80,2
+2024-04-26,Hosp_B_Oncology,Paracetamol,287,3
+2024-04-26,Hosp_B_Oncology,Ibuprofen,142,6
+2024-04-26,Hosp_B_Oncology,Amoxicillin,55,9
+2024-04-26,Hosp_B_Oncology,Metformin,195,114
+2024-04-26,Hosp_B_Oncology,Atorvastatin,217,195
+2024-04-26,Hosp_B_Oncology,Letrozole,250,173
+2024-04-26,Hosp_B_Oncology,Trastuzumab,261,105
+2024-04-26,Hosp_B_Oncology,Oseltamivir,161,7
+2024-04-26,Hosp_B_Oncology,Cough Syrup,172,2
+2024-04-27,Hosp_B_Oncology,Paracetamol,96,3
+2024-04-27,Hosp_B_Oncology,Ibuprofen,264,8
+2024-04-27,Hosp_B_Oncology,Amoxicillin,205,1
+2024-04-27,Hosp_B_Oncology,Metformin,286,124
+2024-04-27,Hosp_B_Oncology,Atorvastatin,123,177
+2024-04-27,Hosp_B_Oncology,Letrozole,283,157
+2024-04-27,Hosp_B_Oncology,Trastuzumab,143,140
+2024-04-27,Hosp_B_Oncology,Oseltamivir,74,2
+2024-04-27,Hosp_B_Oncology,Cough Syrup,165,1
+2024-04-28,Hosp_B_Oncology,Paracetamol,280,5
+2024-04-28,Hosp_B_Oncology,Ibuprofen,179,9
+2024-04-28,Hosp_B_Oncology,Amoxicillin,108,7
+2024-04-28,Hosp_B_Oncology,Metformin,56,162
+2024-04-28,Hosp_B_Oncology,Atorvastatin,160,145
+2024-04-28,Hosp_B_Oncology,Letrozole,112,111
+2024-04-28,Hosp_B_Oncology,Trastuzumab,190,142
+2024-04-28,Hosp_B_Oncology,Oseltamivir,66,0
+2024-04-28,Hosp_B_Oncology,Cough Syrup,169,3
+2024-04-29,Hosp_B_Oncology,Paracetamol,199,1
+2024-04-29,Hosp_B_Oncology,Ibuprofen,246,5
+2024-04-29,Hosp_B_Oncology,Amoxicillin,149,2
+2024-04-29,Hosp_B_Oncology,Metformin,264,133
+2024-04-29,Hosp_B_Oncology,Atorvastatin,190,142
+2024-04-29,Hosp_B_Oncology,Letrozole,111,192
+2024-04-29,Hosp_B_Oncology,Trastuzumab,149,121
+2024-04-29,Hosp_B_Oncology,Oseltamivir,229,3
+2024-04-29,Hosp_B_Oncology,Cough Syrup,160,3
+2024-04-30,Hosp_B_Oncology,Paracetamol,234,4
+2024-04-30,Hosp_B_Oncology,Ibuprofen,238,2
+2024-04-30,Hosp_B_Oncology,Amoxicillin,144,4
+2024-04-30,Hosp_B_Oncology,Metformin,81,165
+2024-04-30,Hosp_B_Oncology,Atorvastatin,236,109
+2024-04-30,Hosp_B_Oncology,Letrozole,179,165
+2024-04-30,Hosp_B_Oncology,Trastuzumab,109,187
+2024-04-30,Hosp_B_Oncology,Oseltamivir,66,6
+2024-04-30,Hosp_B_Oncology,Cough Syrup,294,7
+2024-05-01,Hosp_B_Oncology,Paracetamol,162,5
+2024-05-01,Hosp_B_Oncology,Ibuprofen,243,0
+2024-05-01,Hosp_B_Oncology,Amoxicillin,193,1
+2024-05-01,Hosp_B_Oncology,Metformin,109,153
+2024-05-01,Hosp_B_Oncology,Atorvastatin,79,183
+2024-05-01,Hosp_B_Oncology,Letrozole,215,127
+2024-05-01,Hosp_B_Oncology,Trastuzumab,74,195
+2024-05-01,Hosp_B_Oncology,Oseltamivir,174,9
+2024-05-01,Hosp_B_Oncology,Cough Syrup,237,9
+2024-05-02,Hosp_B_Oncology,Paracetamol,201,5
+2024-05-02,Hosp_B_Oncology,Ibuprofen,204,1
+2024-05-02,Hosp_B_Oncology,Amoxicillin,208,8
+2024-05-02,Hosp_B_Oncology,Metformin,127,165
+2024-05-02,Hosp_B_Oncology,Atorvastatin,78,114
+2024-05-02,Hosp_B_Oncology,Letrozole,61,127
+2024-05-02,Hosp_B_Oncology,Trastuzumab,133,123
+2024-05-02,Hosp_B_Oncology,Oseltamivir,198,9
+2024-05-02,Hosp_B_Oncology,Cough Syrup,159,4
+2024-05-03,Hosp_B_Oncology,Paracetamol,286,6
+2024-05-03,Hosp_B_Oncology,Ibuprofen,191,6
+2024-05-03,Hosp_B_Oncology,Amoxicillin,95,0
+2024-05-03,Hosp_B_Oncology,Metformin,218,153
+2024-05-03,Hosp_B_Oncology,Atorvastatin,288,143
+2024-05-03,Hosp_B_Oncology,Letrozole,147,104
+2024-05-03,Hosp_B_Oncology,Trastuzumab,158,126
+2024-05-03,Hosp_B_Oncology,Oseltamivir,165,6
+2024-05-03,Hosp_B_Oncology,Cough Syrup,153,0
+2024-05-04,Hosp_B_Oncology,Paracetamol,242,9
+2024-05-04,Hosp_B_Oncology,Ibuprofen,230,0
+2024-05-04,Hosp_B_Oncology,Amoxicillin,130,1
+2024-05-04,Hosp_B_Oncology,Metformin,206,183
+2024-05-04,Hosp_B_Oncology,Atorvastatin,119,107
+2024-05-04,Hosp_B_Oncology,Letrozole,78,150
+2024-05-04,Hosp_B_Oncology,Trastuzumab,210,102
+2024-05-04,Hosp_B_Oncology,Oseltamivir,237,2
+2024-05-04,Hosp_B_Oncology,Cough Syrup,246,3
+2024-05-05,Hosp_B_Oncology,Paracetamol,289,6
+2024-05-05,Hosp_B_Oncology,Ibuprofen,228,6
+2024-05-05,Hosp_B_Oncology,Amoxicillin,255,9
+2024-05-05,Hosp_B_Oncology,Metformin,91,126
+2024-05-05,Hosp_B_Oncology,Atorvastatin,60,137
+2024-05-05,Hosp_B_Oncology,Letrozole,147,142
+2024-05-05,Hosp_B_Oncology,Trastuzumab,68,163
+2024-05-05,Hosp_B_Oncology,Oseltamivir,183,3
+2024-05-05,Hosp_B_Oncology,Cough Syrup,279,0
+2024-05-06,Hosp_B_Oncology,Paracetamol,171,5
+2024-05-06,Hosp_B_Oncology,Ibuprofen,282,6
+2024-05-06,Hosp_B_Oncology,Amoxicillin,222,6
+2024-05-06,Hosp_B_Oncology,Metformin,291,127
+2024-05-06,Hosp_B_Oncology,Atorvastatin,284,156
+2024-05-06,Hosp_B_Oncology,Letrozole,75,124
+2024-05-06,Hosp_B_Oncology,Trastuzumab,103,128
+2024-05-06,Hosp_B_Oncology,Oseltamivir,260,0
+2024-05-06,Hosp_B_Oncology,Cough Syrup,213,2
+2024-05-07,Hosp_B_Oncology,Paracetamol,237,1
+2024-05-07,Hosp_B_Oncology,Ibuprofen,53,0
+2024-05-07,Hosp_B_Oncology,Amoxicillin,181,5
+2024-05-07,Hosp_B_Oncology,Metformin,267,103
+2024-05-07,Hosp_B_Oncology,Atorvastatin,50,170
+2024-05-07,Hosp_B_Oncology,Letrozole,271,149
+2024-05-07,Hosp_B_Oncology,Trastuzumab,250,160
+2024-05-07,Hosp_B_Oncology,Oseltamivir,84,7
+2024-05-07,Hosp_B_Oncology,Cough Syrup,201,2
+2024-05-08,Hosp_B_Oncology,Paracetamol,248,0
+2024-05-08,Hosp_B_Oncology,Ibuprofen,176,9
+2024-05-08,Hosp_B_Oncology,Amoxicillin,139,6
+2024-05-08,Hosp_B_Oncology,Metformin,139,105
+2024-05-08,Hosp_B_Oncology,Atorvastatin,119,143
+2024-05-08,Hosp_B_Oncology,Letrozole,249,123
+2024-05-08,Hosp_B_Oncology,Trastuzumab,135,118
+2024-05-08,Hosp_B_Oncology,Oseltamivir,150,1
+2024-05-08,Hosp_B_Oncology,Cough Syrup,144,4
+2024-05-09,Hosp_B_Oncology,Paracetamol,171,3
+2024-05-09,Hosp_B_Oncology,Ibuprofen,172,1
+2024-05-09,Hosp_B_Oncology,Amoxicillin,245,0
+2024-05-09,Hosp_B_Oncology,Metformin,147,192
+2024-05-09,Hosp_B_Oncology,Atorvastatin,265,121
+2024-05-09,Hosp_B_Oncology,Letrozole,243,143
+2024-05-09,Hosp_B_Oncology,Trastuzumab,176,105
+2024-05-09,Hosp_B_Oncology,Oseltamivir,219,8
+2024-05-09,Hosp_B_Oncology,Cough Syrup,296,8
+2024-05-10,Hosp_B_Oncology,Paracetamol,87,2
+2024-05-10,Hosp_B_Oncology,Ibuprofen,116,7
+2024-05-10,Hosp_B_Oncology,Amoxicillin,57,6
+2024-05-10,Hosp_B_Oncology,Metformin,171,183
+2024-05-10,Hosp_B_Oncology,Atorvastatin,224,103
+2024-05-10,Hosp_B_Oncology,Letrozole,228,184
+2024-05-10,Hosp_B_Oncology,Trastuzumab,244,144
+2024-05-10,Hosp_B_Oncology,Oseltamivir,185,6
+2024-05-10,Hosp_B_Oncology,Cough Syrup,65,2
+2024-05-11,Hosp_B_Oncology,Paracetamol,195,8
+2024-05-11,Hosp_B_Oncology,Ibuprofen,141,2
+2024-05-11,Hosp_B_Oncology,Amoxicillin,105,8
+2024-05-11,Hosp_B_Oncology,Metformin,281,195
+2024-05-11,Hosp_B_Oncology,Atorvastatin,261,191
+2024-05-11,Hosp_B_Oncology,Letrozole,274,167
+2024-05-11,Hosp_B_Oncology,Trastuzumab,95,197
+2024-05-11,Hosp_B_Oncology,Oseltamivir,289,2
+2024-05-11,Hosp_B_Oncology,Cough Syrup,203,7
+2024-05-12,Hosp_B_Oncology,Paracetamol,100,6
+2024-05-12,Hosp_B_Oncology,Ibuprofen,263,6
+2024-05-12,Hosp_B_Oncology,Amoxicillin,233,5
+2024-05-12,Hosp_B_Oncology,Metformin,68,181
+2024-05-12,Hosp_B_Oncology,Atorvastatin,125,154
+2024-05-12,Hosp_B_Oncology,Letrozole,269,191
+2024-05-12,Hosp_B_Oncology,Trastuzumab,237,158
+2024-05-12,Hosp_B_Oncology,Oseltamivir,82,2
+2024-05-12,Hosp_B_Oncology,Cough Syrup,77,3
+2024-05-13,Hosp_B_Oncology,Paracetamol,256,0
+2024-05-13,Hosp_B_Oncology,Ibuprofen,198,8
+2024-05-13,Hosp_B_Oncology,Amoxicillin,152,6
+2024-05-13,Hosp_B_Oncology,Metformin,140,144
+2024-05-13,Hosp_B_Oncology,Atorvastatin,221,181
+2024-05-13,Hosp_B_Oncology,Letrozole,137,146
+2024-05-13,Hosp_B_Oncology,Trastuzumab,217,150
+2024-05-13,Hosp_B_Oncology,Oseltamivir,219,6
+2024-05-13,Hosp_B_Oncology,Cough Syrup,99,3
+2024-05-14,Hosp_B_Oncology,Paracetamol,296,4
+2024-05-14,Hosp_B_Oncology,Ibuprofen,148,0
+2024-05-14,Hosp_B_Oncology,Amoxicillin,201,2
+2024-05-14,Hosp_B_Oncology,Metformin,195,163
+2024-05-14,Hosp_B_Oncology,Atorvastatin,290,187
+2024-05-14,Hosp_B_Oncology,Letrozole,286,134
+2024-05-14,Hosp_B_Oncology,Trastuzumab,239,100
+2024-05-14,Hosp_B_Oncology,Oseltamivir,277,8
+2024-05-14,Hosp_B_Oncology,Cough Syrup,222,0
+2024-05-15,Hosp_B_Oncology,Paracetamol,79,8
+2024-05-15,Hosp_B_Oncology,Ibuprofen,293,1
+2024-05-15,Hosp_B_Oncology,Amoxicillin,237,7
+2024-05-15,Hosp_B_Oncology,Metformin,293,172
+2024-05-15,Hosp_B_Oncology,Atorvastatin,272,114
+2024-05-15,Hosp_B_Oncology,Letrozole,53,162
+2024-05-15,Hosp_B_Oncology,Trastuzumab,217,108
+2024-05-15,Hosp_B_Oncology,Oseltamivir,158,8
+2024-05-15,Hosp_B_Oncology,Cough Syrup,203,3
+2024-05-16,Hosp_B_Oncology,Paracetamol,86,9
+2024-05-16,Hosp_B_Oncology,Ibuprofen,297,8
+2024-05-16,Hosp_B_Oncology,Amoxicillin,101,6
+2024-05-16,Hosp_B_Oncology,Metformin,179,155
+2024-05-16,Hosp_B_Oncology,Atorvastatin,109,122
+2024-05-16,Hosp_B_Oncology,Letrozole,152,139
+2024-05-16,Hosp_B_Oncology,Trastuzumab,113,184
+2024-05-16,Hosp_B_Oncology,Oseltamivir,200,9
+2024-05-16,Hosp_B_Oncology,Cough Syrup,228,4
+2024-05-17,Hosp_B_Oncology,Paracetamol,260,5
+2024-05-17,Hosp_B_Oncology,Ibuprofen,149,6
+2024-05-17,Hosp_B_Oncology,Amoxicillin,79,2
+2024-05-17,Hosp_B_Oncology,Metformin,98,188
+2024-05-17,Hosp_B_Oncology,Atorvastatin,193,150
+2024-05-17,Hosp_B_Oncology,Letrozole,121,181
+2024-05-17,Hosp_B_Oncology,Trastuzumab,269,179
+2024-05-17,Hosp_B_Oncology,Oseltamivir,293,2
+2024-05-17,Hosp_B_Oncology,Cough Syrup,91,0
+2024-05-18,Hosp_B_Oncology,Paracetamol,108,6
+2024-05-18,Hosp_B_Oncology,Ibuprofen,186,0
+2024-05-18,Hosp_B_Oncology,Amoxicillin,206,7
+2024-05-18,Hosp_B_Oncology,Metformin,105,167
+2024-05-18,Hosp_B_Oncology,Atorvastatin,84,102
+2024-05-18,Hosp_B_Oncology,Letrozole,295,106
+2024-05-18,Hosp_B_Oncology,Trastuzumab,76,100
+2024-05-18,Hosp_B_Oncology,Oseltamivir,268,5
+2024-05-18,Hosp_B_Oncology,Cough Syrup,248,6
+2024-05-19,Hosp_B_Oncology,Paracetamol,99,3
+2024-05-19,Hosp_B_Oncology,Ibuprofen,296,7
+2024-05-19,Hosp_B_Oncology,Amoxicillin,128,2
+2024-05-19,Hosp_B_Oncology,Metformin,239,146
+2024-05-19,Hosp_B_Oncology,Atorvastatin,254,197
+2024-05-19,Hosp_B_Oncology,Letrozole,265,195
+2024-05-19,Hosp_B_Oncology,Trastuzumab,238,131
+2024-05-19,Hosp_B_Oncology,Oseltamivir,271,3
+2024-05-19,Hosp_B_Oncology,Cough Syrup,290,0
+2024-05-20,Hosp_B_Oncology,Paracetamol,216,1
+2024-05-20,Hosp_B_Oncology,Ibuprofen,143,5
+2024-05-20,Hosp_B_Oncology,Amoxicillin,130,6
+2024-05-20,Hosp_B_Oncology,Metformin,266,168
+2024-05-20,Hosp_B_Oncology,Atorvastatin,118,119
+2024-05-20,Hosp_B_Oncology,Letrozole,241,115
+2024-05-20,Hosp_B_Oncology,Trastuzumab,100,136
+2024-05-20,Hosp_B_Oncology,Oseltamivir,281,8
+2024-05-20,Hosp_B_Oncology,Cough Syrup,246,9
+2024-05-21,Hosp_B_Oncology,Paracetamol,155,7
+2024-05-21,Hosp_B_Oncology,Ibuprofen,105,0
+2024-05-21,Hosp_B_Oncology,Amoxicillin,62,7
+2024-05-21,Hosp_B_Oncology,Metformin,67,153
+2024-05-21,Hosp_B_Oncology,Atorvastatin,254,142
+2024-05-21,Hosp_B_Oncology,Letrozole,88,160
+2024-05-21,Hosp_B_Oncology,Trastuzumab,219,180
+2024-05-21,Hosp_B_Oncology,Oseltamivir,128,1
+2024-05-21,Hosp_B_Oncology,Cough Syrup,200,5
+2024-05-22,Hosp_B_Oncology,Paracetamol,73,6
+2024-05-22,Hosp_B_Oncology,Ibuprofen,132,5
+2024-05-22,Hosp_B_Oncology,Amoxicillin,112,8
+2024-05-22,Hosp_B_Oncology,Metformin,232,159
+2024-05-22,Hosp_B_Oncology,Atorvastatin,148,161
+2024-05-22,Hosp_B_Oncology,Letrozole,79,192
+2024-05-22,Hosp_B_Oncology,Trastuzumab,71,174
+2024-05-22,Hosp_B_Oncology,Oseltamivir,261,2
+2024-05-22,Hosp_B_Oncology,Cough Syrup,218,9
+2024-05-23,Hosp_B_Oncology,Paracetamol,129,0
+2024-05-23,Hosp_B_Oncology,Ibuprofen,149,9
+2024-05-23,Hosp_B_Oncology,Amoxicillin,241,0
+2024-05-23,Hosp_B_Oncology,Metformin,170,158
+2024-05-23,Hosp_B_Oncology,Atorvastatin,72,106
+2024-05-23,Hosp_B_Oncology,Letrozole,221,152
+2024-05-23,Hosp_B_Oncology,Trastuzumab,120,178
+2024-05-23,Hosp_B_Oncology,Oseltamivir,211,3
+2024-05-23,Hosp_B_Oncology,Cough Syrup,255,6
+2024-05-24,Hosp_B_Oncology,Paracetamol,110,1
+2024-05-24,Hosp_B_Oncology,Ibuprofen,104,9
+2024-05-24,Hosp_B_Oncology,Amoxicillin,146,6
+2024-05-24,Hosp_B_Oncology,Metformin,87,179
+2024-05-24,Hosp_B_Oncology,Atorvastatin,127,128
+2024-05-24,Hosp_B_Oncology,Letrozole,203,134
+2024-05-24,Hosp_B_Oncology,Trastuzumab,128,166
+2024-05-24,Hosp_B_Oncology,Oseltamivir,136,1
+2024-05-24,Hosp_B_Oncology,Cough Syrup,146,8
+2024-05-25,Hosp_B_Oncology,Paracetamol,236,1
+2024-05-25,Hosp_B_Oncology,Ibuprofen,235,1
+2024-05-25,Hosp_B_Oncology,Amoxicillin,176,3
+2024-05-25,Hosp_B_Oncology,Metformin,163,170
+2024-05-25,Hosp_B_Oncology,Atorvastatin,62,114
+2024-05-25,Hosp_B_Oncology,Letrozole,138,186
+2024-05-25,Hosp_B_Oncology,Trastuzumab,237,121
+2024-05-25,Hosp_B_Oncology,Oseltamivir,240,9
+2024-05-25,Hosp_B_Oncology,Cough Syrup,274,9
+2024-05-26,Hosp_B_Oncology,Paracetamol,91,3
+2024-05-26,Hosp_B_Oncology,Ibuprofen,150,1
+2024-05-26,Hosp_B_Oncology,Amoxicillin,66,8
+2024-05-26,Hosp_B_Oncology,Metformin,63,148
+2024-05-26,Hosp_B_Oncology,Atorvastatin,206,194
+2024-05-26,Hosp_B_Oncology,Letrozole,181,181
+2024-05-26,Hosp_B_Oncology,Trastuzumab,197,146
+2024-05-26,Hosp_B_Oncology,Oseltamivir,156,8
+2024-05-26,Hosp_B_Oncology,Cough Syrup,254,4
+2024-05-27,Hosp_B_Oncology,Paracetamol,193,7
+2024-05-27,Hosp_B_Oncology,Ibuprofen,238,5
+2024-05-27,Hosp_B_Oncology,Amoxicillin,111,0
+2024-05-27,Hosp_B_Oncology,Metformin,98,124
+2024-05-27,Hosp_B_Oncology,Atorvastatin,59,179
+2024-05-27,Hosp_B_Oncology,Letrozole,193,157
+2024-05-27,Hosp_B_Oncology,Trastuzumab,249,128
+2024-05-27,Hosp_B_Oncology,Oseltamivir,280,5
+2024-05-27,Hosp_B_Oncology,Cough Syrup,193,3
+2024-05-28,Hosp_B_Oncology,Paracetamol,97,3
+2024-05-28,Hosp_B_Oncology,Ibuprofen,217,1
+2024-05-28,Hosp_B_Oncology,Amoxicillin,283,8
+2024-05-28,Hosp_B_Oncology,Metformin,136,178
+2024-05-28,Hosp_B_Oncology,Atorvastatin,254,122
+2024-05-28,Hosp_B_Oncology,Letrozole,130,147
+2024-05-28,Hosp_B_Oncology,Trastuzumab,173,101
+2024-05-28,Hosp_B_Oncology,Oseltamivir,133,3
+2024-05-28,Hosp_B_Oncology,Cough Syrup,236,2
+2024-05-29,Hosp_B_Oncology,Paracetamol,171,4
+2024-05-29,Hosp_B_Oncology,Ibuprofen,72,4
+2024-05-29,Hosp_B_Oncology,Amoxicillin,86,8
+2024-05-29,Hosp_B_Oncology,Metformin,64,102
+2024-05-29,Hosp_B_Oncology,Atorvastatin,142,169
+2024-05-29,Hosp_B_Oncology,Letrozole,66,125
+2024-05-29,Hosp_B_Oncology,Trastuzumab,198,171
+2024-05-29,Hosp_B_Oncology,Oseltamivir,198,8
+2024-05-29,Hosp_B_Oncology,Cough Syrup,60,5
+2024-05-30,Hosp_B_Oncology,Paracetamol,123,1
+2024-05-30,Hosp_B_Oncology,Ibuprofen,55,7
+2024-05-30,Hosp_B_Oncology,Amoxicillin,174,2
+2024-05-30,Hosp_B_Oncology,Metformin,60,162
+2024-05-30,Hosp_B_Oncology,Atorvastatin,234,111
+2024-05-30,Hosp_B_Oncology,Letrozole,122,101
+2024-05-30,Hosp_B_Oncology,Trastuzumab,57,110
+2024-05-30,Hosp_B_Oncology,Oseltamivir,173,4
+2024-05-30,Hosp_B_Oncology,Cough Syrup,277,9
+2024-05-31,Hosp_B_Oncology,Paracetamol,201,2
+2024-05-31,Hosp_B_Oncology,Ibuprofen,59,7
+2024-05-31,Hosp_B_Oncology,Amoxicillin,249,4
+2024-05-31,Hosp_B_Oncology,Metformin,297,169
+2024-05-31,Hosp_B_Oncology,Atorvastatin,134,156
+2024-05-31,Hosp_B_Oncology,Letrozole,175,138
+2024-05-31,Hosp_B_Oncology,Trastuzumab,265,132
+2024-05-31,Hosp_B_Oncology,Oseltamivir,236,1
+2024-05-31,Hosp_B_Oncology,Cough Syrup,233,8
+2024-06-01,Hosp_B_Oncology,Paracetamol,159,7
+2024-06-01,Hosp_B_Oncology,Ibuprofen,121,4
+2024-06-01,Hosp_B_Oncology,Amoxicillin,187,6
+2024-06-01,Hosp_B_Oncology,Metformin,229,148
+2024-06-01,Hosp_B_Oncology,Atorvastatin,188,165
+2024-06-01,Hosp_B_Oncology,Letrozole,235,189
+2024-06-01,Hosp_B_Oncology,Trastuzumab,213,132
+2024-06-01,Hosp_B_Oncology,Oseltamivir,224,7
+2024-06-01,Hosp_B_Oncology,Cough Syrup,138,3
+2024-06-02,Hosp_B_Oncology,Paracetamol,126,4
+2024-06-02,Hosp_B_Oncology,Ibuprofen,263,1
+2024-06-02,Hosp_B_Oncology,Amoxicillin,176,4
+2024-06-02,Hosp_B_Oncology,Metformin,184,125
+2024-06-02,Hosp_B_Oncology,Atorvastatin,267,187
+2024-06-02,Hosp_B_Oncology,Letrozole,253,115
+2024-06-02,Hosp_B_Oncology,Trastuzumab,200,139
+2024-06-02,Hosp_B_Oncology,Oseltamivir,237,8
+2024-06-02,Hosp_B_Oncology,Cough Syrup,81,4
+2024-06-03,Hosp_B_Oncology,Paracetamol,254,6
+2024-06-03,Hosp_B_Oncology,Ibuprofen,172,3
+2024-06-03,Hosp_B_Oncology,Amoxicillin,153,4
+2024-06-03,Hosp_B_Oncology,Metformin,155,124
+2024-06-03,Hosp_B_Oncology,Atorvastatin,93,111
+2024-06-03,Hosp_B_Oncology,Letrozole,139,196
+2024-06-03,Hosp_B_Oncology,Trastuzumab,269,108
+2024-06-03,Hosp_B_Oncology,Oseltamivir,61,4
+2024-06-03,Hosp_B_Oncology,Cough Syrup,231,3
+2024-06-04,Hosp_B_Oncology,Paracetamol,195,7
+2024-06-04,Hosp_B_Oncology,Ibuprofen,85,8
+2024-06-04,Hosp_B_Oncology,Amoxicillin,264,1
+2024-06-04,Hosp_B_Oncology,Metformin,213,166
+2024-06-04,Hosp_B_Oncology,Atorvastatin,58,160
+2024-06-04,Hosp_B_Oncology,Letrozole,102,117
+2024-06-04,Hosp_B_Oncology,Trastuzumab,220,134
+2024-06-04,Hosp_B_Oncology,Oseltamivir,112,8
+2024-06-04,Hosp_B_Oncology,Cough Syrup,296,1
+2024-06-05,Hosp_B_Oncology,Paracetamol,264,1
+2024-06-05,Hosp_B_Oncology,Ibuprofen,98,7
+2024-06-05,Hosp_B_Oncology,Amoxicillin,281,6
+2024-06-05,Hosp_B_Oncology,Metformin,175,194
+2024-06-05,Hosp_B_Oncology,Atorvastatin,288,130
+2024-06-05,Hosp_B_Oncology,Letrozole,160,139
+2024-06-05,Hosp_B_Oncology,Trastuzumab,97,150
+2024-06-05,Hosp_B_Oncology,Oseltamivir,92,1
+2024-06-05,Hosp_B_Oncology,Cough Syrup,232,7
+2024-06-06,Hosp_B_Oncology,Paracetamol,198,0
+2024-06-06,Hosp_B_Oncology,Ibuprofen,291,4
+2024-06-06,Hosp_B_Oncology,Amoxicillin,126,2
+2024-06-06,Hosp_B_Oncology,Metformin,207,144
+2024-06-06,Hosp_B_Oncology,Atorvastatin,195,177
+2024-06-06,Hosp_B_Oncology,Letrozole,111,135
+2024-06-06,Hosp_B_Oncology,Trastuzumab,149,183
+2024-06-06,Hosp_B_Oncology,Oseltamivir,101,2
+2024-06-06,Hosp_B_Oncology,Cough Syrup,158,6
+2024-06-07,Hosp_B_Oncology,Paracetamol,215,2
+2024-06-07,Hosp_B_Oncology,Ibuprofen,277,1
+2024-06-07,Hosp_B_Oncology,Amoxicillin,210,7
+2024-06-07,Hosp_B_Oncology,Metformin,146,161
+2024-06-07,Hosp_B_Oncology,Atorvastatin,270,142
+2024-06-07,Hosp_B_Oncology,Letrozole,226,135
+2024-06-07,Hosp_B_Oncology,Trastuzumab,171,109
+2024-06-07,Hosp_B_Oncology,Oseltamivir,144,5
+2024-06-07,Hosp_B_Oncology,Cough Syrup,106,0
+2024-06-08,Hosp_B_Oncology,Paracetamol,262,7
+2024-06-08,Hosp_B_Oncology,Ibuprofen,232,6
+2024-06-08,Hosp_B_Oncology,Amoxicillin,247,2
+2024-06-08,Hosp_B_Oncology,Metformin,166,176
+2024-06-08,Hosp_B_Oncology,Atorvastatin,290,186
+2024-06-08,Hosp_B_Oncology,Letrozole,250,180
+2024-06-08,Hosp_B_Oncology,Trastuzumab,115,118
+2024-06-08,Hosp_B_Oncology,Oseltamivir,260,7
+2024-06-08,Hosp_B_Oncology,Cough Syrup,184,5
+2024-06-09,Hosp_B_Oncology,Paracetamol,195,9
+2024-06-09,Hosp_B_Oncology,Ibuprofen,106,2
+2024-06-09,Hosp_B_Oncology,Amoxicillin,61,1
+2024-06-09,Hosp_B_Oncology,Metformin,66,129
+2024-06-09,Hosp_B_Oncology,Atorvastatin,137,174
+2024-06-09,Hosp_B_Oncology,Letrozole,148,122
+2024-06-09,Hosp_B_Oncology,Trastuzumab,258,100
+2024-06-09,Hosp_B_Oncology,Oseltamivir,128,8
+2024-06-09,Hosp_B_Oncology,Cough Syrup,64,7
+2024-06-10,Hosp_B_Oncology,Paracetamol,87,8
+2024-06-10,Hosp_B_Oncology,Ibuprofen,250,7
+2024-06-10,Hosp_B_Oncology,Amoxicillin,228,2
+2024-06-10,Hosp_B_Oncology,Metformin,131,104
+2024-06-10,Hosp_B_Oncology,Atorvastatin,191,191
+2024-06-10,Hosp_B_Oncology,Letrozole,207,103
+2024-06-10,Hosp_B_Oncology,Trastuzumab,216,183
+2024-06-10,Hosp_B_Oncology,Oseltamivir,241,8
+2024-06-10,Hosp_B_Oncology,Cough Syrup,205,1
+2024-06-11,Hosp_B_Oncology,Paracetamol,279,9
+2024-06-11,Hosp_B_Oncology,Ibuprofen,228,1
+2024-06-11,Hosp_B_Oncology,Amoxicillin,93,5
+2024-06-11,Hosp_B_Oncology,Metformin,227,131
+2024-06-11,Hosp_B_Oncology,Atorvastatin,244,102
+2024-06-11,Hosp_B_Oncology,Letrozole,263,185
+2024-06-11,Hosp_B_Oncology,Trastuzumab,123,150
+2024-06-11,Hosp_B_Oncology,Oseltamivir,116,0
+2024-06-11,Hosp_B_Oncology,Cough Syrup,56,7
+2024-06-12,Hosp_B_Oncology,Paracetamol,66,3
+2024-06-12,Hosp_B_Oncology,Ibuprofen,281,0
+2024-06-12,Hosp_B_Oncology,Amoxicillin,148,0
+2024-06-12,Hosp_B_Oncology,Metformin,282,101
+2024-06-12,Hosp_B_Oncology,Atorvastatin,298,176
+2024-06-12,Hosp_B_Oncology,Letrozole,229,165
+2024-06-12,Hosp_B_Oncology,Trastuzumab,101,191
+2024-06-12,Hosp_B_Oncology,Oseltamivir,220,9
+2024-06-12,Hosp_B_Oncology,Cough Syrup,71,6
+2024-06-13,Hosp_B_Oncology,Paracetamol,80,6
+2024-06-13,Hosp_B_Oncology,Ibuprofen,286,1
+2024-06-13,Hosp_B_Oncology,Amoxicillin,119,8
+2024-06-13,Hosp_B_Oncology,Metformin,240,131
+2024-06-13,Hosp_B_Oncology,Atorvastatin,69,156
+2024-06-13,Hosp_B_Oncology,Letrozole,275,149
+2024-06-13,Hosp_B_Oncology,Trastuzumab,257,124
+2024-06-13,Hosp_B_Oncology,Oseltamivir,189,6
+2024-06-13,Hosp_B_Oncology,Cough Syrup,88,0
+2024-06-14,Hosp_B_Oncology,Paracetamol,65,5
+2024-06-14,Hosp_B_Oncology,Ibuprofen,151,2
+2024-06-14,Hosp_B_Oncology,Amoxicillin,147,1
+2024-06-14,Hosp_B_Oncology,Metformin,143,112
+2024-06-14,Hosp_B_Oncology,Atorvastatin,218,179
+2024-06-14,Hosp_B_Oncology,Letrozole,108,168
+2024-06-14,Hosp_B_Oncology,Trastuzumab,168,191
+2024-06-14,Hosp_B_Oncology,Oseltamivir,230,6
+2024-06-14,Hosp_B_Oncology,Cough Syrup,94,3
+2024-06-15,Hosp_B_Oncology,Paracetamol,204,0
+2024-06-15,Hosp_B_Oncology,Ibuprofen,70,6
+2024-06-15,Hosp_B_Oncology,Amoxicillin,272,5
+2024-06-15,Hosp_B_Oncology,Metformin,95,165
+2024-06-15,Hosp_B_Oncology,Atorvastatin,140,135
+2024-06-15,Hosp_B_Oncology,Letrozole,252,181
+2024-06-15,Hosp_B_Oncology,Trastuzumab,172,164
+2024-06-15,Hosp_B_Oncology,Oseltamivir,240,2
+2024-06-15,Hosp_B_Oncology,Cough Syrup,84,6
+2024-06-16,Hosp_B_Oncology,Paracetamol,139,5
+2024-06-16,Hosp_B_Oncology,Ibuprofen,285,9
+2024-06-16,Hosp_B_Oncology,Amoxicillin,121,4
+2024-06-16,Hosp_B_Oncology,Metformin,64,115
+2024-06-16,Hosp_B_Oncology,Atorvastatin,50,115
+2024-06-16,Hosp_B_Oncology,Letrozole,214,102
+2024-06-16,Hosp_B_Oncology,Trastuzumab,229,146
+2024-06-16,Hosp_B_Oncology,Oseltamivir,144,7
+2024-06-16,Hosp_B_Oncology,Cough Syrup,257,6
+2024-06-17,Hosp_B_Oncology,Paracetamol,135,6
+2024-06-17,Hosp_B_Oncology,Ibuprofen,200,8
+2024-06-17,Hosp_B_Oncology,Amoxicillin,281,5
+2024-06-17,Hosp_B_Oncology,Metformin,205,147
+2024-06-17,Hosp_B_Oncology,Atorvastatin,215,130
+2024-06-17,Hosp_B_Oncology,Letrozole,63,196
+2024-06-17,Hosp_B_Oncology,Trastuzumab,298,172
+2024-06-17,Hosp_B_Oncology,Oseltamivir,298,7
+2024-06-17,Hosp_B_Oncology,Cough Syrup,254,9
+2024-06-18,Hosp_B_Oncology,Paracetamol,136,1
+2024-06-18,Hosp_B_Oncology,Ibuprofen,253,5
+2024-06-18,Hosp_B_Oncology,Amoxicillin,86,3
+2024-06-18,Hosp_B_Oncology,Metformin,152,123
+2024-06-18,Hosp_B_Oncology,Atorvastatin,161,183
+2024-06-18,Hosp_B_Oncology,Letrozole,114,164
+2024-06-18,Hosp_B_Oncology,Trastuzumab,258,100
+2024-06-18,Hosp_B_Oncology,Oseltamivir,166,3
+2024-06-18,Hosp_B_Oncology,Cough Syrup,286,8
+2024-06-19,Hosp_B_Oncology,Paracetamol,264,6
+2024-06-19,Hosp_B_Oncology,Ibuprofen,108,6
+2024-06-19,Hosp_B_Oncology,Amoxicillin,52,6
+2024-06-19,Hosp_B_Oncology,Metformin,98,125
+2024-06-19,Hosp_B_Oncology,Atorvastatin,210,147
+2024-06-19,Hosp_B_Oncology,Letrozole,128,101
+2024-06-19,Hosp_B_Oncology,Trastuzumab,282,170
+2024-06-19,Hosp_B_Oncology,Oseltamivir,209,3
+2024-06-19,Hosp_B_Oncology,Cough Syrup,69,1
+2024-06-20,Hosp_B_Oncology,Paracetamol,152,6
+2024-06-20,Hosp_B_Oncology,Ibuprofen,78,5
+2024-06-20,Hosp_B_Oncology,Amoxicillin,139,4
+2024-06-20,Hosp_B_Oncology,Metformin,66,179
+2024-06-20,Hosp_B_Oncology,Atorvastatin,237,130
+2024-06-20,Hosp_B_Oncology,Letrozole,292,172
+2024-06-20,Hosp_B_Oncology,Trastuzumab,272,177
+2024-06-20,Hosp_B_Oncology,Oseltamivir,98,4
+2024-06-20,Hosp_B_Oncology,Cough Syrup,51,3
+2024-06-21,Hosp_B_Oncology,Paracetamol,226,0
+2024-06-21,Hosp_B_Oncology,Ibuprofen,277,3
+2024-06-21,Hosp_B_Oncology,Amoxicillin,195,8
+2024-06-21,Hosp_B_Oncology,Metformin,111,156
+2024-06-21,Hosp_B_Oncology,Atorvastatin,78,177
+2024-06-21,Hosp_B_Oncology,Letrozole,202,114
+2024-06-21,Hosp_B_Oncology,Trastuzumab,183,141
+2024-06-21,Hosp_B_Oncology,Oseltamivir,206,3
+2024-06-21,Hosp_B_Oncology,Cough Syrup,131,1
+2024-06-22,Hosp_B_Oncology,Paracetamol,81,0
+2024-06-22,Hosp_B_Oncology,Ibuprofen,175,2
+2024-06-22,Hosp_B_Oncology,Amoxicillin,79,1
+2024-06-22,Hosp_B_Oncology,Metformin,253,128
+2024-06-22,Hosp_B_Oncology,Atorvastatin,180,189
+2024-06-22,Hosp_B_Oncology,Letrozole,234,129
+2024-06-22,Hosp_B_Oncology,Trastuzumab,186,125
+2024-06-22,Hosp_B_Oncology,Oseltamivir,179,2
+2024-06-22,Hosp_B_Oncology,Cough Syrup,223,3
+2024-06-23,Hosp_B_Oncology,Paracetamol,75,8
+2024-06-23,Hosp_B_Oncology,Ibuprofen,175,7
+2024-06-23,Hosp_B_Oncology,Amoxicillin,102,5
+2024-06-23,Hosp_B_Oncology,Metformin,92,159
+2024-06-23,Hosp_B_Oncology,Atorvastatin,235,148
+2024-06-23,Hosp_B_Oncology,Letrozole,91,175
+2024-06-23,Hosp_B_Oncology,Trastuzumab,290,199
+2024-06-23,Hosp_B_Oncology,Oseltamivir,243,6
+2024-06-23,Hosp_B_Oncology,Cough Syrup,147,9
+2024-06-24,Hosp_B_Oncology,Paracetamol,260,4
+2024-06-24,Hosp_B_Oncology,Ibuprofen,260,0
+2024-06-24,Hosp_B_Oncology,Amoxicillin,160,6
+2024-06-24,Hosp_B_Oncology,Metformin,184,125
+2024-06-24,Hosp_B_Oncology,Atorvastatin,145,111
+2024-06-24,Hosp_B_Oncology,Letrozole,121,104
+2024-06-24,Hosp_B_Oncology,Trastuzumab,155,191
+2024-06-24,Hosp_B_Oncology,Oseltamivir,166,4
+2024-06-24,Hosp_B_Oncology,Cough Syrup,226,9
+2024-06-25,Hosp_B_Oncology,Paracetamol,206,9
+2024-06-25,Hosp_B_Oncology,Ibuprofen,119,5
+2024-06-25,Hosp_B_Oncology,Amoxicillin,295,5
+2024-06-25,Hosp_B_Oncology,Metformin,75,138
+2024-06-25,Hosp_B_Oncology,Atorvastatin,189,198
+2024-06-25,Hosp_B_Oncology,Letrozole,191,121
+2024-06-25,Hosp_B_Oncology,Trastuzumab,100,122
+2024-06-25,Hosp_B_Oncology,Oseltamivir,225,6
+2024-06-25,Hosp_B_Oncology,Cough Syrup,153,1
+2024-06-26,Hosp_B_Oncology,Paracetamol,246,0
+2024-06-26,Hosp_B_Oncology,Ibuprofen,140,1
+2024-06-26,Hosp_B_Oncology,Amoxicillin,61,8
+2024-06-26,Hosp_B_Oncology,Metformin,179,136
+2024-06-26,Hosp_B_Oncology,Atorvastatin,222,179
+2024-06-26,Hosp_B_Oncology,Letrozole,225,123
+2024-06-26,Hosp_B_Oncology,Trastuzumab,148,121
+2024-06-26,Hosp_B_Oncology,Oseltamivir,149,6
+2024-06-26,Hosp_B_Oncology,Cough Syrup,107,2
+2024-06-27,Hosp_B_Oncology,Paracetamol,172,5
+2024-06-27,Hosp_B_Oncology,Ibuprofen,296,3
+2024-06-27,Hosp_B_Oncology,Amoxicillin,77,0
+2024-06-27,Hosp_B_Oncology,Metformin,176,139
+2024-06-27,Hosp_B_Oncology,Atorvastatin,299,102
+2024-06-27,Hosp_B_Oncology,Letrozole,125,175
+2024-06-27,Hosp_B_Oncology,Trastuzumab,243,145
+2024-06-27,Hosp_B_Oncology,Oseltamivir,263,6
+2024-06-27,Hosp_B_Oncology,Cough Syrup,207,4
+2024-06-28,Hosp_B_Oncology,Paracetamol,209,9
+2024-06-28,Hosp_B_Oncology,Ibuprofen,247,8
+2024-06-28,Hosp_B_Oncology,Amoxicillin,298,2
+2024-06-28,Hosp_B_Oncology,Metformin,274,100
+2024-06-28,Hosp_B_Oncology,Atorvastatin,100,104
+2024-06-28,Hosp_B_Oncology,Letrozole,62,118
+2024-06-28,Hosp_B_Oncology,Trastuzumab,189,147
+2024-06-28,Hosp_B_Oncology,Oseltamivir,202,8
+2024-06-28,Hosp_B_Oncology,Cough Syrup,164,2
+2024-06-29,Hosp_B_Oncology,Paracetamol,290,4
+2024-06-29,Hosp_B_Oncology,Ibuprofen,263,8
+2024-06-29,Hosp_B_Oncology,Amoxicillin,123,7
+2024-06-29,Hosp_B_Oncology,Metformin,259,148
+2024-06-29,Hosp_B_Oncology,Atorvastatin,195,106
+2024-06-29,Hosp_B_Oncology,Letrozole,53,189
+2024-06-29,Hosp_B_Oncology,Trastuzumab,246,159
+2024-06-29,Hosp_B_Oncology,Oseltamivir,104,2
+2024-06-29,Hosp_B_Oncology,Cough Syrup,267,1
+2024-06-30,Hosp_B_Oncology,Paracetamol,123,9
+2024-06-30,Hosp_B_Oncology,Ibuprofen,137,4
+2024-06-30,Hosp_B_Oncology,Amoxicillin,60,9
+2024-06-30,Hosp_B_Oncology,Metformin,238,193
+2024-06-30,Hosp_B_Oncology,Atorvastatin,176,179
+2024-06-30,Hosp_B_Oncology,Letrozole,56,115
+2024-06-30,Hosp_B_Oncology,Trastuzumab,276,115
+2024-06-30,Hosp_B_Oncology,Oseltamivir,217,2
+2024-06-30,Hosp_B_Oncology,Cough Syrup,290,4
+2024-07-01,Hosp_B_Oncology,Paracetamol,265,9
+2024-07-01,Hosp_B_Oncology,Ibuprofen,273,0
+2024-07-01,Hosp_B_Oncology,Amoxicillin,191,7
+2024-07-01,Hosp_B_Oncology,Metformin,213,157
+2024-07-01,Hosp_B_Oncology,Atorvastatin,289,123
+2024-07-01,Hosp_B_Oncology,Letrozole,158,162
+2024-07-01,Hosp_B_Oncology,Trastuzumab,295,190
+2024-07-01,Hosp_B_Oncology,Oseltamivir,74,3
+2024-07-01,Hosp_B_Oncology,Cough Syrup,131,1
+2024-07-02,Hosp_B_Oncology,Paracetamol,181,5
+2024-07-02,Hosp_B_Oncology,Ibuprofen,99,5
+2024-07-02,Hosp_B_Oncology,Amoxicillin,72,9
+2024-07-02,Hosp_B_Oncology,Metformin,164,174
+2024-07-02,Hosp_B_Oncology,Atorvastatin,205,165
+2024-07-02,Hosp_B_Oncology,Letrozole,172,107
+2024-07-02,Hosp_B_Oncology,Trastuzumab,206,110
+2024-07-02,Hosp_B_Oncology,Oseltamivir,278,1
+2024-07-02,Hosp_B_Oncology,Cough Syrup,232,1
+2024-07-03,Hosp_B_Oncology,Paracetamol,195,0
+2024-07-03,Hosp_B_Oncology,Ibuprofen,249,2
+2024-07-03,Hosp_B_Oncology,Amoxicillin,290,0
+2024-07-03,Hosp_B_Oncology,Metformin,92,194
+2024-07-03,Hosp_B_Oncology,Atorvastatin,275,105
+2024-07-03,Hosp_B_Oncology,Letrozole,263,177
+2024-07-03,Hosp_B_Oncology,Trastuzumab,116,111
+2024-07-03,Hosp_B_Oncology,Oseltamivir,149,1
+2024-07-03,Hosp_B_Oncology,Cough Syrup,51,6
+2024-07-04,Hosp_B_Oncology,Paracetamol,165,9
+2024-07-04,Hosp_B_Oncology,Ibuprofen,77,1
+2024-07-04,Hosp_B_Oncology,Amoxicillin,255,1
+2024-07-04,Hosp_B_Oncology,Metformin,269,123
+2024-07-04,Hosp_B_Oncology,Atorvastatin,185,152
+2024-07-04,Hosp_B_Oncology,Letrozole,249,103
+2024-07-04,Hosp_B_Oncology,Trastuzumab,268,199
+2024-07-04,Hosp_B_Oncology,Oseltamivir,54,0
+2024-07-04,Hosp_B_Oncology,Cough Syrup,98,1
+2024-07-05,Hosp_B_Oncology,Paracetamol,83,9
+2024-07-05,Hosp_B_Oncology,Ibuprofen,196,9
+2024-07-05,Hosp_B_Oncology,Amoxicillin,58,2
+2024-07-05,Hosp_B_Oncology,Metformin,259,140
+2024-07-05,Hosp_B_Oncology,Atorvastatin,97,144
+2024-07-05,Hosp_B_Oncology,Letrozole,283,124
+2024-07-05,Hosp_B_Oncology,Trastuzumab,165,177
+2024-07-05,Hosp_B_Oncology,Oseltamivir,157,8
+2024-07-05,Hosp_B_Oncology,Cough Syrup,196,6
+2024-07-06,Hosp_B_Oncology,Paracetamol,285,6
+2024-07-06,Hosp_B_Oncology,Ibuprofen,249,4
+2024-07-06,Hosp_B_Oncology,Amoxicillin,295,0
+2024-07-06,Hosp_B_Oncology,Metformin,160,105
+2024-07-06,Hosp_B_Oncology,Atorvastatin,285,118
+2024-07-06,Hosp_B_Oncology,Letrozole,273,126
+2024-07-06,Hosp_B_Oncology,Trastuzumab,50,132
+2024-07-06,Hosp_B_Oncology,Oseltamivir,89,4
+2024-07-06,Hosp_B_Oncology,Cough Syrup,66,7
+2024-07-07,Hosp_B_Oncology,Paracetamol,66,0
+2024-07-07,Hosp_B_Oncology,Ibuprofen,224,3
+2024-07-07,Hosp_B_Oncology,Amoxicillin,167,8
+2024-07-07,Hosp_B_Oncology,Metformin,82,159
+2024-07-07,Hosp_B_Oncology,Atorvastatin,162,192
+2024-07-07,Hosp_B_Oncology,Letrozole,254,120
+2024-07-07,Hosp_B_Oncology,Trastuzumab,235,184
+2024-07-07,Hosp_B_Oncology,Oseltamivir,246,9
+2024-07-07,Hosp_B_Oncology,Cough Syrup,55,7
+2024-07-08,Hosp_B_Oncology,Paracetamol,297,2
+2024-07-08,Hosp_B_Oncology,Ibuprofen,126,3
+2024-07-08,Hosp_B_Oncology,Amoxicillin,208,5
+2024-07-08,Hosp_B_Oncology,Metformin,284,186
+2024-07-08,Hosp_B_Oncology,Atorvastatin,245,151
+2024-07-08,Hosp_B_Oncology,Letrozole,129,106
+2024-07-08,Hosp_B_Oncology,Trastuzumab,71,192
+2024-07-08,Hosp_B_Oncology,Oseltamivir,124,7
+2024-07-08,Hosp_B_Oncology,Cough Syrup,274,9
+2024-07-09,Hosp_B_Oncology,Paracetamol,249,8
+2024-07-09,Hosp_B_Oncology,Ibuprofen,126,6
+2024-07-09,Hosp_B_Oncology,Amoxicillin,134,4
+2024-07-09,Hosp_B_Oncology,Metformin,289,153
+2024-07-09,Hosp_B_Oncology,Atorvastatin,182,112
+2024-07-09,Hosp_B_Oncology,Letrozole,205,142
+2024-07-09,Hosp_B_Oncology,Trastuzumab,138,198
+2024-07-09,Hosp_B_Oncology,Oseltamivir,96,6
+2024-07-09,Hosp_B_Oncology,Cough Syrup,120,5
+2024-07-10,Hosp_B_Oncology,Paracetamol,149,9
+2024-07-10,Hosp_B_Oncology,Ibuprofen,208,6
+2024-07-10,Hosp_B_Oncology,Amoxicillin,194,8
+2024-07-10,Hosp_B_Oncology,Metformin,216,141
+2024-07-10,Hosp_B_Oncology,Atorvastatin,225,111
+2024-07-10,Hosp_B_Oncology,Letrozole,145,188
+2024-07-10,Hosp_B_Oncology,Trastuzumab,152,117
+2024-07-10,Hosp_B_Oncology,Oseltamivir,256,5
+2024-07-10,Hosp_B_Oncology,Cough Syrup,171,3
+2024-07-11,Hosp_B_Oncology,Paracetamol,227,1
+2024-07-11,Hosp_B_Oncology,Ibuprofen,124,5
+2024-07-11,Hosp_B_Oncology,Amoxicillin,153,0
+2024-07-11,Hosp_B_Oncology,Metformin,80,153
+2024-07-11,Hosp_B_Oncology,Atorvastatin,221,133
+2024-07-11,Hosp_B_Oncology,Letrozole,291,170
+2024-07-11,Hosp_B_Oncology,Trastuzumab,171,161
+2024-07-11,Hosp_B_Oncology,Oseltamivir,72,7
+2024-07-11,Hosp_B_Oncology,Cough Syrup,184,5
+2024-07-12,Hosp_B_Oncology,Paracetamol,194,7
+2024-07-12,Hosp_B_Oncology,Ibuprofen,153,5
+2024-07-12,Hosp_B_Oncology,Amoxicillin,253,4
+2024-07-12,Hosp_B_Oncology,Metformin,89,118
+2024-07-12,Hosp_B_Oncology,Atorvastatin,116,181
+2024-07-12,Hosp_B_Oncology,Letrozole,230,163
+2024-07-12,Hosp_B_Oncology,Trastuzumab,132,146
+2024-07-12,Hosp_B_Oncology,Oseltamivir,55,7
+2024-07-12,Hosp_B_Oncology,Cough Syrup,289,1
+2024-07-13,Hosp_B_Oncology,Paracetamol,189,1
+2024-07-13,Hosp_B_Oncology,Ibuprofen,248,1
+2024-07-13,Hosp_B_Oncology,Amoxicillin,152,8
+2024-07-13,Hosp_B_Oncology,Metformin,124,133
+2024-07-13,Hosp_B_Oncology,Atorvastatin,152,167
+2024-07-13,Hosp_B_Oncology,Letrozole,124,128
+2024-07-13,Hosp_B_Oncology,Trastuzumab,243,115
+2024-07-13,Hosp_B_Oncology,Oseltamivir,216,4
+2024-07-13,Hosp_B_Oncology,Cough Syrup,130,4
+2024-07-14,Hosp_B_Oncology,Paracetamol,164,5
+2024-07-14,Hosp_B_Oncology,Ibuprofen,67,9
+2024-07-14,Hosp_B_Oncology,Amoxicillin,141,0
+2024-07-14,Hosp_B_Oncology,Metformin,242,176
+2024-07-14,Hosp_B_Oncology,Atorvastatin,150,183
+2024-07-14,Hosp_B_Oncology,Letrozole,242,151
+2024-07-14,Hosp_B_Oncology,Trastuzumab,244,181
+2024-07-14,Hosp_B_Oncology,Oseltamivir,282,0
+2024-07-14,Hosp_B_Oncology,Cough Syrup,232,3
+2024-07-15,Hosp_B_Oncology,Paracetamol,115,5
+2024-07-15,Hosp_B_Oncology,Ibuprofen,173,9
+2024-07-15,Hosp_B_Oncology,Amoxicillin,259,5
+2024-07-15,Hosp_B_Oncology,Metformin,95,190
+2024-07-15,Hosp_B_Oncology,Atorvastatin,190,132
+2024-07-15,Hosp_B_Oncology,Letrozole,182,189
+2024-07-15,Hosp_B_Oncology,Trastuzumab,126,126
+2024-07-15,Hosp_B_Oncology,Oseltamivir,170,7
+2024-07-15,Hosp_B_Oncology,Cough Syrup,116,2
+2024-07-16,Hosp_B_Oncology,Paracetamol,154,7
+2024-07-16,Hosp_B_Oncology,Ibuprofen,202,9
+2024-07-16,Hosp_B_Oncology,Amoxicillin,249,2
+2024-07-16,Hosp_B_Oncology,Metformin,265,147
+2024-07-16,Hosp_B_Oncology,Atorvastatin,151,169
+2024-07-16,Hosp_B_Oncology,Letrozole,295,198
+2024-07-16,Hosp_B_Oncology,Trastuzumab,155,164
+2024-07-16,Hosp_B_Oncology,Oseltamivir,109,3
+2024-07-16,Hosp_B_Oncology,Cough Syrup,235,5
+2024-07-17,Hosp_B_Oncology,Paracetamol,187,5
+2024-07-17,Hosp_B_Oncology,Ibuprofen,96,8
+2024-07-17,Hosp_B_Oncology,Amoxicillin,99,1
+2024-07-17,Hosp_B_Oncology,Metformin,120,114
+2024-07-17,Hosp_B_Oncology,Atorvastatin,195,181
+2024-07-17,Hosp_B_Oncology,Letrozole,165,187
+2024-07-17,Hosp_B_Oncology,Trastuzumab,51,183
+2024-07-17,Hosp_B_Oncology,Oseltamivir,275,9
+2024-07-17,Hosp_B_Oncology,Cough Syrup,120,5
+2024-07-18,Hosp_B_Oncology,Paracetamol,231,9
+2024-07-18,Hosp_B_Oncology,Ibuprofen,243,5
+2024-07-18,Hosp_B_Oncology,Amoxicillin,287,0
+2024-07-18,Hosp_B_Oncology,Metformin,290,174
+2024-07-18,Hosp_B_Oncology,Atorvastatin,228,134
+2024-07-18,Hosp_B_Oncology,Letrozole,92,128
+2024-07-18,Hosp_B_Oncology,Trastuzumab,214,180
+2024-07-18,Hosp_B_Oncology,Oseltamivir,235,5
+2024-07-18,Hosp_B_Oncology,Cough Syrup,88,9
+2024-07-19,Hosp_B_Oncology,Paracetamol,173,7
+2024-07-19,Hosp_B_Oncology,Ibuprofen,94,3
+2024-07-19,Hosp_B_Oncology,Amoxicillin,186,8
+2024-07-19,Hosp_B_Oncology,Metformin,199,117
+2024-07-19,Hosp_B_Oncology,Atorvastatin,253,142
+2024-07-19,Hosp_B_Oncology,Letrozole,216,172
+2024-07-19,Hosp_B_Oncology,Trastuzumab,183,182
+2024-07-19,Hosp_B_Oncology,Oseltamivir,97,6
+2024-07-19,Hosp_B_Oncology,Cough Syrup,257,4
+2024-07-20,Hosp_B_Oncology,Paracetamol,84,8
+2024-07-20,Hosp_B_Oncology,Ibuprofen,280,9
+2024-07-20,Hosp_B_Oncology,Amoxicillin,114,9
+2024-07-20,Hosp_B_Oncology,Metformin,134,108
+2024-07-20,Hosp_B_Oncology,Atorvastatin,237,114
+2024-07-20,Hosp_B_Oncology,Letrozole,276,156
+2024-07-20,Hosp_B_Oncology,Trastuzumab,118,121
+2024-07-20,Hosp_B_Oncology,Oseltamivir,113,8
+2024-07-20,Hosp_B_Oncology,Cough Syrup,264,6
+2024-07-21,Hosp_B_Oncology,Paracetamol,253,2
+2024-07-21,Hosp_B_Oncology,Ibuprofen,153,5
+2024-07-21,Hosp_B_Oncology,Amoxicillin,219,4
+2024-07-21,Hosp_B_Oncology,Metformin,78,181
+2024-07-21,Hosp_B_Oncology,Atorvastatin,59,138
+2024-07-21,Hosp_B_Oncology,Letrozole,259,100
+2024-07-21,Hosp_B_Oncology,Trastuzumab,88,120
+2024-07-21,Hosp_B_Oncology,Oseltamivir,114,3
+2024-07-21,Hosp_B_Oncology,Cough Syrup,237,3
+2024-07-22,Hosp_B_Oncology,Paracetamol,198,1
+2024-07-22,Hosp_B_Oncology,Ibuprofen,246,5
+2024-07-22,Hosp_B_Oncology,Amoxicillin,79,0
+2024-07-22,Hosp_B_Oncology,Metformin,252,119
+2024-07-22,Hosp_B_Oncology,Atorvastatin,97,172
+2024-07-22,Hosp_B_Oncology,Letrozole,179,136
+2024-07-22,Hosp_B_Oncology,Trastuzumab,178,103
+2024-07-22,Hosp_B_Oncology,Oseltamivir,149,5
+2024-07-22,Hosp_B_Oncology,Cough Syrup,171,8
+2024-07-23,Hosp_B_Oncology,Paracetamol,92,3
+2024-07-23,Hosp_B_Oncology,Ibuprofen,197,4
+2024-07-23,Hosp_B_Oncology,Amoxicillin,131,8
+2024-07-23,Hosp_B_Oncology,Metformin,227,173
+2024-07-23,Hosp_B_Oncology,Atorvastatin,147,125
+2024-07-23,Hosp_B_Oncology,Letrozole,207,172
+2024-07-23,Hosp_B_Oncology,Trastuzumab,159,130
+2024-07-23,Hosp_B_Oncology,Oseltamivir,91,6
+2024-07-23,Hosp_B_Oncology,Cough Syrup,117,5
+2024-07-24,Hosp_B_Oncology,Paracetamol,212,8
+2024-07-24,Hosp_B_Oncology,Ibuprofen,254,4
+2024-07-24,Hosp_B_Oncology,Amoxicillin,209,5
+2024-07-24,Hosp_B_Oncology,Metformin,275,171
+2024-07-24,Hosp_B_Oncology,Atorvastatin,108,140
+2024-07-24,Hosp_B_Oncology,Letrozole,161,165
+2024-07-24,Hosp_B_Oncology,Trastuzumab,279,195
+2024-07-24,Hosp_B_Oncology,Oseltamivir,231,7
+2024-07-24,Hosp_B_Oncology,Cough Syrup,171,4
+2024-07-25,Hosp_B_Oncology,Paracetamol,68,7
+2024-07-25,Hosp_B_Oncology,Ibuprofen,269,7
+2024-07-25,Hosp_B_Oncology,Amoxicillin,272,2
+2024-07-25,Hosp_B_Oncology,Metformin,244,185
+2024-07-25,Hosp_B_Oncology,Atorvastatin,258,199
+2024-07-25,Hosp_B_Oncology,Letrozole,194,113
+2024-07-25,Hosp_B_Oncology,Trastuzumab,292,108
+2024-07-25,Hosp_B_Oncology,Oseltamivir,239,4
+2024-07-25,Hosp_B_Oncology,Cough Syrup,253,4
+2024-07-26,Hosp_B_Oncology,Paracetamol,126,9
+2024-07-26,Hosp_B_Oncology,Ibuprofen,77,4
+2024-07-26,Hosp_B_Oncology,Amoxicillin,115,9
+2024-07-26,Hosp_B_Oncology,Metformin,175,185
+2024-07-26,Hosp_B_Oncology,Atorvastatin,254,157
+2024-07-26,Hosp_B_Oncology,Letrozole,250,196
+2024-07-26,Hosp_B_Oncology,Trastuzumab,191,183
+2024-07-26,Hosp_B_Oncology,Oseltamivir,192,0
+2024-07-26,Hosp_B_Oncology,Cough Syrup,194,7
+2024-07-27,Hosp_B_Oncology,Paracetamol,143,0
+2024-07-27,Hosp_B_Oncology,Ibuprofen,94,6
+2024-07-27,Hosp_B_Oncology,Amoxicillin,64,3
+2024-07-27,Hosp_B_Oncology,Metformin,283,145
+2024-07-27,Hosp_B_Oncology,Atorvastatin,113,145
+2024-07-27,Hosp_B_Oncology,Letrozole,233,143
+2024-07-27,Hosp_B_Oncology,Trastuzumab,124,128
+2024-07-27,Hosp_B_Oncology,Oseltamivir,272,8
+2024-07-27,Hosp_B_Oncology,Cough Syrup,101,5
+2024-07-28,Hosp_B_Oncology,Paracetamol,268,8
+2024-07-28,Hosp_B_Oncology,Ibuprofen,76,0
+2024-07-28,Hosp_B_Oncology,Amoxicillin,182,6
+2024-07-28,Hosp_B_Oncology,Metformin,132,156
+2024-07-28,Hosp_B_Oncology,Atorvastatin,169,192
+2024-07-28,Hosp_B_Oncology,Letrozole,64,198
+2024-07-28,Hosp_B_Oncology,Trastuzumab,160,175
+2024-07-28,Hosp_B_Oncology,Oseltamivir,207,3
+2024-07-28,Hosp_B_Oncology,Cough Syrup,214,2
+2024-07-29,Hosp_B_Oncology,Paracetamol,282,1
+2024-07-29,Hosp_B_Oncology,Ibuprofen,143,4
+2024-07-29,Hosp_B_Oncology,Amoxicillin,112,3
+2024-07-29,Hosp_B_Oncology,Metformin,74,111
+2024-07-29,Hosp_B_Oncology,Atorvastatin,198,124
+2024-07-29,Hosp_B_Oncology,Letrozole,60,163
+2024-07-29,Hosp_B_Oncology,Trastuzumab,250,149
+2024-07-29,Hosp_B_Oncology,Oseltamivir,239,8
+2024-07-29,Hosp_B_Oncology,Cough Syrup,148,3
+2024-07-30,Hosp_B_Oncology,Paracetamol,76,9
+2024-07-30,Hosp_B_Oncology,Ibuprofen,148,6
+2024-07-30,Hosp_B_Oncology,Amoxicillin,290,7
+2024-07-30,Hosp_B_Oncology,Metformin,269,122
+2024-07-30,Hosp_B_Oncology,Atorvastatin,117,113
+2024-07-30,Hosp_B_Oncology,Letrozole,240,192
+2024-07-30,Hosp_B_Oncology,Trastuzumab,114,167
+2024-07-30,Hosp_B_Oncology,Oseltamivir,177,0
+2024-07-30,Hosp_B_Oncology,Cough Syrup,162,9
+2024-07-31,Hosp_B_Oncology,Paracetamol,255,6
+2024-07-31,Hosp_B_Oncology,Ibuprofen,123,5
+2024-07-31,Hosp_B_Oncology,Amoxicillin,69,6
+2024-07-31,Hosp_B_Oncology,Metformin,107,109
+2024-07-31,Hosp_B_Oncology,Atorvastatin,59,138
+2024-07-31,Hosp_B_Oncology,Letrozole,205,129
+2024-07-31,Hosp_B_Oncology,Trastuzumab,86,166
+2024-07-31,Hosp_B_Oncology,Oseltamivir,291,4
+2024-07-31,Hosp_B_Oncology,Cough Syrup,101,4
+2024-08-01,Hosp_B_Oncology,Paracetamol,62,9
+2024-08-01,Hosp_B_Oncology,Ibuprofen,180,2
+2024-08-01,Hosp_B_Oncology,Amoxicillin,274,4
+2024-08-01,Hosp_B_Oncology,Metformin,113,194
+2024-08-01,Hosp_B_Oncology,Atorvastatin,229,133
+2024-08-01,Hosp_B_Oncology,Letrozole,273,134
+2024-08-01,Hosp_B_Oncology,Trastuzumab,64,195
+2024-08-01,Hosp_B_Oncology,Oseltamivir,55,4
+2024-08-01,Hosp_B_Oncology,Cough Syrup,146,3
+2024-08-02,Hosp_B_Oncology,Paracetamol,268,9
+2024-08-02,Hosp_B_Oncology,Ibuprofen,260,7
+2024-08-02,Hosp_B_Oncology,Amoxicillin,75,7
+2024-08-02,Hosp_B_Oncology,Metformin,131,199
+2024-08-02,Hosp_B_Oncology,Atorvastatin,283,128
+2024-08-02,Hosp_B_Oncology,Letrozole,66,167
+2024-08-02,Hosp_B_Oncology,Trastuzumab,93,160
+2024-08-02,Hosp_B_Oncology,Oseltamivir,172,3
+2024-08-02,Hosp_B_Oncology,Cough Syrup,123,8
+2024-08-03,Hosp_B_Oncology,Paracetamol,79,4
+2024-08-03,Hosp_B_Oncology,Ibuprofen,168,6
+2024-08-03,Hosp_B_Oncology,Amoxicillin,260,3
+2024-08-03,Hosp_B_Oncology,Metformin,299,187
+2024-08-03,Hosp_B_Oncology,Atorvastatin,275,122
+2024-08-03,Hosp_B_Oncology,Letrozole,97,139
+2024-08-03,Hosp_B_Oncology,Trastuzumab,55,137
+2024-08-03,Hosp_B_Oncology,Oseltamivir,218,3
+2024-08-03,Hosp_B_Oncology,Cough Syrup,76,4
+2024-08-04,Hosp_B_Oncology,Paracetamol,232,9
+2024-08-04,Hosp_B_Oncology,Ibuprofen,266,1
+2024-08-04,Hosp_B_Oncology,Amoxicillin,73,6
+2024-08-04,Hosp_B_Oncology,Metformin,149,123
+2024-08-04,Hosp_B_Oncology,Atorvastatin,204,136
+2024-08-04,Hosp_B_Oncology,Letrozole,279,193
+2024-08-04,Hosp_B_Oncology,Trastuzumab,140,138
+2024-08-04,Hosp_B_Oncology,Oseltamivir,240,9
+2024-08-04,Hosp_B_Oncology,Cough Syrup,114,7
+2024-08-05,Hosp_B_Oncology,Paracetamol,235,3
+2024-08-05,Hosp_B_Oncology,Ibuprofen,81,1
+2024-08-05,Hosp_B_Oncology,Amoxicillin,113,6
+2024-08-05,Hosp_B_Oncology,Metformin,219,147
+2024-08-05,Hosp_B_Oncology,Atorvastatin,251,180
+2024-08-05,Hosp_B_Oncology,Letrozole,207,120
+2024-08-05,Hosp_B_Oncology,Trastuzumab,109,112
+2024-08-05,Hosp_B_Oncology,Oseltamivir,50,0
+2024-08-05,Hosp_B_Oncology,Cough Syrup,288,0
+2024-08-06,Hosp_B_Oncology,Paracetamol,66,0
+2024-08-06,Hosp_B_Oncology,Ibuprofen,125,3
+2024-08-06,Hosp_B_Oncology,Amoxicillin,227,2
+2024-08-06,Hosp_B_Oncology,Metformin,92,156
+2024-08-06,Hosp_B_Oncology,Atorvastatin,99,167
+2024-08-06,Hosp_B_Oncology,Letrozole,258,149
+2024-08-06,Hosp_B_Oncology,Trastuzumab,86,145
+2024-08-06,Hosp_B_Oncology,Oseltamivir,219,0
+2024-08-06,Hosp_B_Oncology,Cough Syrup,129,6
+2024-08-07,Hosp_B_Oncology,Paracetamol,101,6
+2024-08-07,Hosp_B_Oncology,Ibuprofen,266,3
+2024-08-07,Hosp_B_Oncology,Amoxicillin,85,5
+2024-08-07,Hosp_B_Oncology,Metformin,103,116
+2024-08-07,Hosp_B_Oncology,Atorvastatin,286,174
+2024-08-07,Hosp_B_Oncology,Letrozole,207,198
+2024-08-07,Hosp_B_Oncology,Trastuzumab,154,121
+2024-08-07,Hosp_B_Oncology,Oseltamivir,166,2
+2024-08-07,Hosp_B_Oncology,Cough Syrup,76,4
+2024-08-08,Hosp_B_Oncology,Paracetamol,157,7
+2024-08-08,Hosp_B_Oncology,Ibuprofen,220,9
+2024-08-08,Hosp_B_Oncology,Amoxicillin,254,8
+2024-08-08,Hosp_B_Oncology,Metformin,130,187
+2024-08-08,Hosp_B_Oncology,Atorvastatin,244,129
+2024-08-08,Hosp_B_Oncology,Letrozole,293,112
+2024-08-08,Hosp_B_Oncology,Trastuzumab,68,106
+2024-08-08,Hosp_B_Oncology,Oseltamivir,186,2
+2024-08-08,Hosp_B_Oncology,Cough Syrup,286,5
+2024-08-09,Hosp_B_Oncology,Paracetamol,107,7
+2024-08-09,Hosp_B_Oncology,Ibuprofen,232,8
+2024-08-09,Hosp_B_Oncology,Amoxicillin,194,6
+2024-08-09,Hosp_B_Oncology,Metformin,139,167
+2024-08-09,Hosp_B_Oncology,Atorvastatin,104,144
+2024-08-09,Hosp_B_Oncology,Letrozole,253,100
+2024-08-09,Hosp_B_Oncology,Trastuzumab,70,182
+2024-08-09,Hosp_B_Oncology,Oseltamivir,70,3
+2024-08-09,Hosp_B_Oncology,Cough Syrup,131,3
+2024-08-10,Hosp_B_Oncology,Paracetamol,86,2
+2024-08-10,Hosp_B_Oncology,Ibuprofen,78,8
+2024-08-10,Hosp_B_Oncology,Amoxicillin,210,3
+2024-08-10,Hosp_B_Oncology,Metformin,238,192
+2024-08-10,Hosp_B_Oncology,Atorvastatin,171,189
+2024-08-10,Hosp_B_Oncology,Letrozole,181,113
+2024-08-10,Hosp_B_Oncology,Trastuzumab,291,190
+2024-08-10,Hosp_B_Oncology,Oseltamivir,210,5
+2024-08-10,Hosp_B_Oncology,Cough Syrup,225,2
+2024-08-11,Hosp_B_Oncology,Paracetamol,290,6
+2024-08-11,Hosp_B_Oncology,Ibuprofen,100,5
+2024-08-11,Hosp_B_Oncology,Amoxicillin,216,0
+2024-08-11,Hosp_B_Oncology,Metformin,210,128
+2024-08-11,Hosp_B_Oncology,Atorvastatin,118,169
+2024-08-11,Hosp_B_Oncology,Letrozole,208,179
+2024-08-11,Hosp_B_Oncology,Trastuzumab,80,188
+2024-08-11,Hosp_B_Oncology,Oseltamivir,161,0
+2024-08-11,Hosp_B_Oncology,Cough Syrup,254,3
+2024-08-12,Hosp_B_Oncology,Paracetamol,146,4
+2024-08-12,Hosp_B_Oncology,Ibuprofen,162,7
+2024-08-12,Hosp_B_Oncology,Amoxicillin,256,3
+2024-08-12,Hosp_B_Oncology,Metformin,181,133
+2024-08-12,Hosp_B_Oncology,Atorvastatin,246,132
+2024-08-12,Hosp_B_Oncology,Letrozole,170,168
+2024-08-12,Hosp_B_Oncology,Trastuzumab,87,197
+2024-08-12,Hosp_B_Oncology,Oseltamivir,171,9
+2024-08-12,Hosp_B_Oncology,Cough Syrup,178,3
+2024-08-13,Hosp_B_Oncology,Paracetamol,179,6
+2024-08-13,Hosp_B_Oncology,Ibuprofen,161,4
+2024-08-13,Hosp_B_Oncology,Amoxicillin,196,8
+2024-08-13,Hosp_B_Oncology,Metformin,96,121
+2024-08-13,Hosp_B_Oncology,Atorvastatin,252,132
+2024-08-13,Hosp_B_Oncology,Letrozole,209,163
+2024-08-13,Hosp_B_Oncology,Trastuzumab,134,138
+2024-08-13,Hosp_B_Oncology,Oseltamivir,177,3
+2024-08-13,Hosp_B_Oncology,Cough Syrup,121,9
+2024-08-14,Hosp_B_Oncology,Paracetamol,135,9
+2024-08-14,Hosp_B_Oncology,Ibuprofen,273,7
+2024-08-14,Hosp_B_Oncology,Amoxicillin,159,2
+2024-08-14,Hosp_B_Oncology,Metformin,86,195
+2024-08-14,Hosp_B_Oncology,Atorvastatin,120,132
+2024-08-14,Hosp_B_Oncology,Letrozole,80,154
+2024-08-14,Hosp_B_Oncology,Trastuzumab,174,111
+2024-08-14,Hosp_B_Oncology,Oseltamivir,60,7
+2024-08-14,Hosp_B_Oncology,Cough Syrup,121,8
+2024-08-15,Hosp_B_Oncology,Paracetamol,50,5
+2024-08-15,Hosp_B_Oncology,Ibuprofen,90,6
+2024-08-15,Hosp_B_Oncology,Amoxicillin,54,1
+2024-08-15,Hosp_B_Oncology,Metformin,226,181
+2024-08-15,Hosp_B_Oncology,Atorvastatin,114,182
+2024-08-15,Hosp_B_Oncology,Letrozole,231,160
+2024-08-15,Hosp_B_Oncology,Trastuzumab,185,102
+2024-08-15,Hosp_B_Oncology,Oseltamivir,299,8
+2024-08-15,Hosp_B_Oncology,Cough Syrup,299,4
+2024-08-16,Hosp_B_Oncology,Paracetamol,170,5
+2024-08-16,Hosp_B_Oncology,Ibuprofen,99,7
+2024-08-16,Hosp_B_Oncology,Amoxicillin,285,8
+2024-08-16,Hosp_B_Oncology,Metformin,282,181
+2024-08-16,Hosp_B_Oncology,Atorvastatin,227,128
+2024-08-16,Hosp_B_Oncology,Letrozole,88,190
+2024-08-16,Hosp_B_Oncology,Trastuzumab,149,144
+2024-08-16,Hosp_B_Oncology,Oseltamivir,66,7
+2024-08-16,Hosp_B_Oncology,Cough Syrup,275,2
+2024-08-17,Hosp_B_Oncology,Paracetamol,254,8
+2024-08-17,Hosp_B_Oncology,Ibuprofen,172,6
+2024-08-17,Hosp_B_Oncology,Amoxicillin,264,7
+2024-08-17,Hosp_B_Oncology,Metformin,118,168
+2024-08-17,Hosp_B_Oncology,Atorvastatin,130,129
+2024-08-17,Hosp_B_Oncology,Letrozole,122,105
+2024-08-17,Hosp_B_Oncology,Trastuzumab,138,118
+2024-08-17,Hosp_B_Oncology,Oseltamivir,257,4
+2024-08-17,Hosp_B_Oncology,Cough Syrup,115,9
+2024-08-18,Hosp_B_Oncology,Paracetamol,123,8
+2024-08-18,Hosp_B_Oncology,Ibuprofen,272,2
+2024-08-18,Hosp_B_Oncology,Amoxicillin,52,3
+2024-08-18,Hosp_B_Oncology,Metformin,92,114
+2024-08-18,Hosp_B_Oncology,Atorvastatin,274,140
+2024-08-18,Hosp_B_Oncology,Letrozole,284,189
+2024-08-18,Hosp_B_Oncology,Trastuzumab,257,135
+2024-08-18,Hosp_B_Oncology,Oseltamivir,274,3
+2024-08-18,Hosp_B_Oncology,Cough Syrup,126,0
+2024-08-19,Hosp_B_Oncology,Paracetamol,209,5
+2024-08-19,Hosp_B_Oncology,Ibuprofen,161,1
+2024-08-19,Hosp_B_Oncology,Amoxicillin,89,5
+2024-08-19,Hosp_B_Oncology,Metformin,97,154
+2024-08-19,Hosp_B_Oncology,Atorvastatin,124,180
+2024-08-19,Hosp_B_Oncology,Letrozole,232,150
+2024-08-19,Hosp_B_Oncology,Trastuzumab,156,159
+2024-08-19,Hosp_B_Oncology,Oseltamivir,57,5
+2024-08-19,Hosp_B_Oncology,Cough Syrup,117,7
+2024-08-20,Hosp_B_Oncology,Paracetamol,138,1
+2024-08-20,Hosp_B_Oncology,Ibuprofen,119,1
+2024-08-20,Hosp_B_Oncology,Amoxicillin,165,7
+2024-08-20,Hosp_B_Oncology,Metformin,62,142
+2024-08-20,Hosp_B_Oncology,Atorvastatin,237,156
+2024-08-20,Hosp_B_Oncology,Letrozole,248,116
+2024-08-20,Hosp_B_Oncology,Trastuzumab,227,131
+2024-08-20,Hosp_B_Oncology,Oseltamivir,199,6
+2024-08-20,Hosp_B_Oncology,Cough Syrup,292,8
+2024-08-21,Hosp_B_Oncology,Paracetamol,174,0
+2024-08-21,Hosp_B_Oncology,Ibuprofen,53,9
+2024-08-21,Hosp_B_Oncology,Amoxicillin,52,3
+2024-08-21,Hosp_B_Oncology,Metformin,282,198
+2024-08-21,Hosp_B_Oncology,Atorvastatin,77,169
+2024-08-21,Hosp_B_Oncology,Letrozole,247,154
+2024-08-21,Hosp_B_Oncology,Trastuzumab,106,186
+2024-08-21,Hosp_B_Oncology,Oseltamivir,274,7
+2024-08-21,Hosp_B_Oncology,Cough Syrup,246,8
+2024-08-22,Hosp_B_Oncology,Paracetamol,294,2
+2024-08-22,Hosp_B_Oncology,Ibuprofen,143,2
+2024-08-22,Hosp_B_Oncology,Amoxicillin,60,8
+2024-08-22,Hosp_B_Oncology,Metformin,117,124
+2024-08-22,Hosp_B_Oncology,Atorvastatin,225,131
+2024-08-22,Hosp_B_Oncology,Letrozole,133,194
+2024-08-22,Hosp_B_Oncology,Trastuzumab,181,137
+2024-08-22,Hosp_B_Oncology,Oseltamivir,294,0
+2024-08-22,Hosp_B_Oncology,Cough Syrup,180,4
+2024-08-23,Hosp_B_Oncology,Paracetamol,154,6
+2024-08-23,Hosp_B_Oncology,Ibuprofen,171,9
+2024-08-23,Hosp_B_Oncology,Amoxicillin,174,7
+2024-08-23,Hosp_B_Oncology,Metformin,221,156
+2024-08-23,Hosp_B_Oncology,Atorvastatin,183,191
+2024-08-23,Hosp_B_Oncology,Letrozole,81,173
+2024-08-23,Hosp_B_Oncology,Trastuzumab,163,117
+2024-08-23,Hosp_B_Oncology,Oseltamivir,117,8
+2024-08-23,Hosp_B_Oncology,Cough Syrup,184,1
+2024-08-24,Hosp_B_Oncology,Paracetamol,296,2
+2024-08-24,Hosp_B_Oncology,Ibuprofen,165,5
+2024-08-24,Hosp_B_Oncology,Amoxicillin,84,6
+2024-08-24,Hosp_B_Oncology,Metformin,174,108
+2024-08-24,Hosp_B_Oncology,Atorvastatin,253,114
+2024-08-24,Hosp_B_Oncology,Letrozole,70,151
+2024-08-24,Hosp_B_Oncology,Trastuzumab,212,196
+2024-08-24,Hosp_B_Oncology,Oseltamivir,100,2
+2024-08-24,Hosp_B_Oncology,Cough Syrup,104,6
+2024-08-25,Hosp_B_Oncology,Paracetamol,160,7
+2024-08-25,Hosp_B_Oncology,Ibuprofen,274,3
+2024-08-25,Hosp_B_Oncology,Amoxicillin,191,3
+2024-08-25,Hosp_B_Oncology,Metformin,246,186
+2024-08-25,Hosp_B_Oncology,Atorvastatin,158,178
+2024-08-25,Hosp_B_Oncology,Letrozole,183,132
+2024-08-25,Hosp_B_Oncology,Trastuzumab,232,118
+2024-08-25,Hosp_B_Oncology,Oseltamivir,176,5
+2024-08-25,Hosp_B_Oncology,Cough Syrup,256,7
+2024-08-26,Hosp_B_Oncology,Paracetamol,277,7
+2024-08-26,Hosp_B_Oncology,Ibuprofen,293,6
+2024-08-26,Hosp_B_Oncology,Amoxicillin,117,4
+2024-08-26,Hosp_B_Oncology,Metformin,104,192
+2024-08-26,Hosp_B_Oncology,Atorvastatin,207,128
+2024-08-26,Hosp_B_Oncology,Letrozole,203,182
+2024-08-26,Hosp_B_Oncology,Trastuzumab,203,136
+2024-08-26,Hosp_B_Oncology,Oseltamivir,268,2
+2024-08-26,Hosp_B_Oncology,Cough Syrup,230,2
+2024-08-27,Hosp_B_Oncology,Paracetamol,227,8
+2024-08-27,Hosp_B_Oncology,Ibuprofen,243,1
+2024-08-27,Hosp_B_Oncology,Amoxicillin,180,2
+2024-08-27,Hosp_B_Oncology,Metformin,245,186
+2024-08-27,Hosp_B_Oncology,Atorvastatin,298,183
+2024-08-27,Hosp_B_Oncology,Letrozole,202,129
+2024-08-27,Hosp_B_Oncology,Trastuzumab,259,110
+2024-08-27,Hosp_B_Oncology,Oseltamivir,270,0
+2024-08-27,Hosp_B_Oncology,Cough Syrup,203,7
+2024-08-28,Hosp_B_Oncology,Paracetamol,211,4
+2024-08-28,Hosp_B_Oncology,Ibuprofen,133,7
+2024-08-28,Hosp_B_Oncology,Amoxicillin,120,5
+2024-08-28,Hosp_B_Oncology,Metformin,188,181
+2024-08-28,Hosp_B_Oncology,Atorvastatin,292,192
+2024-08-28,Hosp_B_Oncology,Letrozole,266,162
+2024-08-28,Hosp_B_Oncology,Trastuzumab,70,102
+2024-08-28,Hosp_B_Oncology,Oseltamivir,131,7
+2024-08-28,Hosp_B_Oncology,Cough Syrup,160,5
+2024-08-29,Hosp_B_Oncology,Paracetamol,53,4
+2024-08-29,Hosp_B_Oncology,Ibuprofen,278,7
+2024-08-29,Hosp_B_Oncology,Amoxicillin,154,1
+2024-08-29,Hosp_B_Oncology,Metformin,236,106
+2024-08-29,Hosp_B_Oncology,Atorvastatin,98,115
+2024-08-29,Hosp_B_Oncology,Letrozole,194,183
+2024-08-29,Hosp_B_Oncology,Trastuzumab,299,186
+2024-08-29,Hosp_B_Oncology,Oseltamivir,147,1
+2024-08-29,Hosp_B_Oncology,Cough Syrup,210,9
+2024-08-30,Hosp_B_Oncology,Paracetamol,137,2
+2024-08-30,Hosp_B_Oncology,Ibuprofen,101,9
+2024-08-30,Hosp_B_Oncology,Amoxicillin,174,0
+2024-08-30,Hosp_B_Oncology,Metformin,101,189
+2024-08-30,Hosp_B_Oncology,Atorvastatin,299,175
+2024-08-30,Hosp_B_Oncology,Letrozole,191,188
+2024-08-30,Hosp_B_Oncology,Trastuzumab,121,167
+2024-08-30,Hosp_B_Oncology,Oseltamivir,205,6
+2024-08-30,Hosp_B_Oncology,Cough Syrup,187,2
+2024-08-31,Hosp_B_Oncology,Paracetamol,51,5
+2024-08-31,Hosp_B_Oncology,Ibuprofen,54,4
+2024-08-31,Hosp_B_Oncology,Amoxicillin,229,5
+2024-08-31,Hosp_B_Oncology,Metformin,182,158
+2024-08-31,Hosp_B_Oncology,Atorvastatin,117,108
+2024-08-31,Hosp_B_Oncology,Letrozole,142,121
+2024-08-31,Hosp_B_Oncology,Trastuzumab,204,109
+2024-08-31,Hosp_B_Oncology,Oseltamivir,257,9
+2024-08-31,Hosp_B_Oncology,Cough Syrup,174,9
+2024-09-01,Hosp_B_Oncology,Paracetamol,90,0
+2024-09-01,Hosp_B_Oncology,Ibuprofen,224,6
+2024-09-01,Hosp_B_Oncology,Amoxicillin,103,6
+2024-09-01,Hosp_B_Oncology,Metformin,144,118
+2024-09-01,Hosp_B_Oncology,Atorvastatin,111,198
+2024-09-01,Hosp_B_Oncology,Letrozole,142,158
+2024-09-01,Hosp_B_Oncology,Trastuzumab,114,167
+2024-09-01,Hosp_B_Oncology,Oseltamivir,77,1
+2024-09-01,Hosp_B_Oncology,Cough Syrup,75,7
+2024-09-02,Hosp_B_Oncology,Paracetamol,206,7
+2024-09-02,Hosp_B_Oncology,Ibuprofen,129,5
+2024-09-02,Hosp_B_Oncology,Amoxicillin,172,2
+2024-09-02,Hosp_B_Oncology,Metformin,82,117
+2024-09-02,Hosp_B_Oncology,Atorvastatin,214,112
+2024-09-02,Hosp_B_Oncology,Letrozole,251,189
+2024-09-02,Hosp_B_Oncology,Trastuzumab,159,180
+2024-09-02,Hosp_B_Oncology,Oseltamivir,241,0
+2024-09-02,Hosp_B_Oncology,Cough Syrup,112,8
+2024-09-03,Hosp_B_Oncology,Paracetamol,256,7
+2024-09-03,Hosp_B_Oncology,Ibuprofen,198,6
+2024-09-03,Hosp_B_Oncology,Amoxicillin,170,4
+2024-09-03,Hosp_B_Oncology,Metformin,108,168
+2024-09-03,Hosp_B_Oncology,Atorvastatin,239,103
+2024-09-03,Hosp_B_Oncology,Letrozole,135,117
+2024-09-03,Hosp_B_Oncology,Trastuzumab,276,180
+2024-09-03,Hosp_B_Oncology,Oseltamivir,291,1
+2024-09-03,Hosp_B_Oncology,Cough Syrup,233,7
+2024-09-04,Hosp_B_Oncology,Paracetamol,107,2
+2024-09-04,Hosp_B_Oncology,Ibuprofen,240,9
+2024-09-04,Hosp_B_Oncology,Amoxicillin,216,3
+2024-09-04,Hosp_B_Oncology,Metformin,150,147
+2024-09-04,Hosp_B_Oncology,Atorvastatin,282,170
+2024-09-04,Hosp_B_Oncology,Letrozole,165,153
+2024-09-04,Hosp_B_Oncology,Trastuzumab,171,177
+2024-09-04,Hosp_B_Oncology,Oseltamivir,252,6
+2024-09-04,Hosp_B_Oncology,Cough Syrup,78,9
+2024-09-05,Hosp_B_Oncology,Paracetamol,189,9
+2024-09-05,Hosp_B_Oncology,Ibuprofen,148,7
+2024-09-05,Hosp_B_Oncology,Amoxicillin,103,1
+2024-09-05,Hosp_B_Oncology,Metformin,227,140
+2024-09-05,Hosp_B_Oncology,Atorvastatin,94,108
+2024-09-05,Hosp_B_Oncology,Letrozole,239,185
+2024-09-05,Hosp_B_Oncology,Trastuzumab,96,104
+2024-09-05,Hosp_B_Oncology,Oseltamivir,253,0
+2024-09-05,Hosp_B_Oncology,Cough Syrup,93,5
+2024-09-06,Hosp_B_Oncology,Paracetamol,129,7
+2024-09-06,Hosp_B_Oncology,Ibuprofen,285,4
+2024-09-06,Hosp_B_Oncology,Amoxicillin,149,7
+2024-09-06,Hosp_B_Oncology,Metformin,152,161
+2024-09-06,Hosp_B_Oncology,Atorvastatin,247,168
+2024-09-06,Hosp_B_Oncology,Letrozole,191,141
+2024-09-06,Hosp_B_Oncology,Trastuzumab,227,160
+2024-09-06,Hosp_B_Oncology,Oseltamivir,53,7
+2024-09-06,Hosp_B_Oncology,Cough Syrup,265,0
+2024-09-07,Hosp_B_Oncology,Paracetamol,214,4
+2024-09-07,Hosp_B_Oncology,Ibuprofen,181,1
+2024-09-07,Hosp_B_Oncology,Amoxicillin,141,5
+2024-09-07,Hosp_B_Oncology,Metformin,218,191
+2024-09-07,Hosp_B_Oncology,Atorvastatin,130,113
+2024-09-07,Hosp_B_Oncology,Letrozole,120,185
+2024-09-07,Hosp_B_Oncology,Trastuzumab,228,164
+2024-09-07,Hosp_B_Oncology,Oseltamivir,270,3
+2024-09-07,Hosp_B_Oncology,Cough Syrup,272,8
+2024-09-08,Hosp_B_Oncology,Paracetamol,164,8
+2024-09-08,Hosp_B_Oncology,Ibuprofen,161,3
+2024-09-08,Hosp_B_Oncology,Amoxicillin,151,7
+2024-09-08,Hosp_B_Oncology,Metformin,270,123
+2024-09-08,Hosp_B_Oncology,Atorvastatin,97,162
+2024-09-08,Hosp_B_Oncology,Letrozole,118,152
+2024-09-08,Hosp_B_Oncology,Trastuzumab,231,141
+2024-09-08,Hosp_B_Oncology,Oseltamivir,168,9
+2024-09-08,Hosp_B_Oncology,Cough Syrup,63,6
+2024-09-09,Hosp_B_Oncology,Paracetamol,54,0
+2024-09-09,Hosp_B_Oncology,Ibuprofen,254,5
+2024-09-09,Hosp_B_Oncology,Amoxicillin,60,4
+2024-09-09,Hosp_B_Oncology,Metformin,57,124
+2024-09-09,Hosp_B_Oncology,Atorvastatin,217,131
+2024-09-09,Hosp_B_Oncology,Letrozole,265,127
+2024-09-09,Hosp_B_Oncology,Trastuzumab,255,102
+2024-09-09,Hosp_B_Oncology,Oseltamivir,277,3
+2024-09-09,Hosp_B_Oncology,Cough Syrup,288,4
+2024-09-10,Hosp_B_Oncology,Paracetamol,296,4
+2024-09-10,Hosp_B_Oncology,Ibuprofen,271,4
+2024-09-10,Hosp_B_Oncology,Amoxicillin,280,2
+2024-09-10,Hosp_B_Oncology,Metformin,183,154
+2024-09-10,Hosp_B_Oncology,Atorvastatin,274,143
+2024-09-10,Hosp_B_Oncology,Letrozole,67,115
+2024-09-10,Hosp_B_Oncology,Trastuzumab,61,119
+2024-09-10,Hosp_B_Oncology,Oseltamivir,94,7
+2024-09-10,Hosp_B_Oncology,Cough Syrup,236,9
+2024-09-11,Hosp_B_Oncology,Paracetamol,242,8
+2024-09-11,Hosp_B_Oncology,Ibuprofen,52,2
+2024-09-11,Hosp_B_Oncology,Amoxicillin,128,5
+2024-09-11,Hosp_B_Oncology,Metformin,257,173
+2024-09-11,Hosp_B_Oncology,Atorvastatin,295,192
+2024-09-11,Hosp_B_Oncology,Letrozole,172,158
+2024-09-11,Hosp_B_Oncology,Trastuzumab,55,128
+2024-09-11,Hosp_B_Oncology,Oseltamivir,66,4
+2024-09-11,Hosp_B_Oncology,Cough Syrup,109,5
+2024-09-12,Hosp_B_Oncology,Paracetamol,281,8
+2024-09-12,Hosp_B_Oncology,Ibuprofen,280,4
+2024-09-12,Hosp_B_Oncology,Amoxicillin,212,0
+2024-09-12,Hosp_B_Oncology,Metformin,92,140
+2024-09-12,Hosp_B_Oncology,Atorvastatin,86,156
+2024-09-12,Hosp_B_Oncology,Letrozole,91,146
+2024-09-12,Hosp_B_Oncology,Trastuzumab,141,160
+2024-09-12,Hosp_B_Oncology,Oseltamivir,191,3
+2024-09-12,Hosp_B_Oncology,Cough Syrup,102,3
+2024-09-13,Hosp_B_Oncology,Paracetamol,112,8
+2024-09-13,Hosp_B_Oncology,Ibuprofen,230,8
+2024-09-13,Hosp_B_Oncology,Amoxicillin,169,3
+2024-09-13,Hosp_B_Oncology,Metformin,156,142
+2024-09-13,Hosp_B_Oncology,Atorvastatin,184,141
+2024-09-13,Hosp_B_Oncology,Letrozole,53,168
+2024-09-13,Hosp_B_Oncology,Trastuzumab,182,174
+2024-09-13,Hosp_B_Oncology,Oseltamivir,282,8
+2024-09-13,Hosp_B_Oncology,Cough Syrup,295,3
+2024-09-14,Hosp_B_Oncology,Paracetamol,137,4
+2024-09-14,Hosp_B_Oncology,Ibuprofen,242,8
+2024-09-14,Hosp_B_Oncology,Amoxicillin,194,5
+2024-09-14,Hosp_B_Oncology,Metformin,114,102
+2024-09-14,Hosp_B_Oncology,Atorvastatin,288,125
+2024-09-14,Hosp_B_Oncology,Letrozole,230,130
+2024-09-14,Hosp_B_Oncology,Trastuzumab,75,122
+2024-09-14,Hosp_B_Oncology,Oseltamivir,79,9
+2024-09-14,Hosp_B_Oncology,Cough Syrup,121,8
+2024-09-15,Hosp_B_Oncology,Paracetamol,249,2
+2024-09-15,Hosp_B_Oncology,Ibuprofen,295,9
+2024-09-15,Hosp_B_Oncology,Amoxicillin,71,0
+2024-09-15,Hosp_B_Oncology,Metformin,215,134
+2024-09-15,Hosp_B_Oncology,Atorvastatin,156,166
+2024-09-15,Hosp_B_Oncology,Letrozole,132,109
+2024-09-15,Hosp_B_Oncology,Trastuzumab,268,114
+2024-09-15,Hosp_B_Oncology,Oseltamivir,188,9
+2024-09-15,Hosp_B_Oncology,Cough Syrup,73,4
+2024-09-16,Hosp_B_Oncology,Paracetamol,255,9
+2024-09-16,Hosp_B_Oncology,Ibuprofen,244,5
+2024-09-16,Hosp_B_Oncology,Amoxicillin,78,6
+2024-09-16,Hosp_B_Oncology,Metformin,72,181
+2024-09-16,Hosp_B_Oncology,Atorvastatin,95,182
+2024-09-16,Hosp_B_Oncology,Letrozole,77,125
+2024-09-16,Hosp_B_Oncology,Trastuzumab,59,146
+2024-09-16,Hosp_B_Oncology,Oseltamivir,53,6
+2024-09-16,Hosp_B_Oncology,Cough Syrup,115,2
+2024-09-17,Hosp_B_Oncology,Paracetamol,248,7
+2024-09-17,Hosp_B_Oncology,Ibuprofen,261,2
+2024-09-17,Hosp_B_Oncology,Amoxicillin,258,8
+2024-09-17,Hosp_B_Oncology,Metformin,59,185
+2024-09-17,Hosp_B_Oncology,Atorvastatin,151,156
+2024-09-17,Hosp_B_Oncology,Letrozole,274,185
+2024-09-17,Hosp_B_Oncology,Trastuzumab,157,136
+2024-09-17,Hosp_B_Oncology,Oseltamivir,254,5
+2024-09-17,Hosp_B_Oncology,Cough Syrup,271,7
+2024-09-18,Hosp_B_Oncology,Paracetamol,62,7
+2024-09-18,Hosp_B_Oncology,Ibuprofen,123,7
+2024-09-18,Hosp_B_Oncology,Amoxicillin,241,3
+2024-09-18,Hosp_B_Oncology,Metformin,121,172
+2024-09-18,Hosp_B_Oncology,Atorvastatin,120,177
+2024-09-18,Hosp_B_Oncology,Letrozole,77,101
+2024-09-18,Hosp_B_Oncology,Trastuzumab,170,142
+2024-09-18,Hosp_B_Oncology,Oseltamivir,57,4
+2024-09-18,Hosp_B_Oncology,Cough Syrup,160,2
+2024-09-19,Hosp_B_Oncology,Paracetamol,207,8
+2024-09-19,Hosp_B_Oncology,Ibuprofen,165,9
+2024-09-19,Hosp_B_Oncology,Amoxicillin,284,5
+2024-09-19,Hosp_B_Oncology,Metformin,198,100
+2024-09-19,Hosp_B_Oncology,Atorvastatin,214,176
+2024-09-19,Hosp_B_Oncology,Letrozole,134,145
+2024-09-19,Hosp_B_Oncology,Trastuzumab,186,116
+2024-09-19,Hosp_B_Oncology,Oseltamivir,96,4
+2024-09-19,Hosp_B_Oncology,Cough Syrup,272,6
+2024-09-20,Hosp_B_Oncology,Paracetamol,243,3
+2024-09-20,Hosp_B_Oncology,Ibuprofen,160,1
+2024-09-20,Hosp_B_Oncology,Amoxicillin,50,9
+2024-09-20,Hosp_B_Oncology,Metformin,142,192
+2024-09-20,Hosp_B_Oncology,Atorvastatin,260,143
+2024-09-20,Hosp_B_Oncology,Letrozole,281,105
+2024-09-20,Hosp_B_Oncology,Trastuzumab,157,149
+2024-09-20,Hosp_B_Oncology,Oseltamivir,167,7
+2024-09-20,Hosp_B_Oncology,Cough Syrup,137,3
+2024-09-21,Hosp_B_Oncology,Paracetamol,110,5
+2024-09-21,Hosp_B_Oncology,Ibuprofen,265,0
+2024-09-21,Hosp_B_Oncology,Amoxicillin,102,2
+2024-09-21,Hosp_B_Oncology,Metformin,125,155
+2024-09-21,Hosp_B_Oncology,Atorvastatin,76,137
+2024-09-21,Hosp_B_Oncology,Letrozole,111,117
+2024-09-21,Hosp_B_Oncology,Trastuzumab,176,163
+2024-09-21,Hosp_B_Oncology,Oseltamivir,296,4
+2024-09-21,Hosp_B_Oncology,Cough Syrup,153,4
+2024-09-22,Hosp_B_Oncology,Paracetamol,269,8
+2024-09-22,Hosp_B_Oncology,Ibuprofen,143,6
+2024-09-22,Hosp_B_Oncology,Amoxicillin,299,9
+2024-09-22,Hosp_B_Oncology,Metformin,281,145
+2024-09-22,Hosp_B_Oncology,Atorvastatin,167,145
+2024-09-22,Hosp_B_Oncology,Letrozole,252,113
+2024-09-22,Hosp_B_Oncology,Trastuzumab,134,162
+2024-09-22,Hosp_B_Oncology,Oseltamivir,121,2
+2024-09-22,Hosp_B_Oncology,Cough Syrup,77,6
+2024-09-23,Hosp_B_Oncology,Paracetamol,271,1
+2024-09-23,Hosp_B_Oncology,Ibuprofen,268,7
+2024-09-23,Hosp_B_Oncology,Amoxicillin,81,6
+2024-09-23,Hosp_B_Oncology,Metformin,165,108
+2024-09-23,Hosp_B_Oncology,Atorvastatin,240,171
+2024-09-23,Hosp_B_Oncology,Letrozole,127,132
+2024-09-23,Hosp_B_Oncology,Trastuzumab,136,120
+2024-09-23,Hosp_B_Oncology,Oseltamivir,104,8
+2024-09-23,Hosp_B_Oncology,Cough Syrup,179,3
+2024-09-24,Hosp_B_Oncology,Paracetamol,290,9
+2024-09-24,Hosp_B_Oncology,Ibuprofen,136,5
+2024-09-24,Hosp_B_Oncology,Amoxicillin,266,6
+2024-09-24,Hosp_B_Oncology,Metformin,175,159
+2024-09-24,Hosp_B_Oncology,Atorvastatin,284,111
+2024-09-24,Hosp_B_Oncology,Letrozole,190,199
+2024-09-24,Hosp_B_Oncology,Trastuzumab,152,197
+2024-09-24,Hosp_B_Oncology,Oseltamivir,183,5
+2024-09-24,Hosp_B_Oncology,Cough Syrup,177,1
+2024-09-25,Hosp_B_Oncology,Paracetamol,295,8
+2024-09-25,Hosp_B_Oncology,Ibuprofen,156,9
+2024-09-25,Hosp_B_Oncology,Amoxicillin,230,8
+2024-09-25,Hosp_B_Oncology,Metformin,138,184
+2024-09-25,Hosp_B_Oncology,Atorvastatin,186,137
+2024-09-25,Hosp_B_Oncology,Letrozole,199,186
+2024-09-25,Hosp_B_Oncology,Trastuzumab,226,167
+2024-09-25,Hosp_B_Oncology,Oseltamivir,270,0
+2024-09-25,Hosp_B_Oncology,Cough Syrup,103,3
+2024-09-26,Hosp_B_Oncology,Paracetamol,158,0
+2024-09-26,Hosp_B_Oncology,Ibuprofen,217,3
+2024-09-26,Hosp_B_Oncology,Amoxicillin,107,4
+2024-09-26,Hosp_B_Oncology,Metformin,291,178
+2024-09-26,Hosp_B_Oncology,Atorvastatin,253,160
+2024-09-26,Hosp_B_Oncology,Letrozole,162,178
+2024-09-26,Hosp_B_Oncology,Trastuzumab,83,169
+2024-09-26,Hosp_B_Oncology,Oseltamivir,66,0
+2024-09-26,Hosp_B_Oncology,Cough Syrup,298,3
+2024-09-27,Hosp_B_Oncology,Paracetamol,111,6
+2024-09-27,Hosp_B_Oncology,Ibuprofen,161,6
+2024-09-27,Hosp_B_Oncology,Amoxicillin,227,3
+2024-09-27,Hosp_B_Oncology,Metformin,75,125
+2024-09-27,Hosp_B_Oncology,Atorvastatin,295,118
+2024-09-27,Hosp_B_Oncology,Letrozole,58,160
+2024-09-27,Hosp_B_Oncology,Trastuzumab,69,149
+2024-09-27,Hosp_B_Oncology,Oseltamivir,257,5
+2024-09-27,Hosp_B_Oncology,Cough Syrup,130,5
+2024-09-28,Hosp_B_Oncology,Paracetamol,148,6
+2024-09-28,Hosp_B_Oncology,Ibuprofen,192,4
+2024-09-28,Hosp_B_Oncology,Amoxicillin,265,7
+2024-09-28,Hosp_B_Oncology,Metformin,280,169
+2024-09-28,Hosp_B_Oncology,Atorvastatin,243,112
+2024-09-28,Hosp_B_Oncology,Letrozole,157,146
+2024-09-28,Hosp_B_Oncology,Trastuzumab,58,162
+2024-09-28,Hosp_B_Oncology,Oseltamivir,83,0
+2024-09-28,Hosp_B_Oncology,Cough Syrup,268,4
+2024-09-29,Hosp_B_Oncology,Paracetamol,177,6
+2024-09-29,Hosp_B_Oncology,Ibuprofen,199,3
+2024-09-29,Hosp_B_Oncology,Amoxicillin,211,7
+2024-09-29,Hosp_B_Oncology,Metformin,119,127
+2024-09-29,Hosp_B_Oncology,Atorvastatin,144,198
+2024-09-29,Hosp_B_Oncology,Letrozole,216,141
+2024-09-29,Hosp_B_Oncology,Trastuzumab,200,169
+2024-09-29,Hosp_B_Oncology,Oseltamivir,257,1
+2024-09-29,Hosp_B_Oncology,Cough Syrup,201,0
+2024-09-30,Hosp_B_Oncology,Paracetamol,258,0
+2024-09-30,Hosp_B_Oncology,Ibuprofen,117,4
+2024-09-30,Hosp_B_Oncology,Amoxicillin,237,6
+2024-09-30,Hosp_B_Oncology,Metformin,223,151
+2024-09-30,Hosp_B_Oncology,Atorvastatin,187,145
+2024-09-30,Hosp_B_Oncology,Letrozole,205,196
+2024-09-30,Hosp_B_Oncology,Trastuzumab,220,125
+2024-09-30,Hosp_B_Oncology,Oseltamivir,232,1
+2024-09-30,Hosp_B_Oncology,Cough Syrup,97,1
+2024-10-01,Hosp_B_Oncology,Paracetamol,250,5
+2024-10-01,Hosp_B_Oncology,Ibuprofen,195,2
+2024-10-01,Hosp_B_Oncology,Amoxicillin,255,7
+2024-10-01,Hosp_B_Oncology,Metformin,66,159
+2024-10-01,Hosp_B_Oncology,Atorvastatin,148,192
+2024-10-01,Hosp_B_Oncology,Letrozole,91,180
+2024-10-01,Hosp_B_Oncology,Trastuzumab,172,171
+2024-10-01,Hosp_B_Oncology,Oseltamivir,114,4
+2024-10-01,Hosp_B_Oncology,Cough Syrup,277,6
+2024-10-02,Hosp_B_Oncology,Paracetamol,240,3
+2024-10-02,Hosp_B_Oncology,Ibuprofen,59,8
+2024-10-02,Hosp_B_Oncology,Amoxicillin,175,5
+2024-10-02,Hosp_B_Oncology,Metformin,204,111
+2024-10-02,Hosp_B_Oncology,Atorvastatin,111,151
+2024-10-02,Hosp_B_Oncology,Letrozole,225,166
+2024-10-02,Hosp_B_Oncology,Trastuzumab,223,196
+2024-10-02,Hosp_B_Oncology,Oseltamivir,123,6
+2024-10-02,Hosp_B_Oncology,Cough Syrup,85,7
+2024-10-03,Hosp_B_Oncology,Paracetamol,231,2
+2024-10-03,Hosp_B_Oncology,Ibuprofen,220,5
+2024-10-03,Hosp_B_Oncology,Amoxicillin,189,8
+2024-10-03,Hosp_B_Oncology,Metformin,202,102
+2024-10-03,Hosp_B_Oncology,Atorvastatin,52,183
+2024-10-03,Hosp_B_Oncology,Letrozole,205,122
+2024-10-03,Hosp_B_Oncology,Trastuzumab,225,166
+2024-10-03,Hosp_B_Oncology,Oseltamivir,219,7
+2024-10-03,Hosp_B_Oncology,Cough Syrup,156,7
+2024-10-04,Hosp_B_Oncology,Paracetamol,264,2
+2024-10-04,Hosp_B_Oncology,Ibuprofen,59,7
+2024-10-04,Hosp_B_Oncology,Amoxicillin,257,0
+2024-10-04,Hosp_B_Oncology,Metformin,177,182
+2024-10-04,Hosp_B_Oncology,Atorvastatin,60,147
+2024-10-04,Hosp_B_Oncology,Letrozole,182,168
+2024-10-04,Hosp_B_Oncology,Trastuzumab,113,113
+2024-10-04,Hosp_B_Oncology,Oseltamivir,99,9
+2024-10-04,Hosp_B_Oncology,Cough Syrup,121,4
+2024-10-05,Hosp_B_Oncology,Paracetamol,295,8
+2024-10-05,Hosp_B_Oncology,Ibuprofen,118,5
+2024-10-05,Hosp_B_Oncology,Amoxicillin,279,2
+2024-10-05,Hosp_B_Oncology,Metformin,97,175
+2024-10-05,Hosp_B_Oncology,Atorvastatin,277,132
+2024-10-05,Hosp_B_Oncology,Letrozole,85,132
+2024-10-05,Hosp_B_Oncology,Trastuzumab,208,120
+2024-10-05,Hosp_B_Oncology,Oseltamivir,76,7
+2024-10-05,Hosp_B_Oncology,Cough Syrup,297,4
+2024-10-06,Hosp_B_Oncology,Paracetamol,164,6
+2024-10-06,Hosp_B_Oncology,Ibuprofen,99,5
+2024-10-06,Hosp_B_Oncology,Amoxicillin,281,0
+2024-10-06,Hosp_B_Oncology,Metformin,92,190
+2024-10-06,Hosp_B_Oncology,Atorvastatin,78,156
+2024-10-06,Hosp_B_Oncology,Letrozole,278,104
+2024-10-06,Hosp_B_Oncology,Trastuzumab,270,195
+2024-10-06,Hosp_B_Oncology,Oseltamivir,237,4
+2024-10-06,Hosp_B_Oncology,Cough Syrup,119,1
+2024-10-07,Hosp_B_Oncology,Paracetamol,74,5
+2024-10-07,Hosp_B_Oncology,Ibuprofen,134,7
+2024-10-07,Hosp_B_Oncology,Amoxicillin,73,2
+2024-10-07,Hosp_B_Oncology,Metformin,227,165
+2024-10-07,Hosp_B_Oncology,Atorvastatin,191,152
+2024-10-07,Hosp_B_Oncology,Letrozole,209,195
+2024-10-07,Hosp_B_Oncology,Trastuzumab,269,147
+2024-10-07,Hosp_B_Oncology,Oseltamivir,88,7
+2024-10-07,Hosp_B_Oncology,Cough Syrup,91,7
+2024-10-08,Hosp_B_Oncology,Paracetamol,175,5
+2024-10-08,Hosp_B_Oncology,Ibuprofen,162,3
+2024-10-08,Hosp_B_Oncology,Amoxicillin,137,6
+2024-10-08,Hosp_B_Oncology,Metformin,225,182
+2024-10-08,Hosp_B_Oncology,Atorvastatin,219,102
+2024-10-08,Hosp_B_Oncology,Letrozole,140,102
+2024-10-08,Hosp_B_Oncology,Trastuzumab,205,162
+2024-10-08,Hosp_B_Oncology,Oseltamivir,130,9
+2024-10-08,Hosp_B_Oncology,Cough Syrup,226,5
+2024-10-09,Hosp_B_Oncology,Paracetamol,109,4
+2024-10-09,Hosp_B_Oncology,Ibuprofen,205,9
+2024-10-09,Hosp_B_Oncology,Amoxicillin,69,1
+2024-10-09,Hosp_B_Oncology,Metformin,182,181
+2024-10-09,Hosp_B_Oncology,Atorvastatin,237,142
+2024-10-09,Hosp_B_Oncology,Letrozole,106,156
+2024-10-09,Hosp_B_Oncology,Trastuzumab,252,153
+2024-10-09,Hosp_B_Oncology,Oseltamivir,258,5
+2024-10-09,Hosp_B_Oncology,Cough Syrup,86,3
+2024-10-10,Hosp_B_Oncology,Paracetamol,242,3
+2024-10-10,Hosp_B_Oncology,Ibuprofen,117,9
+2024-10-10,Hosp_B_Oncology,Amoxicillin,181,0
+2024-10-10,Hosp_B_Oncology,Metformin,58,129
+2024-10-10,Hosp_B_Oncology,Atorvastatin,164,144
+2024-10-10,Hosp_B_Oncology,Letrozole,53,168
+2024-10-10,Hosp_B_Oncology,Trastuzumab,286,122
+2024-10-10,Hosp_B_Oncology,Oseltamivir,65,5
+2024-10-10,Hosp_B_Oncology,Cough Syrup,278,7
+2024-10-11,Hosp_B_Oncology,Paracetamol,88,5
+2024-10-11,Hosp_B_Oncology,Ibuprofen,179,6
+2024-10-11,Hosp_B_Oncology,Amoxicillin,167,4
+2024-10-11,Hosp_B_Oncology,Metformin,217,181
+2024-10-11,Hosp_B_Oncology,Atorvastatin,103,111
+2024-10-11,Hosp_B_Oncology,Letrozole,258,136
+2024-10-11,Hosp_B_Oncology,Trastuzumab,159,137
+2024-10-11,Hosp_B_Oncology,Oseltamivir,192,6
+2024-10-11,Hosp_B_Oncology,Cough Syrup,127,1
+2024-10-12,Hosp_B_Oncology,Paracetamol,106,8
+2024-10-12,Hosp_B_Oncology,Ibuprofen,83,6
+2024-10-12,Hosp_B_Oncology,Amoxicillin,107,3
+2024-10-12,Hosp_B_Oncology,Metformin,286,128
+2024-10-12,Hosp_B_Oncology,Atorvastatin,84,174
+2024-10-12,Hosp_B_Oncology,Letrozole,225,132
+2024-10-12,Hosp_B_Oncology,Trastuzumab,164,174
+2024-10-12,Hosp_B_Oncology,Oseltamivir,122,8
+2024-10-12,Hosp_B_Oncology,Cough Syrup,280,2
+2024-10-13,Hosp_B_Oncology,Paracetamol,261,7
+2024-10-13,Hosp_B_Oncology,Ibuprofen,290,4
+2024-10-13,Hosp_B_Oncology,Amoxicillin,143,9
+2024-10-13,Hosp_B_Oncology,Metformin,82,125
+2024-10-13,Hosp_B_Oncology,Atorvastatin,267,199
+2024-10-13,Hosp_B_Oncology,Letrozole,217,164
+2024-10-13,Hosp_B_Oncology,Trastuzumab,236,114
+2024-10-13,Hosp_B_Oncology,Oseltamivir,163,0
+2024-10-13,Hosp_B_Oncology,Cough Syrup,60,6
+2024-10-14,Hosp_B_Oncology,Paracetamol,130,5
+2024-10-14,Hosp_B_Oncology,Ibuprofen,286,6
+2024-10-14,Hosp_B_Oncology,Amoxicillin,159,9
+2024-10-14,Hosp_B_Oncology,Metformin,198,161
+2024-10-14,Hosp_B_Oncology,Atorvastatin,187,112
+2024-10-14,Hosp_B_Oncology,Letrozole,125,108
+2024-10-14,Hosp_B_Oncology,Trastuzumab,245,138
+2024-10-14,Hosp_B_Oncology,Oseltamivir,73,5
+2024-10-14,Hosp_B_Oncology,Cough Syrup,83,6
+2024-10-15,Hosp_B_Oncology,Paracetamol,68,5
+2024-10-15,Hosp_B_Oncology,Ibuprofen,130,3
+2024-10-15,Hosp_B_Oncology,Amoxicillin,222,7
+2024-10-15,Hosp_B_Oncology,Metformin,68,163
+2024-10-15,Hosp_B_Oncology,Atorvastatin,150,165
+2024-10-15,Hosp_B_Oncology,Letrozole,256,165
+2024-10-15,Hosp_B_Oncology,Trastuzumab,124,144
+2024-10-15,Hosp_B_Oncology,Oseltamivir,136,9
+2024-10-15,Hosp_B_Oncology,Cough Syrup,116,4
+2024-10-16,Hosp_B_Oncology,Paracetamol,230,6
+2024-10-16,Hosp_B_Oncology,Ibuprofen,299,2
+2024-10-16,Hosp_B_Oncology,Amoxicillin,115,5
+2024-10-16,Hosp_B_Oncology,Metformin,70,172
+2024-10-16,Hosp_B_Oncology,Atorvastatin,123,135
+2024-10-16,Hosp_B_Oncology,Letrozole,180,187
+2024-10-16,Hosp_B_Oncology,Trastuzumab,263,177
+2024-10-16,Hosp_B_Oncology,Oseltamivir,219,0
+2024-10-16,Hosp_B_Oncology,Cough Syrup,109,5
+2024-10-17,Hosp_B_Oncology,Paracetamol,201,0
+2024-10-17,Hosp_B_Oncology,Ibuprofen,84,2
+2024-10-17,Hosp_B_Oncology,Amoxicillin,190,1
+2024-10-17,Hosp_B_Oncology,Metformin,127,184
+2024-10-17,Hosp_B_Oncology,Atorvastatin,203,102
+2024-10-17,Hosp_B_Oncology,Letrozole,228,139
+2024-10-17,Hosp_B_Oncology,Trastuzumab,245,135
+2024-10-17,Hosp_B_Oncology,Oseltamivir,100,0
+2024-10-17,Hosp_B_Oncology,Cough Syrup,153,0
+2024-10-18,Hosp_B_Oncology,Paracetamol,249,4
+2024-10-18,Hosp_B_Oncology,Ibuprofen,171,7
+2024-10-18,Hosp_B_Oncology,Amoxicillin,281,8
+2024-10-18,Hosp_B_Oncology,Metformin,75,105
+2024-10-18,Hosp_B_Oncology,Atorvastatin,193,159
+2024-10-18,Hosp_B_Oncology,Letrozole,149,111
+2024-10-18,Hosp_B_Oncology,Trastuzumab,124,102
+2024-10-18,Hosp_B_Oncology,Oseltamivir,112,4
+2024-10-18,Hosp_B_Oncology,Cough Syrup,183,2
+2024-10-19,Hosp_B_Oncology,Paracetamol,108,6
+2024-10-19,Hosp_B_Oncology,Ibuprofen,186,6
+2024-10-19,Hosp_B_Oncology,Amoxicillin,90,1
+2024-10-19,Hosp_B_Oncology,Metformin,124,110
+2024-10-19,Hosp_B_Oncology,Atorvastatin,57,154
+2024-10-19,Hosp_B_Oncology,Letrozole,273,105
+2024-10-19,Hosp_B_Oncology,Trastuzumab,230,119
+2024-10-19,Hosp_B_Oncology,Oseltamivir,216,2
+2024-10-19,Hosp_B_Oncology,Cough Syrup,121,1
+2024-10-20,Hosp_B_Oncology,Paracetamol,133,5
+2024-10-20,Hosp_B_Oncology,Ibuprofen,109,0
+2024-10-20,Hosp_B_Oncology,Amoxicillin,298,4
+2024-10-20,Hosp_B_Oncology,Metformin,112,198
+2024-10-20,Hosp_B_Oncology,Atorvastatin,213,164
+2024-10-20,Hosp_B_Oncology,Letrozole,127,172
+2024-10-20,Hosp_B_Oncology,Trastuzumab,271,123
+2024-10-20,Hosp_B_Oncology,Oseltamivir,181,1
+2024-10-20,Hosp_B_Oncology,Cough Syrup,255,8
+2024-10-21,Hosp_B_Oncology,Paracetamol,105,6
+2024-10-21,Hosp_B_Oncology,Ibuprofen,77,0
+2024-10-21,Hosp_B_Oncology,Amoxicillin,54,9
+2024-10-21,Hosp_B_Oncology,Metformin,71,199
+2024-10-21,Hosp_B_Oncology,Atorvastatin,287,112
+2024-10-21,Hosp_B_Oncology,Letrozole,114,115
+2024-10-21,Hosp_B_Oncology,Trastuzumab,296,185
+2024-10-21,Hosp_B_Oncology,Oseltamivir,113,2
+2024-10-21,Hosp_B_Oncology,Cough Syrup,128,9
+2024-10-22,Hosp_B_Oncology,Paracetamol,293,9
+2024-10-22,Hosp_B_Oncology,Ibuprofen,175,6
+2024-10-22,Hosp_B_Oncology,Amoxicillin,282,4
+2024-10-22,Hosp_B_Oncology,Metformin,191,136
+2024-10-22,Hosp_B_Oncology,Atorvastatin,57,176
+2024-10-22,Hosp_B_Oncology,Letrozole,190,139
+2024-10-22,Hosp_B_Oncology,Trastuzumab,156,191
+2024-10-22,Hosp_B_Oncology,Oseltamivir,235,1
+2024-10-22,Hosp_B_Oncology,Cough Syrup,106,2
+2024-10-23,Hosp_B_Oncology,Paracetamol,186,9
+2024-10-23,Hosp_B_Oncology,Ibuprofen,77,8
+2024-10-23,Hosp_B_Oncology,Amoxicillin,126,3
+2024-10-23,Hosp_B_Oncology,Metformin,58,146
+2024-10-23,Hosp_B_Oncology,Atorvastatin,255,150
+2024-10-23,Hosp_B_Oncology,Letrozole,125,156
+2024-10-23,Hosp_B_Oncology,Trastuzumab,81,166
+2024-10-23,Hosp_B_Oncology,Oseltamivir,299,8
+2024-10-23,Hosp_B_Oncology,Cough Syrup,103,3
+2024-10-24,Hosp_B_Oncology,Paracetamol,210,0
+2024-10-24,Hosp_B_Oncology,Ibuprofen,152,1
+2024-10-24,Hosp_B_Oncology,Amoxicillin,200,6
+2024-10-24,Hosp_B_Oncology,Metformin,256,189
+2024-10-24,Hosp_B_Oncology,Atorvastatin,79,188
+2024-10-24,Hosp_B_Oncology,Letrozole,94,179
+2024-10-24,Hosp_B_Oncology,Trastuzumab,88,144
+2024-10-24,Hosp_B_Oncology,Oseltamivir,127,0
+2024-10-24,Hosp_B_Oncology,Cough Syrup,189,7
+2024-10-25,Hosp_B_Oncology,Paracetamol,166,1
+2024-10-25,Hosp_B_Oncology,Ibuprofen,280,1
+2024-10-25,Hosp_B_Oncology,Amoxicillin,110,4
+2024-10-25,Hosp_B_Oncology,Metformin,163,174
+2024-10-25,Hosp_B_Oncology,Atorvastatin,251,142
+2024-10-25,Hosp_B_Oncology,Letrozole,108,101
+2024-10-25,Hosp_B_Oncology,Trastuzumab,64,136
+2024-10-25,Hosp_B_Oncology,Oseltamivir,248,3
+2024-10-25,Hosp_B_Oncology,Cough Syrup,147,2
+2024-10-26,Hosp_B_Oncology,Paracetamol,132,8
+2024-10-26,Hosp_B_Oncology,Ibuprofen,151,0
+2024-10-26,Hosp_B_Oncology,Amoxicillin,132,3
+2024-10-26,Hosp_B_Oncology,Metformin,97,156
+2024-10-26,Hosp_B_Oncology,Atorvastatin,124,121
+2024-10-26,Hosp_B_Oncology,Letrozole,181,180
+2024-10-26,Hosp_B_Oncology,Trastuzumab,249,145
+2024-10-26,Hosp_B_Oncology,Oseltamivir,236,1
+2024-10-26,Hosp_B_Oncology,Cough Syrup,60,7
+2024-10-27,Hosp_B_Oncology,Paracetamol,157,0
+2024-10-27,Hosp_B_Oncology,Ibuprofen,116,9
+2024-10-27,Hosp_B_Oncology,Amoxicillin,144,7
+2024-10-27,Hosp_B_Oncology,Metformin,92,158
+2024-10-27,Hosp_B_Oncology,Atorvastatin,95,171
+2024-10-27,Hosp_B_Oncology,Letrozole,174,134
+2024-10-27,Hosp_B_Oncology,Trastuzumab,88,191
+2024-10-27,Hosp_B_Oncology,Oseltamivir,100,3
+2024-10-27,Hosp_B_Oncology,Cough Syrup,170,3
+2024-10-28,Hosp_B_Oncology,Paracetamol,181,5
+2024-10-28,Hosp_B_Oncology,Ibuprofen,292,6
+2024-10-28,Hosp_B_Oncology,Amoxicillin,280,3
+2024-10-28,Hosp_B_Oncology,Metformin,211,126
+2024-10-28,Hosp_B_Oncology,Atorvastatin,56,102
+2024-10-28,Hosp_B_Oncology,Letrozole,224,196
+2024-10-28,Hosp_B_Oncology,Trastuzumab,51,179
+2024-10-28,Hosp_B_Oncology,Oseltamivir,202,7
+2024-10-28,Hosp_B_Oncology,Cough Syrup,64,5
+2024-10-29,Hosp_B_Oncology,Paracetamol,154,2
+2024-10-29,Hosp_B_Oncology,Ibuprofen,116,1
+2024-10-29,Hosp_B_Oncology,Amoxicillin,82,0
+2024-10-29,Hosp_B_Oncology,Metformin,222,118
+2024-10-29,Hosp_B_Oncology,Atorvastatin,271,186
+2024-10-29,Hosp_B_Oncology,Letrozole,64,177
+2024-10-29,Hosp_B_Oncology,Trastuzumab,115,138
+2024-10-29,Hosp_B_Oncology,Oseltamivir,290,1
+2024-10-29,Hosp_B_Oncology,Cough Syrup,247,4
+2024-10-30,Hosp_B_Oncology,Paracetamol,69,1
+2024-10-30,Hosp_B_Oncology,Ibuprofen,76,7
+2024-10-30,Hosp_B_Oncology,Amoxicillin,74,3
+2024-10-30,Hosp_B_Oncology,Metformin,245,120
+2024-10-30,Hosp_B_Oncology,Atorvastatin,67,138
+2024-10-30,Hosp_B_Oncology,Letrozole,64,152
+2024-10-30,Hosp_B_Oncology,Trastuzumab,87,147
+2024-10-30,Hosp_B_Oncology,Oseltamivir,101,7
+2024-10-30,Hosp_B_Oncology,Cough Syrup,121,4
+2024-10-31,Hosp_B_Oncology,Paracetamol,243,2
+2024-10-31,Hosp_B_Oncology,Ibuprofen,289,6
+2024-10-31,Hosp_B_Oncology,Amoxicillin,251,0
+2024-10-31,Hosp_B_Oncology,Metformin,184,138
+2024-10-31,Hosp_B_Oncology,Atorvastatin,245,134
+2024-10-31,Hosp_B_Oncology,Letrozole,100,146
+2024-10-31,Hosp_B_Oncology,Trastuzumab,85,163
+2024-10-31,Hosp_B_Oncology,Oseltamivir,144,8
+2024-10-31,Hosp_B_Oncology,Cough Syrup,154,1
+2024-11-01,Hosp_B_Oncology,Paracetamol,121,6
+2024-11-01,Hosp_B_Oncology,Ibuprofen,115,6
+2024-11-01,Hosp_B_Oncology,Amoxicillin,206,5
+2024-11-01,Hosp_B_Oncology,Metformin,174,183
+2024-11-01,Hosp_B_Oncology,Atorvastatin,210,128
+2024-11-01,Hosp_B_Oncology,Letrozole,163,178
+2024-11-01,Hosp_B_Oncology,Trastuzumab,72,102
+2024-11-01,Hosp_B_Oncology,Oseltamivir,150,7
+2024-11-01,Hosp_B_Oncology,Cough Syrup,270,7
+2024-11-02,Hosp_B_Oncology,Paracetamol,202,8
+2024-11-02,Hosp_B_Oncology,Ibuprofen,261,9
+2024-11-02,Hosp_B_Oncology,Amoxicillin,214,8
+2024-11-02,Hosp_B_Oncology,Metformin,177,165
+2024-11-02,Hosp_B_Oncology,Atorvastatin,291,184
+2024-11-02,Hosp_B_Oncology,Letrozole,274,123
+2024-11-02,Hosp_B_Oncology,Trastuzumab,294,143
+2024-11-02,Hosp_B_Oncology,Oseltamivir,155,1
+2024-11-02,Hosp_B_Oncology,Cough Syrup,109,8
+2024-11-03,Hosp_B_Oncology,Paracetamol,295,9
+2024-11-03,Hosp_B_Oncology,Ibuprofen,107,6
+2024-11-03,Hosp_B_Oncology,Amoxicillin,130,9
+2024-11-03,Hosp_B_Oncology,Metformin,261,124
+2024-11-03,Hosp_B_Oncology,Atorvastatin,126,132
+2024-11-03,Hosp_B_Oncology,Letrozole,266,171
+2024-11-03,Hosp_B_Oncology,Trastuzumab,118,105
+2024-11-03,Hosp_B_Oncology,Oseltamivir,72,3
+2024-11-03,Hosp_B_Oncology,Cough Syrup,207,5
+2024-11-04,Hosp_B_Oncology,Paracetamol,102,7
+2024-11-04,Hosp_B_Oncology,Ibuprofen,89,7
+2024-11-04,Hosp_B_Oncology,Amoxicillin,275,7
+2024-11-04,Hosp_B_Oncology,Metformin,157,132
+2024-11-04,Hosp_B_Oncology,Atorvastatin,72,176
+2024-11-04,Hosp_B_Oncology,Letrozole,103,152
+2024-11-04,Hosp_B_Oncology,Trastuzumab,98,177
+2024-11-04,Hosp_B_Oncology,Oseltamivir,127,0
+2024-11-04,Hosp_B_Oncology,Cough Syrup,151,9
+2024-11-05,Hosp_B_Oncology,Paracetamol,121,1
+2024-11-05,Hosp_B_Oncology,Ibuprofen,161,3
+2024-11-05,Hosp_B_Oncology,Amoxicillin,242,6
+2024-11-05,Hosp_B_Oncology,Metformin,261,177
+2024-11-05,Hosp_B_Oncology,Atorvastatin,217,124
+2024-11-05,Hosp_B_Oncology,Letrozole,74,102
+2024-11-05,Hosp_B_Oncology,Trastuzumab,118,125
+2024-11-05,Hosp_B_Oncology,Oseltamivir,89,5
+2024-11-05,Hosp_B_Oncology,Cough Syrup,215,3
+2024-11-06,Hosp_B_Oncology,Paracetamol,161,5
+2024-11-06,Hosp_B_Oncology,Ibuprofen,282,4
+2024-11-06,Hosp_B_Oncology,Amoxicillin,64,2
+2024-11-06,Hosp_B_Oncology,Metformin,161,184
+2024-11-06,Hosp_B_Oncology,Atorvastatin,134,184
+2024-11-06,Hosp_B_Oncology,Letrozole,237,143
+2024-11-06,Hosp_B_Oncology,Trastuzumab,273,104
+2024-11-06,Hosp_B_Oncology,Oseltamivir,280,8
+2024-11-06,Hosp_B_Oncology,Cough Syrup,166,1
+2024-11-07,Hosp_B_Oncology,Paracetamol,85,1
+2024-11-07,Hosp_B_Oncology,Ibuprofen,77,9
+2024-11-07,Hosp_B_Oncology,Amoxicillin,72,3
+2024-11-07,Hosp_B_Oncology,Metformin,140,105
+2024-11-07,Hosp_B_Oncology,Atorvastatin,212,137
+2024-11-07,Hosp_B_Oncology,Letrozole,212,199
+2024-11-07,Hosp_B_Oncology,Trastuzumab,251,193
+2024-11-07,Hosp_B_Oncology,Oseltamivir,102,8
+2024-11-07,Hosp_B_Oncology,Cough Syrup,87,3
+2024-11-08,Hosp_B_Oncology,Paracetamol,204,8
+2024-11-08,Hosp_B_Oncology,Ibuprofen,169,8
+2024-11-08,Hosp_B_Oncology,Amoxicillin,256,8
+2024-11-08,Hosp_B_Oncology,Metformin,135,117
+2024-11-08,Hosp_B_Oncology,Atorvastatin,61,186
+2024-11-08,Hosp_B_Oncology,Letrozole,228,138
+2024-11-08,Hosp_B_Oncology,Trastuzumab,138,109
+2024-11-08,Hosp_B_Oncology,Oseltamivir,271,9
+2024-11-08,Hosp_B_Oncology,Cough Syrup,275,5
+2024-11-09,Hosp_B_Oncology,Paracetamol,162,7
+2024-11-09,Hosp_B_Oncology,Ibuprofen,235,7
+2024-11-09,Hosp_B_Oncology,Amoxicillin,219,9
+2024-11-09,Hosp_B_Oncology,Metformin,62,125
+2024-11-09,Hosp_B_Oncology,Atorvastatin,67,141
+2024-11-09,Hosp_B_Oncology,Letrozole,100,183
+2024-11-09,Hosp_B_Oncology,Trastuzumab,193,102
+2024-11-09,Hosp_B_Oncology,Oseltamivir,268,9
+2024-11-09,Hosp_B_Oncology,Cough Syrup,147,5
+2024-11-10,Hosp_B_Oncology,Paracetamol,245,4
+2024-11-10,Hosp_B_Oncology,Ibuprofen,113,1
+2024-11-10,Hosp_B_Oncology,Amoxicillin,148,2
+2024-11-10,Hosp_B_Oncology,Metformin,239,111
+2024-11-10,Hosp_B_Oncology,Atorvastatin,140,129
+2024-11-10,Hosp_B_Oncology,Letrozole,262,137
+2024-11-10,Hosp_B_Oncology,Trastuzumab,134,159
+2024-11-10,Hosp_B_Oncology,Oseltamivir,87,7
+2024-11-10,Hosp_B_Oncology,Cough Syrup,192,1
+2024-11-11,Hosp_B_Oncology,Paracetamol,149,6
+2024-11-11,Hosp_B_Oncology,Ibuprofen,76,1
+2024-11-11,Hosp_B_Oncology,Amoxicillin,82,1
+2024-11-11,Hosp_B_Oncology,Metformin,197,139
+2024-11-11,Hosp_B_Oncology,Atorvastatin,276,194
+2024-11-11,Hosp_B_Oncology,Letrozole,235,130
+2024-11-11,Hosp_B_Oncology,Trastuzumab,87,185
+2024-11-11,Hosp_B_Oncology,Oseltamivir,222,8
+2024-11-11,Hosp_B_Oncology,Cough Syrup,186,3
+2024-11-12,Hosp_B_Oncology,Paracetamol,87,2
+2024-11-12,Hosp_B_Oncology,Ibuprofen,173,6
+2024-11-12,Hosp_B_Oncology,Amoxicillin,271,5
+2024-11-12,Hosp_B_Oncology,Metformin,117,150
+2024-11-12,Hosp_B_Oncology,Atorvastatin,150,134
+2024-11-12,Hosp_B_Oncology,Letrozole,235,156
+2024-11-12,Hosp_B_Oncology,Trastuzumab,250,105
+2024-11-12,Hosp_B_Oncology,Oseltamivir,62,5
+2024-11-12,Hosp_B_Oncology,Cough Syrup,269,3
+2024-11-13,Hosp_B_Oncology,Paracetamol,245,6
+2024-11-13,Hosp_B_Oncology,Ibuprofen,139,7
+2024-11-13,Hosp_B_Oncology,Amoxicillin,265,3
+2024-11-13,Hosp_B_Oncology,Metformin,64,106
+2024-11-13,Hosp_B_Oncology,Atorvastatin,299,116
+2024-11-13,Hosp_B_Oncology,Letrozole,135,185
+2024-11-13,Hosp_B_Oncology,Trastuzumab,167,163
+2024-11-13,Hosp_B_Oncology,Oseltamivir,61,1
+2024-11-13,Hosp_B_Oncology,Cough Syrup,105,4
+2024-11-14,Hosp_B_Oncology,Paracetamol,150,3
+2024-11-14,Hosp_B_Oncology,Ibuprofen,237,3
+2024-11-14,Hosp_B_Oncology,Amoxicillin,256,9
+2024-11-14,Hosp_B_Oncology,Metformin,73,125
+2024-11-14,Hosp_B_Oncology,Atorvastatin,174,189
+2024-11-14,Hosp_B_Oncology,Letrozole,287,189
+2024-11-14,Hosp_B_Oncology,Trastuzumab,171,109
+2024-11-14,Hosp_B_Oncology,Oseltamivir,66,4
+2024-11-14,Hosp_B_Oncology,Cough Syrup,255,1
+2024-11-15,Hosp_B_Oncology,Paracetamol,147,7
+2024-11-15,Hosp_B_Oncology,Ibuprofen,162,1
+2024-11-15,Hosp_B_Oncology,Amoxicillin,265,5
+2024-11-15,Hosp_B_Oncology,Metformin,109,101
+2024-11-15,Hosp_B_Oncology,Atorvastatin,243,190
+2024-11-15,Hosp_B_Oncology,Letrozole,63,147
+2024-11-15,Hosp_B_Oncology,Trastuzumab,152,155
+2024-11-15,Hosp_B_Oncology,Oseltamivir,61,6
+2024-11-15,Hosp_B_Oncology,Cough Syrup,205,8
+2024-11-16,Hosp_B_Oncology,Paracetamol,123,9
+2024-11-16,Hosp_B_Oncology,Ibuprofen,172,7
+2024-11-16,Hosp_B_Oncology,Amoxicillin,83,7
+2024-11-16,Hosp_B_Oncology,Metformin,242,132
+2024-11-16,Hosp_B_Oncology,Atorvastatin,245,170
+2024-11-16,Hosp_B_Oncology,Letrozole,186,115
+2024-11-16,Hosp_B_Oncology,Trastuzumab,182,197
+2024-11-16,Hosp_B_Oncology,Oseltamivir,173,6
+2024-11-16,Hosp_B_Oncology,Cough Syrup,92,1
+2024-11-17,Hosp_B_Oncology,Paracetamol,223,7
+2024-11-17,Hosp_B_Oncology,Ibuprofen,262,4
+2024-11-17,Hosp_B_Oncology,Amoxicillin,154,7
+2024-11-17,Hosp_B_Oncology,Metformin,241,144
+2024-11-17,Hosp_B_Oncology,Atorvastatin,226,118
+2024-11-17,Hosp_B_Oncology,Letrozole,173,170
+2024-11-17,Hosp_B_Oncology,Trastuzumab,130,164
+2024-11-17,Hosp_B_Oncology,Oseltamivir,86,8
+2024-11-17,Hosp_B_Oncology,Cough Syrup,119,9
+2024-11-18,Hosp_B_Oncology,Paracetamol,178,4
+2024-11-18,Hosp_B_Oncology,Ibuprofen,155,0
+2024-11-18,Hosp_B_Oncology,Amoxicillin,171,5
+2024-11-18,Hosp_B_Oncology,Metformin,152,159
+2024-11-18,Hosp_B_Oncology,Atorvastatin,95,104
+2024-11-18,Hosp_B_Oncology,Letrozole,162,121
+2024-11-18,Hosp_B_Oncology,Trastuzumab,267,152
+2024-11-18,Hosp_B_Oncology,Oseltamivir,119,9
+2024-11-18,Hosp_B_Oncology,Cough Syrup,288,6
+2024-11-19,Hosp_B_Oncology,Paracetamol,108,8
+2024-11-19,Hosp_B_Oncology,Ibuprofen,87,4
+2024-11-19,Hosp_B_Oncology,Amoxicillin,68,4
+2024-11-19,Hosp_B_Oncology,Metformin,192,102
+2024-11-19,Hosp_B_Oncology,Atorvastatin,86,145
+2024-11-19,Hosp_B_Oncology,Letrozole,65,113
+2024-11-19,Hosp_B_Oncology,Trastuzumab,58,106
+2024-11-19,Hosp_B_Oncology,Oseltamivir,191,5
+2024-11-19,Hosp_B_Oncology,Cough Syrup,262,3
+2024-11-20,Hosp_B_Oncology,Paracetamol,66,8
+2024-11-20,Hosp_B_Oncology,Ibuprofen,233,0
+2024-11-20,Hosp_B_Oncology,Amoxicillin,251,8
+2024-11-20,Hosp_B_Oncology,Metformin,259,117
+2024-11-20,Hosp_B_Oncology,Atorvastatin,222,195
+2024-11-20,Hosp_B_Oncology,Letrozole,127,155
+2024-11-20,Hosp_B_Oncology,Trastuzumab,129,149
+2024-11-20,Hosp_B_Oncology,Oseltamivir,107,1
+2024-11-20,Hosp_B_Oncology,Cough Syrup,257,0
+2024-11-21,Hosp_B_Oncology,Paracetamol,228,5
+2024-11-21,Hosp_B_Oncology,Ibuprofen,137,0
+2024-11-21,Hosp_B_Oncology,Amoxicillin,154,0
+2024-11-21,Hosp_B_Oncology,Metformin,123,181
+2024-11-21,Hosp_B_Oncology,Atorvastatin,68,170
+2024-11-21,Hosp_B_Oncology,Letrozole,106,118
+2024-11-21,Hosp_B_Oncology,Trastuzumab,265,178
+2024-11-21,Hosp_B_Oncology,Oseltamivir,218,9
+2024-11-21,Hosp_B_Oncology,Cough Syrup,264,3
+2024-11-22,Hosp_B_Oncology,Paracetamol,163,2
+2024-11-22,Hosp_B_Oncology,Ibuprofen,72,9
+2024-11-22,Hosp_B_Oncology,Amoxicillin,146,5
+2024-11-22,Hosp_B_Oncology,Metformin,276,199
+2024-11-22,Hosp_B_Oncology,Atorvastatin,238,183
+2024-11-22,Hosp_B_Oncology,Letrozole,104,166
+2024-11-22,Hosp_B_Oncology,Trastuzumab,57,139
+2024-11-22,Hosp_B_Oncology,Oseltamivir,108,6
+2024-11-22,Hosp_B_Oncology,Cough Syrup,51,4
+2024-11-23,Hosp_B_Oncology,Paracetamol,91,1
+2024-11-23,Hosp_B_Oncology,Ibuprofen,277,1
+2024-11-23,Hosp_B_Oncology,Amoxicillin,67,2
+2024-11-23,Hosp_B_Oncology,Metformin,182,119
+2024-11-23,Hosp_B_Oncology,Atorvastatin,243,174
+2024-11-23,Hosp_B_Oncology,Letrozole,111,193
+2024-11-23,Hosp_B_Oncology,Trastuzumab,273,131
+2024-11-23,Hosp_B_Oncology,Oseltamivir,235,1
+2024-11-23,Hosp_B_Oncology,Cough Syrup,215,6
+2024-11-24,Hosp_B_Oncology,Paracetamol,202,4
+2024-11-24,Hosp_B_Oncology,Ibuprofen,119,4
+2024-11-24,Hosp_B_Oncology,Amoxicillin,164,7
+2024-11-24,Hosp_B_Oncology,Metformin,58,114
+2024-11-24,Hosp_B_Oncology,Atorvastatin,277,106
+2024-11-24,Hosp_B_Oncology,Letrozole,273,171
+2024-11-24,Hosp_B_Oncology,Trastuzumab,288,114
+2024-11-24,Hosp_B_Oncology,Oseltamivir,214,2
+2024-11-24,Hosp_B_Oncology,Cough Syrup,88,5
+2024-11-25,Hosp_B_Oncology,Paracetamol,102,1
+2024-11-25,Hosp_B_Oncology,Ibuprofen,117,0
+2024-11-25,Hosp_B_Oncology,Amoxicillin,128,8
+2024-11-25,Hosp_B_Oncology,Metformin,146,169
+2024-11-25,Hosp_B_Oncology,Atorvastatin,184,118
+2024-11-25,Hosp_B_Oncology,Letrozole,221,162
+2024-11-25,Hosp_B_Oncology,Trastuzumab,114,138
+2024-11-25,Hosp_B_Oncology,Oseltamivir,260,9
+2024-11-25,Hosp_B_Oncology,Cough Syrup,221,5
+2024-11-26,Hosp_B_Oncology,Paracetamol,200,7
+2024-11-26,Hosp_B_Oncology,Ibuprofen,54,1
+2024-11-26,Hosp_B_Oncology,Amoxicillin,73,0
+2024-11-26,Hosp_B_Oncology,Metformin,144,170
+2024-11-26,Hosp_B_Oncology,Atorvastatin,258,191
+2024-11-26,Hosp_B_Oncology,Letrozole,279,121
+2024-11-26,Hosp_B_Oncology,Trastuzumab,64,114
+2024-11-26,Hosp_B_Oncology,Oseltamivir,291,1
+2024-11-26,Hosp_B_Oncology,Cough Syrup,202,4
+2024-11-27,Hosp_B_Oncology,Paracetamol,72,7
+2024-11-27,Hosp_B_Oncology,Ibuprofen,290,6
+2024-11-27,Hosp_B_Oncology,Amoxicillin,154,2
+2024-11-27,Hosp_B_Oncology,Metformin,64,150
+2024-11-27,Hosp_B_Oncology,Atorvastatin,265,107
+2024-11-27,Hosp_B_Oncology,Letrozole,118,161
+2024-11-27,Hosp_B_Oncology,Trastuzumab,228,162
+2024-11-27,Hosp_B_Oncology,Oseltamivir,117,3
+2024-11-27,Hosp_B_Oncology,Cough Syrup,201,5
+2024-11-28,Hosp_B_Oncology,Paracetamol,100,4
+2024-11-28,Hosp_B_Oncology,Ibuprofen,109,2
+2024-11-28,Hosp_B_Oncology,Amoxicillin,70,4
+2024-11-28,Hosp_B_Oncology,Metformin,183,172
+2024-11-28,Hosp_B_Oncology,Atorvastatin,242,175
+2024-11-28,Hosp_B_Oncology,Letrozole,235,177
+2024-11-28,Hosp_B_Oncology,Trastuzumab,183,164
+2024-11-28,Hosp_B_Oncology,Oseltamivir,135,1
+2024-11-28,Hosp_B_Oncology,Cough Syrup,105,2
+2024-11-29,Hosp_B_Oncology,Paracetamol,256,1
+2024-11-29,Hosp_B_Oncology,Ibuprofen,94,3
+2024-11-29,Hosp_B_Oncology,Amoxicillin,290,3
+2024-11-29,Hosp_B_Oncology,Metformin,225,186
+2024-11-29,Hosp_B_Oncology,Atorvastatin,64,143
+2024-11-29,Hosp_B_Oncology,Letrozole,244,195
+2024-11-29,Hosp_B_Oncology,Trastuzumab,251,139
+2024-11-29,Hosp_B_Oncology,Oseltamivir,151,5
+2024-11-29,Hosp_B_Oncology,Cough Syrup,191,0
+2024-11-30,Hosp_B_Oncology,Paracetamol,97,3
+2024-11-30,Hosp_B_Oncology,Ibuprofen,214,7
+2024-11-30,Hosp_B_Oncology,Amoxicillin,178,5
+2024-11-30,Hosp_B_Oncology,Metformin,96,199
+2024-11-30,Hosp_B_Oncology,Atorvastatin,294,174
+2024-11-30,Hosp_B_Oncology,Letrozole,54,149
+2024-11-30,Hosp_B_Oncology,Trastuzumab,73,146
+2024-11-30,Hosp_B_Oncology,Oseltamivir,67,3
+2024-11-30,Hosp_B_Oncology,Cough Syrup,205,4
+2024-12-01,Hosp_B_Oncology,Paracetamol,139,6
+2024-12-01,Hosp_B_Oncology,Ibuprofen,55,7
+2024-12-01,Hosp_B_Oncology,Amoxicillin,104,9
+2024-12-01,Hosp_B_Oncology,Metformin,222,171
+2024-12-01,Hosp_B_Oncology,Atorvastatin,196,128
+2024-12-01,Hosp_B_Oncology,Letrozole,200,131
+2024-12-01,Hosp_B_Oncology,Trastuzumab,59,190
+2024-12-01,Hosp_B_Oncology,Oseltamivir,226,0
+2024-12-01,Hosp_B_Oncology,Cough Syrup,280,2
+2024-12-02,Hosp_B_Oncology,Paracetamol,176,4
+2024-12-02,Hosp_B_Oncology,Ibuprofen,50,8
+2024-12-02,Hosp_B_Oncology,Amoxicillin,209,8
+2024-12-02,Hosp_B_Oncology,Metformin,185,168
+2024-12-02,Hosp_B_Oncology,Atorvastatin,79,107
+2024-12-02,Hosp_B_Oncology,Letrozole,162,118
+2024-12-02,Hosp_B_Oncology,Trastuzumab,285,158
+2024-12-02,Hosp_B_Oncology,Oseltamivir,232,3
+2024-12-02,Hosp_B_Oncology,Cough Syrup,104,4
+2024-12-03,Hosp_B_Oncology,Paracetamol,164,5
+2024-12-03,Hosp_B_Oncology,Ibuprofen,102,4
+2024-12-03,Hosp_B_Oncology,Amoxicillin,115,7
+2024-12-03,Hosp_B_Oncology,Metformin,166,142
+2024-12-03,Hosp_B_Oncology,Atorvastatin,131,122
+2024-12-03,Hosp_B_Oncology,Letrozole,254,163
+2024-12-03,Hosp_B_Oncology,Trastuzumab,282,108
+2024-12-03,Hosp_B_Oncology,Oseltamivir,162,6
+2024-12-03,Hosp_B_Oncology,Cough Syrup,218,5
+2024-12-04,Hosp_B_Oncology,Paracetamol,80,4
+2024-12-04,Hosp_B_Oncology,Ibuprofen,154,8
+2024-12-04,Hosp_B_Oncology,Amoxicillin,147,1
+2024-12-04,Hosp_B_Oncology,Metformin,292,154
+2024-12-04,Hosp_B_Oncology,Atorvastatin,108,102
+2024-12-04,Hosp_B_Oncology,Letrozole,66,177
+2024-12-04,Hosp_B_Oncology,Trastuzumab,255,145
+2024-12-04,Hosp_B_Oncology,Oseltamivir,215,2
+2024-12-04,Hosp_B_Oncology,Cough Syrup,178,3
+2024-12-05,Hosp_B_Oncology,Paracetamol,228,7
+2024-12-05,Hosp_B_Oncology,Ibuprofen,237,6
+2024-12-05,Hosp_B_Oncology,Amoxicillin,128,6
+2024-12-05,Hosp_B_Oncology,Metformin,160,171
+2024-12-05,Hosp_B_Oncology,Atorvastatin,271,157
+2024-12-05,Hosp_B_Oncology,Letrozole,296,181
+2024-12-05,Hosp_B_Oncology,Trastuzumab,181,121
+2024-12-05,Hosp_B_Oncology,Oseltamivir,180,2
+2024-12-05,Hosp_B_Oncology,Cough Syrup,224,5
+2024-12-06,Hosp_B_Oncology,Paracetamol,110,3
+2024-12-06,Hosp_B_Oncology,Ibuprofen,266,3
+2024-12-06,Hosp_B_Oncology,Amoxicillin,208,1
+2024-12-06,Hosp_B_Oncology,Metformin,196,152
+2024-12-06,Hosp_B_Oncology,Atorvastatin,253,173
+2024-12-06,Hosp_B_Oncology,Letrozole,144,121
+2024-12-06,Hosp_B_Oncology,Trastuzumab,72,186
+2024-12-06,Hosp_B_Oncology,Oseltamivir,192,9
+2024-12-06,Hosp_B_Oncology,Cough Syrup,180,6
+2024-12-07,Hosp_B_Oncology,Paracetamol,61,4
+2024-12-07,Hosp_B_Oncology,Ibuprofen,52,4
+2024-12-07,Hosp_B_Oncology,Amoxicillin,59,0
+2024-12-07,Hosp_B_Oncology,Metformin,95,158
+2024-12-07,Hosp_B_Oncology,Atorvastatin,101,105
+2024-12-07,Hosp_B_Oncology,Letrozole,179,128
+2024-12-07,Hosp_B_Oncology,Trastuzumab,168,139
+2024-12-07,Hosp_B_Oncology,Oseltamivir,146,3
+2024-12-07,Hosp_B_Oncology,Cough Syrup,117,4
+2024-12-08,Hosp_B_Oncology,Paracetamol,88,8
+2024-12-08,Hosp_B_Oncology,Ibuprofen,150,3
+2024-12-08,Hosp_B_Oncology,Amoxicillin,281,3
+2024-12-08,Hosp_B_Oncology,Metformin,241,119
+2024-12-08,Hosp_B_Oncology,Atorvastatin,77,113
+2024-12-08,Hosp_B_Oncology,Letrozole,221,197
+2024-12-08,Hosp_B_Oncology,Trastuzumab,126,194
+2024-12-08,Hosp_B_Oncology,Oseltamivir,274,3
+2024-12-08,Hosp_B_Oncology,Cough Syrup,216,8
+2024-12-09,Hosp_B_Oncology,Paracetamol,187,3
+2024-12-09,Hosp_B_Oncology,Ibuprofen,78,9
+2024-12-09,Hosp_B_Oncology,Amoxicillin,102,6
+2024-12-09,Hosp_B_Oncology,Metformin,234,149
+2024-12-09,Hosp_B_Oncology,Atorvastatin,70,142
+2024-12-09,Hosp_B_Oncology,Letrozole,187,175
+2024-12-09,Hosp_B_Oncology,Trastuzumab,79,150
+2024-12-09,Hosp_B_Oncology,Oseltamivir,210,1
+2024-12-09,Hosp_B_Oncology,Cough Syrup,127,5
+2024-12-10,Hosp_B_Oncology,Paracetamol,242,1
+2024-12-10,Hosp_B_Oncology,Ibuprofen,171,7
+2024-12-10,Hosp_B_Oncology,Amoxicillin,220,7
+2024-12-10,Hosp_B_Oncology,Metformin,297,114
+2024-12-10,Hosp_B_Oncology,Atorvastatin,225,148
+2024-12-10,Hosp_B_Oncology,Letrozole,258,143
+2024-12-10,Hosp_B_Oncology,Trastuzumab,59,119
+2024-12-10,Hosp_B_Oncology,Oseltamivir,119,7
+2024-12-10,Hosp_B_Oncology,Cough Syrup,222,1
+2024-12-11,Hosp_B_Oncology,Paracetamol,86,1
+2024-12-11,Hosp_B_Oncology,Ibuprofen,176,4
+2024-12-11,Hosp_B_Oncology,Amoxicillin,133,7
+2024-12-11,Hosp_B_Oncology,Metformin,145,120
+2024-12-11,Hosp_B_Oncology,Atorvastatin,234,118
+2024-12-11,Hosp_B_Oncology,Letrozole,270,157
+2024-12-11,Hosp_B_Oncology,Trastuzumab,144,105
+2024-12-11,Hosp_B_Oncology,Oseltamivir,53,9
+2024-12-11,Hosp_B_Oncology,Cough Syrup,52,0
+2024-12-12,Hosp_B_Oncology,Paracetamol,158,5
+2024-12-12,Hosp_B_Oncology,Ibuprofen,121,0
+2024-12-12,Hosp_B_Oncology,Amoxicillin,118,3
+2024-12-12,Hosp_B_Oncology,Metformin,241,103
+2024-12-12,Hosp_B_Oncology,Atorvastatin,124,117
+2024-12-12,Hosp_B_Oncology,Letrozole,91,129
+2024-12-12,Hosp_B_Oncology,Trastuzumab,192,169
+2024-12-12,Hosp_B_Oncology,Oseltamivir,232,4
+2024-12-12,Hosp_B_Oncology,Cough Syrup,65,7
+2024-12-13,Hosp_B_Oncology,Paracetamol,144,9
+2024-12-13,Hosp_B_Oncology,Ibuprofen,216,9
+2024-12-13,Hosp_B_Oncology,Amoxicillin,264,1
+2024-12-13,Hosp_B_Oncology,Metformin,81,196
+2024-12-13,Hosp_B_Oncology,Atorvastatin,213,127
+2024-12-13,Hosp_B_Oncology,Letrozole,193,115
+2024-12-13,Hosp_B_Oncology,Trastuzumab,67,107
+2024-12-13,Hosp_B_Oncology,Oseltamivir,283,6
+2024-12-13,Hosp_B_Oncology,Cough Syrup,297,5
+2024-12-14,Hosp_B_Oncology,Paracetamol,198,9
+2024-12-14,Hosp_B_Oncology,Ibuprofen,218,9
+2024-12-14,Hosp_B_Oncology,Amoxicillin,151,2
+2024-12-14,Hosp_B_Oncology,Metformin,213,151
+2024-12-14,Hosp_B_Oncology,Atorvastatin,258,150
+2024-12-14,Hosp_B_Oncology,Letrozole,180,113
+2024-12-14,Hosp_B_Oncology,Trastuzumab,226,176
+2024-12-14,Hosp_B_Oncology,Oseltamivir,282,0
+2024-12-14,Hosp_B_Oncology,Cough Syrup,234,0
+2024-12-15,Hosp_B_Oncology,Paracetamol,186,6
+2024-12-15,Hosp_B_Oncology,Ibuprofen,152,2
+2024-12-15,Hosp_B_Oncology,Amoxicillin,197,6
+2024-12-15,Hosp_B_Oncology,Metformin,284,126
+2024-12-15,Hosp_B_Oncology,Atorvastatin,143,184
+2024-12-15,Hosp_B_Oncology,Letrozole,93,134
+2024-12-15,Hosp_B_Oncology,Trastuzumab,162,170
+2024-12-15,Hosp_B_Oncology,Oseltamivir,199,9
+2024-12-15,Hosp_B_Oncology,Cough Syrup,136,1
+2024-12-16,Hosp_B_Oncology,Paracetamol,155,0
+2024-12-16,Hosp_B_Oncology,Ibuprofen,55,1
+2024-12-16,Hosp_B_Oncology,Amoxicillin,280,3
+2024-12-16,Hosp_B_Oncology,Metformin,240,152
+2024-12-16,Hosp_B_Oncology,Atorvastatin,262,184
+2024-12-16,Hosp_B_Oncology,Letrozole,67,120
+2024-12-16,Hosp_B_Oncology,Trastuzumab,68,103
+2024-12-16,Hosp_B_Oncology,Oseltamivir,126,1
+2024-12-16,Hosp_B_Oncology,Cough Syrup,165,8
+2024-12-17,Hosp_B_Oncology,Paracetamol,158,6
+2024-12-17,Hosp_B_Oncology,Ibuprofen,295,2
+2024-12-17,Hosp_B_Oncology,Amoxicillin,121,6
+2024-12-17,Hosp_B_Oncology,Metformin,202,179
+2024-12-17,Hosp_B_Oncology,Atorvastatin,212,116
+2024-12-17,Hosp_B_Oncology,Letrozole,67,126
+2024-12-17,Hosp_B_Oncology,Trastuzumab,192,180
+2024-12-17,Hosp_B_Oncology,Oseltamivir,156,4
+2024-12-17,Hosp_B_Oncology,Cough Syrup,129,9
+2024-12-18,Hosp_B_Oncology,Paracetamol,146,9
+2024-12-18,Hosp_B_Oncology,Ibuprofen,51,9
+2024-12-18,Hosp_B_Oncology,Amoxicillin,174,3
+2024-12-18,Hosp_B_Oncology,Metformin,194,180
+2024-12-18,Hosp_B_Oncology,Atorvastatin,269,193
+2024-12-18,Hosp_B_Oncology,Letrozole,217,186
+2024-12-18,Hosp_B_Oncology,Trastuzumab,223,187
+2024-12-18,Hosp_B_Oncology,Oseltamivir,142,3
+2024-12-18,Hosp_B_Oncology,Cough Syrup,215,2
+2024-12-19,Hosp_B_Oncology,Paracetamol,107,1
+2024-12-19,Hosp_B_Oncology,Ibuprofen,155,1
+2024-12-19,Hosp_B_Oncology,Amoxicillin,287,9
+2024-12-19,Hosp_B_Oncology,Metformin,216,193
+2024-12-19,Hosp_B_Oncology,Atorvastatin,203,170
+2024-12-19,Hosp_B_Oncology,Letrozole,56,168
+2024-12-19,Hosp_B_Oncology,Trastuzumab,114,145
+2024-12-19,Hosp_B_Oncology,Oseltamivir,67,8
+2024-12-19,Hosp_B_Oncology,Cough Syrup,281,7
+2024-12-20,Hosp_B_Oncology,Paracetamol,72,1
+2024-12-20,Hosp_B_Oncology,Ibuprofen,198,9
+2024-12-20,Hosp_B_Oncology,Amoxicillin,197,2
+2024-12-20,Hosp_B_Oncology,Metformin,226,157
+2024-12-20,Hosp_B_Oncology,Atorvastatin,281,143
+2024-12-20,Hosp_B_Oncology,Letrozole,74,122
+2024-12-20,Hosp_B_Oncology,Trastuzumab,285,158
+2024-12-20,Hosp_B_Oncology,Oseltamivir,178,0
+2024-12-20,Hosp_B_Oncology,Cough Syrup,192,0
+2024-12-21,Hosp_B_Oncology,Paracetamol,284,9
+2024-12-21,Hosp_B_Oncology,Ibuprofen,278,9
+2024-12-21,Hosp_B_Oncology,Amoxicillin,88,2
+2024-12-21,Hosp_B_Oncology,Metformin,228,118
+2024-12-21,Hosp_B_Oncology,Atorvastatin,125,151
+2024-12-21,Hosp_B_Oncology,Letrozole,263,146
+2024-12-21,Hosp_B_Oncology,Trastuzumab,278,129
+2024-12-21,Hosp_B_Oncology,Oseltamivir,95,4
+2024-12-21,Hosp_B_Oncology,Cough Syrup,124,4
+2024-12-22,Hosp_B_Oncology,Paracetamol,159,9
+2024-12-22,Hosp_B_Oncology,Ibuprofen,263,0
+2024-12-22,Hosp_B_Oncology,Amoxicillin,174,4
+2024-12-22,Hosp_B_Oncology,Metformin,175,151
+2024-12-22,Hosp_B_Oncology,Atorvastatin,197,139
+2024-12-22,Hosp_B_Oncology,Letrozole,236,176
+2024-12-22,Hosp_B_Oncology,Trastuzumab,63,143
+2024-12-22,Hosp_B_Oncology,Oseltamivir,153,4
+2024-12-22,Hosp_B_Oncology,Cough Syrup,263,1
+2024-12-23,Hosp_B_Oncology,Paracetamol,240,8
+2024-12-23,Hosp_B_Oncology,Ibuprofen,181,2
+2024-12-23,Hosp_B_Oncology,Amoxicillin,188,0
+2024-12-23,Hosp_B_Oncology,Metformin,157,165
+2024-12-23,Hosp_B_Oncology,Atorvastatin,247,172
+2024-12-23,Hosp_B_Oncology,Letrozole,118,183
+2024-12-23,Hosp_B_Oncology,Trastuzumab,206,184
+2024-12-23,Hosp_B_Oncology,Oseltamivir,250,6
+2024-12-23,Hosp_B_Oncology,Cough Syrup,121,3
+2024-12-24,Hosp_B_Oncology,Paracetamol,170,8
+2024-12-24,Hosp_B_Oncology,Ibuprofen,288,9
+2024-12-24,Hosp_B_Oncology,Amoxicillin,275,3
+2024-12-24,Hosp_B_Oncology,Metformin,118,194
+2024-12-24,Hosp_B_Oncology,Atorvastatin,292,176
+2024-12-24,Hosp_B_Oncology,Letrozole,220,100
+2024-12-24,Hosp_B_Oncology,Trastuzumab,199,161
+2024-12-24,Hosp_B_Oncology,Oseltamivir,256,9
+2024-12-24,Hosp_B_Oncology,Cough Syrup,67,8
+2024-12-25,Hosp_B_Oncology,Paracetamol,243,6
+2024-12-25,Hosp_B_Oncology,Ibuprofen,83,4
+2024-12-25,Hosp_B_Oncology,Amoxicillin,88,2
+2024-12-25,Hosp_B_Oncology,Metformin,223,131
+2024-12-25,Hosp_B_Oncology,Atorvastatin,92,199
+2024-12-25,Hosp_B_Oncology,Letrozole,130,102
+2024-12-25,Hosp_B_Oncology,Trastuzumab,298,173
+2024-12-25,Hosp_B_Oncology,Oseltamivir,166,7
+2024-12-25,Hosp_B_Oncology,Cough Syrup,67,2
+2024-12-26,Hosp_B_Oncology,Paracetamol,216,2
+2024-12-26,Hosp_B_Oncology,Ibuprofen,58,2
+2024-12-26,Hosp_B_Oncology,Amoxicillin,200,3
+2024-12-26,Hosp_B_Oncology,Metformin,137,161
+2024-12-26,Hosp_B_Oncology,Atorvastatin,291,172
+2024-12-26,Hosp_B_Oncology,Letrozole,126,139
+2024-12-26,Hosp_B_Oncology,Trastuzumab,231,180
+2024-12-26,Hosp_B_Oncology,Oseltamivir,184,0
+2024-12-26,Hosp_B_Oncology,Cough Syrup,168,1
+2024-12-27,Hosp_B_Oncology,Paracetamol,292,4
+2024-12-27,Hosp_B_Oncology,Ibuprofen,91,0
+2024-12-27,Hosp_B_Oncology,Amoxicillin,273,3
+2024-12-27,Hosp_B_Oncology,Metformin,103,146
+2024-12-27,Hosp_B_Oncology,Atorvastatin,149,138
+2024-12-27,Hosp_B_Oncology,Letrozole,207,106
+2024-12-27,Hosp_B_Oncology,Trastuzumab,199,149
+2024-12-27,Hosp_B_Oncology,Oseltamivir,94,9
+2024-12-27,Hosp_B_Oncology,Cough Syrup,169,7
+2024-12-28,Hosp_B_Oncology,Paracetamol,114,1
+2024-12-28,Hosp_B_Oncology,Ibuprofen,116,8
+2024-12-28,Hosp_B_Oncology,Amoxicillin,182,9
+2024-12-28,Hosp_B_Oncology,Metformin,187,111
+2024-12-28,Hosp_B_Oncology,Atorvastatin,131,157
+2024-12-28,Hosp_B_Oncology,Letrozole,198,120
+2024-12-28,Hosp_B_Oncology,Trastuzumab,242,102
+2024-12-28,Hosp_B_Oncology,Oseltamivir,118,8
+2024-12-28,Hosp_B_Oncology,Cough Syrup,299,0
+2024-12-29,Hosp_B_Oncology,Paracetamol,152,7
+2024-12-29,Hosp_B_Oncology,Ibuprofen,112,7
+2024-12-29,Hosp_B_Oncology,Amoxicillin,97,8
+2024-12-29,Hosp_B_Oncology,Metformin,267,158
+2024-12-29,Hosp_B_Oncology,Atorvastatin,126,143
+2024-12-29,Hosp_B_Oncology,Letrozole,292,189
+2024-12-29,Hosp_B_Oncology,Trastuzumab,176,154
+2024-12-29,Hosp_B_Oncology,Oseltamivir,104,0
+2024-12-29,Hosp_B_Oncology,Cough Syrup,185,3
+2024-12-30,Hosp_B_Oncology,Paracetamol,153,0
+2024-12-30,Hosp_B_Oncology,Ibuprofen,296,6
+2024-12-30,Hosp_B_Oncology,Amoxicillin,286,8
+2024-12-30,Hosp_B_Oncology,Metformin,179,162
+2024-12-30,Hosp_B_Oncology,Atorvastatin,273,150
+2024-12-30,Hosp_B_Oncology,Letrozole,165,130
+2024-12-30,Hosp_B_Oncology,Trastuzumab,56,129
+2024-12-30,Hosp_B_Oncology,Oseltamivir,235,2
+2024-12-30,Hosp_B_Oncology,Cough Syrup,100,2

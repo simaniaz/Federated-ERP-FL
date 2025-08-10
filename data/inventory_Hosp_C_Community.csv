@@ -1,0 +1,3286 @@
+date,hospital_id,drug_name,inventory,demand
+2024-01-01,Hosp_C_Community,Paracetamol,269,25
+2024-01-01,Hosp_C_Community,Ibuprofen,64,24
+2024-01-01,Hosp_C_Community,Amoxicillin,239,28
+2024-01-01,Hosp_C_Community,Metformin,157,3
+2024-01-01,Hosp_C_Community,Atorvastatin,113,0
+2024-01-01,Hosp_C_Community,Letrozole,180,4
+2024-01-01,Hosp_C_Community,Trastuzumab,100,4
+2024-01-01,Hosp_C_Community,Oseltamivir,122,78
+2024-01-01,Hosp_C_Community,Cough Syrup,67,43
+2024-01-02,Hosp_C_Community,Paracetamol,63,25
+2024-01-02,Hosp_C_Community,Ibuprofen,64,17
+2024-01-02,Hosp_C_Community,Amoxicillin,255,17
+2024-01-02,Hosp_C_Community,Metformin,262,4
+2024-01-02,Hosp_C_Community,Atorvastatin,131,4
+2024-01-02,Hosp_C_Community,Letrozole,73,1
+2024-01-02,Hosp_C_Community,Trastuzumab,266,3
+2024-01-02,Hosp_C_Community,Oseltamivir,237,68
+2024-01-02,Hosp_C_Community,Cough Syrup,64,40
+2024-01-03,Hosp_C_Community,Paracetamol,263,12
+2024-01-03,Hosp_C_Community,Ibuprofen,242,12
+2024-01-03,Hosp_C_Community,Amoxicillin,150,24
+2024-01-03,Hosp_C_Community,Metformin,255,2
+2024-01-03,Hosp_C_Community,Atorvastatin,50,4
+2024-01-03,Hosp_C_Community,Letrozole,267,2
+2024-01-03,Hosp_C_Community,Trastuzumab,186,1
+2024-01-03,Hosp_C_Community,Oseltamivir,91,52
+2024-01-03,Hosp_C_Community,Cough Syrup,228,71
+2024-01-04,Hosp_C_Community,Paracetamol,280,10
+2024-01-04,Hosp_C_Community,Ibuprofen,178,29
+2024-01-04,Hosp_C_Community,Amoxicillin,254,18
+2024-01-04,Hosp_C_Community,Metformin,52,2
+2024-01-04,Hosp_C_Community,Atorvastatin,186,4
+2024-01-04,Hosp_C_Community,Letrozole,274,2
+2024-01-04,Hosp_C_Community,Trastuzumab,283,3
+2024-01-04,Hosp_C_Community,Oseltamivir,201,54
+2024-01-04,Hosp_C_Community,Cough Syrup,108,71
+2024-01-05,Hosp_C_Community,Paracetamol,117,20
+2024-01-05,Hosp_C_Community,Ibuprofen,233,26
+2024-01-05,Hosp_C_Community,Amoxicillin,87,14
+2024-01-05,Hosp_C_Community,Metformin,165,1
+2024-01-05,Hosp_C_Community,Atorvastatin,247,2
+2024-01-05,Hosp_C_Community,Letrozole,289,0
+2024-01-05,Hosp_C_Community,Trastuzumab,250,3
+2024-01-05,Hosp_C_Community,Oseltamivir,236,45
+2024-01-05,Hosp_C_Community,Cough Syrup,257,68
+2024-01-06,Hosp_C_Community,Paracetamol,58,18
+2024-01-06,Hosp_C_Community,Ibuprofen,148,28
+2024-01-06,Hosp_C_Community,Amoxicillin,97,25
+2024-01-06,Hosp_C_Community,Metformin,180,3
+2024-01-06,Hosp_C_Community,Atorvastatin,201,0
+2024-01-06,Hosp_C_Community,Letrozole,201,3
+2024-01-06,Hosp_C_Community,Trastuzumab,124,0
+2024-01-06,Hosp_C_Community,Oseltamivir,249,75
+2024-01-06,Hosp_C_Community,Cough Syrup,215,79
+2024-01-07,Hosp_C_Community,Paracetamol,231,17
+2024-01-07,Hosp_C_Community,Ibuprofen,76,11
+2024-01-07,Hosp_C_Community,Amoxicillin,70,10
+2024-01-07,Hosp_C_Community,Metformin,77,0
+2024-01-07,Hosp_C_Community,Atorvastatin,246,3
+2024-01-07,Hosp_C_Community,Letrozole,110,2
+2024-01-07,Hosp_C_Community,Trastuzumab,53,2
+2024-01-07,Hosp_C_Community,Oseltamivir,241,56
+2024-01-07,Hosp_C_Community,Cough Syrup,221,67
+2024-01-08,Hosp_C_Community,Paracetamol,176,19
+2024-01-08,Hosp_C_Community,Ibuprofen,179,26
+2024-01-08,Hosp_C_Community,Amoxicillin,153,10
+2024-01-08,Hosp_C_Community,Metformin,186,2
+2024-01-08,Hosp_C_Community,Atorvastatin,295,4
+2024-01-08,Hosp_C_Community,Letrozole,219,1
+2024-01-08,Hosp_C_Community,Trastuzumab,148,1
+2024-01-08,Hosp_C_Community,Oseltamivir,202,63
+2024-01-08,Hosp_C_Community,Cough Syrup,62,46
+2024-01-09,Hosp_C_Community,Paracetamol,102,21
+2024-01-09,Hosp_C_Community,Ibuprofen,157,14
+2024-01-09,Hosp_C_Community,Amoxicillin,152,13
+2024-01-09,Hosp_C_Community,Metformin,55,4
+2024-01-09,Hosp_C_Community,Atorvastatin,273,3
+2024-01-09,Hosp_C_Community,Letrozole,143,2
+2024-01-09,Hosp_C_Community,Trastuzumab,104,3
+2024-01-09,Hosp_C_Community,Oseltamivir,193,52
+2024-01-09,Hosp_C_Community,Cough Syrup,163,69
+2024-01-10,Hosp_C_Community,Paracetamol,244,21
+2024-01-10,Hosp_C_Community,Ibuprofen,203,25
+2024-01-10,Hosp_C_Community,Amoxicillin,228,14
+2024-01-10,Hosp_C_Community,Metformin,135,0
+2024-01-10,Hosp_C_Community,Atorvastatin,78,3
+2024-01-10,Hosp_C_Community,Letrozole,118,0
+2024-01-10,Hosp_C_Community,Trastuzumab,143,3
+2024-01-10,Hosp_C_Community,Oseltamivir,246,51
+2024-01-10,Hosp_C_Community,Cough Syrup,193,65
+2024-01-11,Hosp_C_Community,Paracetamol,212,10
+2024-01-11,Hosp_C_Community,Ibuprofen,210,28
+2024-01-11,Hosp_C_Community,Amoxicillin,220,14
+2024-01-11,Hosp_C_Community,Metformin,61,2
+2024-01-11,Hosp_C_Community,Atorvastatin,114,0
+2024-01-11,Hosp_C_Community,Letrozole,217,1
+2024-01-11,Hosp_C_Community,Trastuzumab,92,3
+2024-01-11,Hosp_C_Community,Oseltamivir,78,52
+2024-01-11,Hosp_C_Community,Cough Syrup,61,70
+2024-01-12,Hosp_C_Community,Paracetamol,280,14
+2024-01-12,Hosp_C_Community,Ibuprofen,61,26
+2024-01-12,Hosp_C_Community,Amoxicillin,232,22
+2024-01-12,Hosp_C_Community,Metformin,72,0
+2024-01-12,Hosp_C_Community,Atorvastatin,148,0
+2024-01-12,Hosp_C_Community,Letrozole,79,0
+2024-01-12,Hosp_C_Community,Trastuzumab,162,3
+2024-01-12,Hosp_C_Community,Oseltamivir,161,64
+2024-01-12,Hosp_C_Community,Cough Syrup,135,52
+2024-01-13,Hosp_C_Community,Paracetamol,264,20
+2024-01-13,Hosp_C_Community,Ibuprofen,124,27
+2024-01-13,Hosp_C_Community,Amoxicillin,288,21
+2024-01-13,Hosp_C_Community,Metformin,58,1
+2024-01-13,Hosp_C_Community,Atorvastatin,235,3
+2024-01-13,Hosp_C_Community,Letrozole,194,4
+2024-01-13,Hosp_C_Community,Trastuzumab,279,4
+2024-01-13,Hosp_C_Community,Oseltamivir,217,48
+2024-01-13,Hosp_C_Community,Cough Syrup,227,66
+2024-01-14,Hosp_C_Community,Paracetamol,197,17
+2024-01-14,Hosp_C_Community,Ibuprofen,110,18
+2024-01-14,Hosp_C_Community,Amoxicillin,216,10
+2024-01-14,Hosp_C_Community,Metformin,180,4
+2024-01-14,Hosp_C_Community,Atorvastatin,141,0
+2024-01-14,Hosp_C_Community,Letrozole,240,3
+2024-01-14,Hosp_C_Community,Trastuzumab,162,0
+2024-01-14,Hosp_C_Community,Oseltamivir,105,72
+2024-01-14,Hosp_C_Community,Cough Syrup,215,45
+2024-01-15,Hosp_C_Community,Paracetamol,205,17
+2024-01-15,Hosp_C_Community,Ibuprofen,171,13
+2024-01-15,Hosp_C_Community,Amoxicillin,139,17
+2024-01-15,Hosp_C_Community,Metformin,235,3
+2024-01-15,Hosp_C_Community,Atorvastatin,227,3
+2024-01-15,Hosp_C_Community,Letrozole,269,4
+2024-01-15,Hosp_C_Community,Trastuzumab,90,3
+2024-01-15,Hosp_C_Community,Oseltamivir,241,66
+2024-01-15,Hosp_C_Community,Cough Syrup,295,56
+2024-01-16,Hosp_C_Community,Paracetamol,254,10
+2024-01-16,Hosp_C_Community,Ibuprofen,147,18
+2024-01-16,Hosp_C_Community,Amoxicillin,148,10
+2024-01-16,Hosp_C_Community,Metformin,198,3
+2024-01-16,Hosp_C_Community,Atorvastatin,258,4
+2024-01-16,Hosp_C_Community,Letrozole,144,4
+2024-01-16,Hosp_C_Community,Trastuzumab,151,2
+2024-01-16,Hosp_C_Community,Oseltamivir,230,62
+2024-01-16,Hosp_C_Community,Cough Syrup,278,76
+2024-01-17,Hosp_C_Community,Paracetamol,256,14
+2024-01-17,Hosp_C_Community,Ibuprofen,134,23
+2024-01-17,Hosp_C_Community,Amoxicillin,115,20
+2024-01-17,Hosp_C_Community,Metformin,228,3
+2024-01-17,Hosp_C_Community,Atorvastatin,275,1
+2024-01-17,Hosp_C_Community,Letrozole,147,1
+2024-01-17,Hosp_C_Community,Trastuzumab,79,2
+2024-01-17,Hosp_C_Community,Oseltamivir,228,73
+2024-01-17,Hosp_C_Community,Cough Syrup,101,77
+2024-01-18,Hosp_C_Community,Paracetamol,244,12
+2024-01-18,Hosp_C_Community,Ibuprofen,204,27
+2024-01-18,Hosp_C_Community,Amoxicillin,110,28
+2024-01-18,Hosp_C_Community,Metformin,196,4
+2024-01-18,Hosp_C_Community,Atorvastatin,54,1
+2024-01-18,Hosp_C_Community,Letrozole,141,1
+2024-01-18,Hosp_C_Community,Trastuzumab,110,4
+2024-01-18,Hosp_C_Community,Oseltamivir,119,40
+2024-01-18,Hosp_C_Community,Cough Syrup,182,51
+2024-01-19,Hosp_C_Community,Paracetamol,179,22
+2024-01-19,Hosp_C_Community,Ibuprofen,203,23
+2024-01-19,Hosp_C_Community,Amoxicillin,236,28
+2024-01-19,Hosp_C_Community,Metformin,56,2
+2024-01-19,Hosp_C_Community,Atorvastatin,160,2
+2024-01-19,Hosp_C_Community,Letrozole,288,3
+2024-01-19,Hosp_C_Community,Trastuzumab,286,1
+2024-01-19,Hosp_C_Community,Oseltamivir,299,77
+2024-01-19,Hosp_C_Community,Cough Syrup,276,54
+2024-01-20,Hosp_C_Community,Paracetamol,113,11
+2024-01-20,Hosp_C_Community,Ibuprofen,236,22
+2024-01-20,Hosp_C_Community,Amoxicillin,247,14
+2024-01-20,Hosp_C_Community,Metformin,170,0
+2024-01-20,Hosp_C_Community,Atorvastatin,230,4
+2024-01-20,Hosp_C_Community,Letrozole,247,3
+2024-01-20,Hosp_C_Community,Trastuzumab,143,2
+2024-01-20,Hosp_C_Community,Oseltamivir,239,69
+2024-01-20,Hosp_C_Community,Cough Syrup,144,63
+2024-01-21,Hosp_C_Community,Paracetamol,167,13
+2024-01-21,Hosp_C_Community,Ibuprofen,68,29
+2024-01-21,Hosp_C_Community,Amoxicillin,274,29
+2024-01-21,Hosp_C_Community,Metformin,162,3
+2024-01-21,Hosp_C_Community,Atorvastatin,96,0
+2024-01-21,Hosp_C_Community,Letrozole,139,4
+2024-01-21,Hosp_C_Community,Trastuzumab,175,2
+2024-01-21,Hosp_C_Community,Oseltamivir,149,52
+2024-01-21,Hosp_C_Community,Cough Syrup,284,42
+2024-01-22,Hosp_C_Community,Paracetamol,89,17
+2024-01-22,Hosp_C_Community,Ibuprofen,60,18
+2024-01-22,Hosp_C_Community,Amoxicillin,278,23
+2024-01-22,Hosp_C_Community,Metformin,109,2
+2024-01-22,Hosp_C_Community,Atorvastatin,262,4
+2024-01-22,Hosp_C_Community,Letrozole,54,2
+2024-01-22,Hosp_C_Community,Trastuzumab,172,1
+2024-01-22,Hosp_C_Community,Oseltamivir,111,43
+2024-01-22,Hosp_C_Community,Cough Syrup,138,64
+2024-01-23,Hosp_C_Community,Paracetamol,64,24
+2024-01-23,Hosp_C_Community,Ibuprofen,206,10
+2024-01-23,Hosp_C_Community,Amoxicillin,293,16
+2024-01-23,Hosp_C_Community,Metformin,204,3
+2024-01-23,Hosp_C_Community,Atorvastatin,206,0
+2024-01-23,Hosp_C_Community,Letrozole,146,4
+2024-01-23,Hosp_C_Community,Trastuzumab,278,2
+2024-01-23,Hosp_C_Community,Oseltamivir,232,72
+2024-01-23,Hosp_C_Community,Cough Syrup,245,61
+2024-01-24,Hosp_C_Community,Paracetamol,72,24
+2024-01-24,Hosp_C_Community,Ibuprofen,139,23
+2024-01-24,Hosp_C_Community,Amoxicillin,156,21
+2024-01-24,Hosp_C_Community,Metformin,267,4
+2024-01-24,Hosp_C_Community,Atorvastatin,153,1
+2024-01-24,Hosp_C_Community,Letrozole,266,0
+2024-01-24,Hosp_C_Community,Trastuzumab,160,3
+2024-01-24,Hosp_C_Community,Oseltamivir,220,51
+2024-01-24,Hosp_C_Community,Cough Syrup,285,75
+2024-01-25,Hosp_C_Community,Paracetamol,102,18
+2024-01-25,Hosp_C_Community,Ibuprofen,251,29
+2024-01-25,Hosp_C_Community,Amoxicillin,106,18
+2024-01-25,Hosp_C_Community,Metformin,84,3
+2024-01-25,Hosp_C_Community,Atorvastatin,74,1
+2024-01-25,Hosp_C_Community,Letrozole,124,1
+2024-01-25,Hosp_C_Community,Trastuzumab,184,1
+2024-01-25,Hosp_C_Community,Oseltamivir,268,73
+2024-01-25,Hosp_C_Community,Cough Syrup,140,56
+2024-01-26,Hosp_C_Community,Paracetamol,228,28
+2024-01-26,Hosp_C_Community,Ibuprofen,111,26
+2024-01-26,Hosp_C_Community,Amoxicillin,222,25
+2024-01-26,Hosp_C_Community,Metformin,217,2
+2024-01-26,Hosp_C_Community,Atorvastatin,67,0
+2024-01-26,Hosp_C_Community,Letrozole,127,2
+2024-01-26,Hosp_C_Community,Trastuzumab,224,1
+2024-01-26,Hosp_C_Community,Oseltamivir,243,67
+2024-01-26,Hosp_C_Community,Cough Syrup,162,69
+2024-01-27,Hosp_C_Community,Paracetamol,116,28
+2024-01-27,Hosp_C_Community,Ibuprofen,146,24
+2024-01-27,Hosp_C_Community,Amoxicillin,57,11
+2024-01-27,Hosp_C_Community,Metformin,84,2
+2024-01-27,Hosp_C_Community,Atorvastatin,193,3
+2024-01-27,Hosp_C_Community,Letrozole,293,4
+2024-01-27,Hosp_C_Community,Trastuzumab,231,4
+2024-01-27,Hosp_C_Community,Oseltamivir,191,70
+2024-01-27,Hosp_C_Community,Cough Syrup,104,57
+2024-01-28,Hosp_C_Community,Paracetamol,135,21
+2024-01-28,Hosp_C_Community,Ibuprofen,73,26
+2024-01-28,Hosp_C_Community,Amoxicillin,251,23
+2024-01-28,Hosp_C_Community,Metformin,264,0
+2024-01-28,Hosp_C_Community,Atorvastatin,163,2
+2024-01-28,Hosp_C_Community,Letrozole,258,0
+2024-01-28,Hosp_C_Community,Trastuzumab,89,1
+2024-01-28,Hosp_C_Community,Oseltamivir,286,64
+2024-01-28,Hosp_C_Community,Cough Syrup,152,48
+2024-01-29,Hosp_C_Community,Paracetamol,102,16
+2024-01-29,Hosp_C_Community,Ibuprofen,187,22
+2024-01-29,Hosp_C_Community,Amoxicillin,194,23
+2024-01-29,Hosp_C_Community,Metformin,113,1
+2024-01-29,Hosp_C_Community,Atorvastatin,103,2
+2024-01-29,Hosp_C_Community,Letrozole,242,2
+2024-01-29,Hosp_C_Community,Trastuzumab,230,3
+2024-01-29,Hosp_C_Community,Oseltamivir,164,65
+2024-01-29,Hosp_C_Community,Cough Syrup,78,60
+2024-01-30,Hosp_C_Community,Paracetamol,266,20
+2024-01-30,Hosp_C_Community,Ibuprofen,153,19
+2024-01-30,Hosp_C_Community,Amoxicillin,74,16
+2024-01-30,Hosp_C_Community,Metformin,84,2
+2024-01-30,Hosp_C_Community,Atorvastatin,291,4
+2024-01-30,Hosp_C_Community,Letrozole,157,3
+2024-01-30,Hosp_C_Community,Trastuzumab,228,1
+2024-01-30,Hosp_C_Community,Oseltamivir,61,58
+2024-01-30,Hosp_C_Community,Cough Syrup,150,56
+2024-01-31,Hosp_C_Community,Paracetamol,299,16
+2024-01-31,Hosp_C_Community,Ibuprofen,63,24
+2024-01-31,Hosp_C_Community,Amoxicillin,166,16
+2024-01-31,Hosp_C_Community,Metformin,186,2
+2024-01-31,Hosp_C_Community,Atorvastatin,225,1
+2024-01-31,Hosp_C_Community,Letrozole,108,4
+2024-01-31,Hosp_C_Community,Trastuzumab,131,3
+2024-01-31,Hosp_C_Community,Oseltamivir,216,74
+2024-01-31,Hosp_C_Community,Cough Syrup,195,78
+2024-02-01,Hosp_C_Community,Paracetamol,62,22
+2024-02-01,Hosp_C_Community,Ibuprofen,67,12
+2024-02-01,Hosp_C_Community,Amoxicillin,172,16
+2024-02-01,Hosp_C_Community,Metformin,95,3
+2024-02-01,Hosp_C_Community,Atorvastatin,78,0
+2024-02-01,Hosp_C_Community,Letrozole,270,4
+2024-02-01,Hosp_C_Community,Trastuzumab,285,0
+2024-02-01,Hosp_C_Community,Oseltamivir,65,49
+2024-02-01,Hosp_C_Community,Cough Syrup,207,64
+2024-02-02,Hosp_C_Community,Paracetamol,60,22
+2024-02-02,Hosp_C_Community,Ibuprofen,275,16
+2024-02-02,Hosp_C_Community,Amoxicillin,101,13
+2024-02-02,Hosp_C_Community,Metformin,108,3
+2024-02-02,Hosp_C_Community,Atorvastatin,142,4
+2024-02-02,Hosp_C_Community,Letrozole,292,4
+2024-02-02,Hosp_C_Community,Trastuzumab,159,1
+2024-02-02,Hosp_C_Community,Oseltamivir,156,73
+2024-02-02,Hosp_C_Community,Cough Syrup,106,65
+2024-02-03,Hosp_C_Community,Paracetamol,233,12
+2024-02-03,Hosp_C_Community,Ibuprofen,172,18
+2024-02-03,Hosp_C_Community,Amoxicillin,244,11
+2024-02-03,Hosp_C_Community,Metformin,125,1
+2024-02-03,Hosp_C_Community,Atorvastatin,58,0
+2024-02-03,Hosp_C_Community,Letrozole,54,2
+2024-02-03,Hosp_C_Community,Trastuzumab,236,1
+2024-02-03,Hosp_C_Community,Oseltamivir,265,54
+2024-02-03,Hosp_C_Community,Cough Syrup,87,47
+2024-02-04,Hosp_C_Community,Paracetamol,108,25
+2024-02-04,Hosp_C_Community,Ibuprofen,218,22
+2024-02-04,Hosp_C_Community,Amoxicillin,156,22
+2024-02-04,Hosp_C_Community,Metformin,138,4
+2024-02-04,Hosp_C_Community,Atorvastatin,219,3
+2024-02-04,Hosp_C_Community,Letrozole,240,2
+2024-02-04,Hosp_C_Community,Trastuzumab,215,3
+2024-02-04,Hosp_C_Community,Oseltamivir,56,44
+2024-02-04,Hosp_C_Community,Cough Syrup,284,70
+2024-02-05,Hosp_C_Community,Paracetamol,112,24
+2024-02-05,Hosp_C_Community,Ibuprofen,271,14
+2024-02-05,Hosp_C_Community,Amoxicillin,270,13
+2024-02-05,Hosp_C_Community,Metformin,197,3
+2024-02-05,Hosp_C_Community,Atorvastatin,291,3
+2024-02-05,Hosp_C_Community,Letrozole,268,0
+2024-02-05,Hosp_C_Community,Trastuzumab,61,0
+2024-02-05,Hosp_C_Community,Oseltamivir,187,40
+2024-02-05,Hosp_C_Community,Cough Syrup,71,65
+2024-02-06,Hosp_C_Community,Paracetamol,78,20
+2024-02-06,Hosp_C_Community,Ibuprofen,165,11
+2024-02-06,Hosp_C_Community,Amoxicillin,224,23
+2024-02-06,Hosp_C_Community,Metformin,133,2
+2024-02-06,Hosp_C_Community,Atorvastatin,76,2
+2024-02-06,Hosp_C_Community,Letrozole,130,3
+2024-02-06,Hosp_C_Community,Trastuzumab,233,3
+2024-02-06,Hosp_C_Community,Oseltamivir,270,60
+2024-02-06,Hosp_C_Community,Cough Syrup,96,55
+2024-02-07,Hosp_C_Community,Paracetamol,180,21
+2024-02-07,Hosp_C_Community,Ibuprofen,230,12
+2024-02-07,Hosp_C_Community,Amoxicillin,197,23
+2024-02-07,Hosp_C_Community,Metformin,64,0
+2024-02-07,Hosp_C_Community,Atorvastatin,271,0
+2024-02-07,Hosp_C_Community,Letrozole,175,3
+2024-02-07,Hosp_C_Community,Trastuzumab,133,3
+2024-02-07,Hosp_C_Community,Oseltamivir,58,77
+2024-02-07,Hosp_C_Community,Cough Syrup,225,61
+2024-02-08,Hosp_C_Community,Paracetamol,210,19
+2024-02-08,Hosp_C_Community,Ibuprofen,217,27
+2024-02-08,Hosp_C_Community,Amoxicillin,146,11
+2024-02-08,Hosp_C_Community,Metformin,274,0
+2024-02-08,Hosp_C_Community,Atorvastatin,282,4
+2024-02-08,Hosp_C_Community,Letrozole,207,0
+2024-02-08,Hosp_C_Community,Trastuzumab,126,3
+2024-02-08,Hosp_C_Community,Oseltamivir,203,61
+2024-02-08,Hosp_C_Community,Cough Syrup,152,41
+2024-02-09,Hosp_C_Community,Paracetamol,71,12
+2024-02-09,Hosp_C_Community,Ibuprofen,176,18
+2024-02-09,Hosp_C_Community,Amoxicillin,237,19
+2024-02-09,Hosp_C_Community,Metformin,63,2
+2024-02-09,Hosp_C_Community,Atorvastatin,259,3
+2024-02-09,Hosp_C_Community,Letrozole,136,3
+2024-02-09,Hosp_C_Community,Trastuzumab,190,0
+2024-02-09,Hosp_C_Community,Oseltamivir,94,58
+2024-02-09,Hosp_C_Community,Cough Syrup,104,75
+2024-02-10,Hosp_C_Community,Paracetamol,197,14
+2024-02-10,Hosp_C_Community,Ibuprofen,53,21
+2024-02-10,Hosp_C_Community,Amoxicillin,175,29
+2024-02-10,Hosp_C_Community,Metformin,237,1
+2024-02-10,Hosp_C_Community,Atorvastatin,226,2
+2024-02-10,Hosp_C_Community,Letrozole,145,0
+2024-02-10,Hosp_C_Community,Trastuzumab,213,1
+2024-02-10,Hosp_C_Community,Oseltamivir,166,73
+2024-02-10,Hosp_C_Community,Cough Syrup,277,41
+2024-02-11,Hosp_C_Community,Paracetamol,109,24
+2024-02-11,Hosp_C_Community,Ibuprofen,63,16
+2024-02-11,Hosp_C_Community,Amoxicillin,266,29
+2024-02-11,Hosp_C_Community,Metformin,179,0
+2024-02-11,Hosp_C_Community,Atorvastatin,172,0
+2024-02-11,Hosp_C_Community,Letrozole,298,3
+2024-02-11,Hosp_C_Community,Trastuzumab,115,2
+2024-02-11,Hosp_C_Community,Oseltamivir,278,44
+2024-02-11,Hosp_C_Community,Cough Syrup,242,79
+2024-02-12,Hosp_C_Community,Paracetamol,93,24
+2024-02-12,Hosp_C_Community,Ibuprofen,256,15
+2024-02-12,Hosp_C_Community,Amoxicillin,157,29
+2024-02-12,Hosp_C_Community,Metformin,163,1
+2024-02-12,Hosp_C_Community,Atorvastatin,250,4
+2024-02-12,Hosp_C_Community,Letrozole,69,1
+2024-02-12,Hosp_C_Community,Trastuzumab,78,0
+2024-02-12,Hosp_C_Community,Oseltamivir,168,74
+2024-02-12,Hosp_C_Community,Cough Syrup,247,76
+2024-02-13,Hosp_C_Community,Paracetamol,57,27
+2024-02-13,Hosp_C_Community,Ibuprofen,134,10
+2024-02-13,Hosp_C_Community,Amoxicillin,296,17
+2024-02-13,Hosp_C_Community,Metformin,206,4
+2024-02-13,Hosp_C_Community,Atorvastatin,288,1
+2024-02-13,Hosp_C_Community,Letrozole,242,1
+2024-02-13,Hosp_C_Community,Trastuzumab,220,1
+2024-02-13,Hosp_C_Community,Oseltamivir,207,57
+2024-02-13,Hosp_C_Community,Cough Syrup,194,65
+2024-02-14,Hosp_C_Community,Paracetamol,147,15
+2024-02-14,Hosp_C_Community,Ibuprofen,287,13
+2024-02-14,Hosp_C_Community,Amoxicillin,151,28
+2024-02-14,Hosp_C_Community,Metformin,247,1
+2024-02-14,Hosp_C_Community,Atorvastatin,131,4
+2024-02-14,Hosp_C_Community,Letrozole,282,2
+2024-02-14,Hosp_C_Community,Trastuzumab,158,2
+2024-02-14,Hosp_C_Community,Oseltamivir,178,63
+2024-02-14,Hosp_C_Community,Cough Syrup,103,46
+2024-02-15,Hosp_C_Community,Paracetamol,275,25
+2024-02-15,Hosp_C_Community,Ibuprofen,86,24
+2024-02-15,Hosp_C_Community,Amoxicillin,93,13
+2024-02-15,Hosp_C_Community,Metformin,64,2
+2024-02-15,Hosp_C_Community,Atorvastatin,225,1
+2024-02-15,Hosp_C_Community,Letrozole,157,2
+2024-02-15,Hosp_C_Community,Trastuzumab,220,4
+2024-02-15,Hosp_C_Community,Oseltamivir,70,62
+2024-02-15,Hosp_C_Community,Cough Syrup,156,55
+2024-02-16,Hosp_C_Community,Paracetamol,240,26
+2024-02-16,Hosp_C_Community,Ibuprofen,219,19
+2024-02-16,Hosp_C_Community,Amoxicillin,233,13
+2024-02-16,Hosp_C_Community,Metformin,133,3
+2024-02-16,Hosp_C_Community,Atorvastatin,167,0
+2024-02-16,Hosp_C_Community,Letrozole,221,4
+2024-02-16,Hosp_C_Community,Trastuzumab,155,2
+2024-02-16,Hosp_C_Community,Oseltamivir,190,61
+2024-02-16,Hosp_C_Community,Cough Syrup,167,60
+2024-02-17,Hosp_C_Community,Paracetamol,276,21
+2024-02-17,Hosp_C_Community,Ibuprofen,275,10
+2024-02-17,Hosp_C_Community,Amoxicillin,168,26
+2024-02-17,Hosp_C_Community,Metformin,199,4
+2024-02-17,Hosp_C_Community,Atorvastatin,192,2
+2024-02-17,Hosp_C_Community,Letrozole,269,2
+2024-02-17,Hosp_C_Community,Trastuzumab,187,0
+2024-02-17,Hosp_C_Community,Oseltamivir,127,52
+2024-02-17,Hosp_C_Community,Cough Syrup,234,64
+2024-02-18,Hosp_C_Community,Paracetamol,245,22
+2024-02-18,Hosp_C_Community,Ibuprofen,98,11
+2024-02-18,Hosp_C_Community,Amoxicillin,237,14
+2024-02-18,Hosp_C_Community,Metformin,221,2
+2024-02-18,Hosp_C_Community,Atorvastatin,209,4
+2024-02-18,Hosp_C_Community,Letrozole,57,1
+2024-02-18,Hosp_C_Community,Trastuzumab,116,3
+2024-02-18,Hosp_C_Community,Oseltamivir,174,42
+2024-02-18,Hosp_C_Community,Cough Syrup,135,45
+2024-02-19,Hosp_C_Community,Paracetamol,54,29
+2024-02-19,Hosp_C_Community,Ibuprofen,153,21
+2024-02-19,Hosp_C_Community,Amoxicillin,114,29
+2024-02-19,Hosp_C_Community,Metformin,247,1
+2024-02-19,Hosp_C_Community,Atorvastatin,249,0
+2024-02-19,Hosp_C_Community,Letrozole,294,3
+2024-02-19,Hosp_C_Community,Trastuzumab,87,3
+2024-02-19,Hosp_C_Community,Oseltamivir,275,53
+2024-02-19,Hosp_C_Community,Cough Syrup,85,72
+2024-02-20,Hosp_C_Community,Paracetamol,116,25
+2024-02-20,Hosp_C_Community,Ibuprofen,56,29
+2024-02-20,Hosp_C_Community,Amoxicillin,63,18
+2024-02-20,Hosp_C_Community,Metformin,192,4
+2024-02-20,Hosp_C_Community,Atorvastatin,212,1
+2024-02-20,Hosp_C_Community,Letrozole,140,1
+2024-02-20,Hosp_C_Community,Trastuzumab,212,1
+2024-02-20,Hosp_C_Community,Oseltamivir,255,59
+2024-02-20,Hosp_C_Community,Cough Syrup,259,49
+2024-02-21,Hosp_C_Community,Paracetamol,209,20
+2024-02-21,Hosp_C_Community,Ibuprofen,179,28
+2024-02-21,Hosp_C_Community,Amoxicillin,80,28
+2024-02-21,Hosp_C_Community,Metformin,54,2
+2024-02-21,Hosp_C_Community,Atorvastatin,211,1
+2024-02-21,Hosp_C_Community,Letrozole,138,1
+2024-02-21,Hosp_C_Community,Trastuzumab,175,2
+2024-02-21,Hosp_C_Community,Oseltamivir,227,70
+2024-02-21,Hosp_C_Community,Cough Syrup,105,54
+2024-02-22,Hosp_C_Community,Paracetamol,278,14
+2024-02-22,Hosp_C_Community,Ibuprofen,232,11
+2024-02-22,Hosp_C_Community,Amoxicillin,111,15
+2024-02-22,Hosp_C_Community,Metformin,128,4
+2024-02-22,Hosp_C_Community,Atorvastatin,187,1
+2024-02-22,Hosp_C_Community,Letrozole,169,4
+2024-02-22,Hosp_C_Community,Trastuzumab,114,4
+2024-02-22,Hosp_C_Community,Oseltamivir,262,65
+2024-02-22,Hosp_C_Community,Cough Syrup,291,60
+2024-02-23,Hosp_C_Community,Paracetamol,59,27
+2024-02-23,Hosp_C_Community,Ibuprofen,107,17
+2024-02-23,Hosp_C_Community,Amoxicillin,70,20
+2024-02-23,Hosp_C_Community,Metformin,296,1
+2024-02-23,Hosp_C_Community,Atorvastatin,57,2
+2024-02-23,Hosp_C_Community,Letrozole,263,0
+2024-02-23,Hosp_C_Community,Trastuzumab,128,0
+2024-02-23,Hosp_C_Community,Oseltamivir,237,62
+2024-02-23,Hosp_C_Community,Cough Syrup,137,58
+2024-02-24,Hosp_C_Community,Paracetamol,145,17
+2024-02-24,Hosp_C_Community,Ibuprofen,113,19
+2024-02-24,Hosp_C_Community,Amoxicillin,87,24
+2024-02-24,Hosp_C_Community,Metformin,273,3
+2024-02-24,Hosp_C_Community,Atorvastatin,130,0
+2024-02-24,Hosp_C_Community,Letrozole,122,1
+2024-02-24,Hosp_C_Community,Trastuzumab,256,1
+2024-02-24,Hosp_C_Community,Oseltamivir,244,75
+2024-02-24,Hosp_C_Community,Cough Syrup,175,43
+2024-02-25,Hosp_C_Community,Paracetamol,223,26
+2024-02-25,Hosp_C_Community,Ibuprofen,169,12
+2024-02-25,Hosp_C_Community,Amoxicillin,171,16
+2024-02-25,Hosp_C_Community,Metformin,290,3
+2024-02-25,Hosp_C_Community,Atorvastatin,282,1
+2024-02-25,Hosp_C_Community,Letrozole,198,4
+2024-02-25,Hosp_C_Community,Trastuzumab,198,3
+2024-02-25,Hosp_C_Community,Oseltamivir,273,50
+2024-02-25,Hosp_C_Community,Cough Syrup,135,61
+2024-02-26,Hosp_C_Community,Paracetamol,160,17
+2024-02-26,Hosp_C_Community,Ibuprofen,155,25
+2024-02-26,Hosp_C_Community,Amoxicillin,121,10
+2024-02-26,Hosp_C_Community,Metformin,157,4
+2024-02-26,Hosp_C_Community,Atorvastatin,52,0
+2024-02-26,Hosp_C_Community,Letrozole,181,2
+2024-02-26,Hosp_C_Community,Trastuzumab,273,1
+2024-02-26,Hosp_C_Community,Oseltamivir,147,64
+2024-02-26,Hosp_C_Community,Cough Syrup,59,60
+2024-02-27,Hosp_C_Community,Paracetamol,69,19
+2024-02-27,Hosp_C_Community,Ibuprofen,73,12
+2024-02-27,Hosp_C_Community,Amoxicillin,203,14
+2024-02-27,Hosp_C_Community,Metformin,279,4
+2024-02-27,Hosp_C_Community,Atorvastatin,103,4
+2024-02-27,Hosp_C_Community,Letrozole,251,3
+2024-02-27,Hosp_C_Community,Trastuzumab,237,0
+2024-02-27,Hosp_C_Community,Oseltamivir,222,59
+2024-02-27,Hosp_C_Community,Cough Syrup,66,46
+2024-02-28,Hosp_C_Community,Paracetamol,274,27
+2024-02-28,Hosp_C_Community,Ibuprofen,112,29
+2024-02-28,Hosp_C_Community,Amoxicillin,162,24
+2024-02-28,Hosp_C_Community,Metformin,252,0
+2024-02-28,Hosp_C_Community,Atorvastatin,167,4
+2024-02-28,Hosp_C_Community,Letrozole,210,0
+2024-02-28,Hosp_C_Community,Trastuzumab,247,3
+2024-02-28,Hosp_C_Community,Oseltamivir,197,66
+2024-02-28,Hosp_C_Community,Cough Syrup,192,45
+2024-02-29,Hosp_C_Community,Paracetamol,149,15
+2024-02-29,Hosp_C_Community,Ibuprofen,139,13
+2024-02-29,Hosp_C_Community,Amoxicillin,175,16
+2024-02-29,Hosp_C_Community,Metformin,88,1
+2024-02-29,Hosp_C_Community,Atorvastatin,212,0
+2024-02-29,Hosp_C_Community,Letrozole,73,0
+2024-02-29,Hosp_C_Community,Trastuzumab,149,0
+2024-02-29,Hosp_C_Community,Oseltamivir,231,70
+2024-02-29,Hosp_C_Community,Cough Syrup,133,63
+2024-03-01,Hosp_C_Community,Paracetamol,209,20
+2024-03-01,Hosp_C_Community,Ibuprofen,197,24
+2024-03-01,Hosp_C_Community,Amoxicillin,225,16
+2024-03-01,Hosp_C_Community,Metformin,198,1
+2024-03-01,Hosp_C_Community,Atorvastatin,203,3
+2024-03-01,Hosp_C_Community,Letrozole,169,0
+2024-03-01,Hosp_C_Community,Trastuzumab,214,1
+2024-03-01,Hosp_C_Community,Oseltamivir,70,1
+2024-03-01,Hosp_C_Community,Cough Syrup,118,2
+2024-03-02,Hosp_C_Community,Paracetamol,123,14
+2024-03-02,Hosp_C_Community,Ibuprofen,51,25
+2024-03-02,Hosp_C_Community,Amoxicillin,106,11
+2024-03-02,Hosp_C_Community,Metformin,123,1
+2024-03-02,Hosp_C_Community,Atorvastatin,193,2
+2024-03-02,Hosp_C_Community,Letrozole,174,3
+2024-03-02,Hosp_C_Community,Trastuzumab,137,3
+2024-03-02,Hosp_C_Community,Oseltamivir,108,1
+2024-03-02,Hosp_C_Community,Cough Syrup,148,2
+2024-03-03,Hosp_C_Community,Paracetamol,276,15
+2024-03-03,Hosp_C_Community,Ibuprofen,216,29
+2024-03-03,Hosp_C_Community,Amoxicillin,72,27
+2024-03-03,Hosp_C_Community,Metformin,220,2
+2024-03-03,Hosp_C_Community,Atorvastatin,246,2
+2024-03-03,Hosp_C_Community,Letrozole,60,3
+2024-03-03,Hosp_C_Community,Trastuzumab,123,3
+2024-03-03,Hosp_C_Community,Oseltamivir,269,0
+2024-03-03,Hosp_C_Community,Cough Syrup,213,4
+2024-03-04,Hosp_C_Community,Paracetamol,159,28
+2024-03-04,Hosp_C_Community,Ibuprofen,81,18
+2024-03-04,Hosp_C_Community,Amoxicillin,61,20
+2024-03-04,Hosp_C_Community,Metformin,95,0
+2024-03-04,Hosp_C_Community,Atorvastatin,112,4
+2024-03-04,Hosp_C_Community,Letrozole,168,4
+2024-03-04,Hosp_C_Community,Trastuzumab,70,4
+2024-03-04,Hosp_C_Community,Oseltamivir,211,3
+2024-03-04,Hosp_C_Community,Cough Syrup,205,1
+2024-03-05,Hosp_C_Community,Paracetamol,180,21
+2024-03-05,Hosp_C_Community,Ibuprofen,269,25
+2024-03-05,Hosp_C_Community,Amoxicillin,70,10
+2024-03-05,Hosp_C_Community,Metformin,262,2
+2024-03-05,Hosp_C_Community,Atorvastatin,229,1
+2024-03-05,Hosp_C_Community,Letrozole,90,2
+2024-03-05,Hosp_C_Community,Trastuzumab,224,1
+2024-03-05,Hosp_C_Community,Oseltamivir,107,2
+2024-03-05,Hosp_C_Community,Cough Syrup,234,0
+2024-03-06,Hosp_C_Community,Paracetamol,166,23
+2024-03-06,Hosp_C_Community,Ibuprofen,293,23
+2024-03-06,Hosp_C_Community,Amoxicillin,277,21
+2024-03-06,Hosp_C_Community,Metformin,194,0
+2024-03-06,Hosp_C_Community,Atorvastatin,148,3
+2024-03-06,Hosp_C_Community,Letrozole,126,1
+2024-03-06,Hosp_C_Community,Trastuzumab,164,0
+2024-03-06,Hosp_C_Community,Oseltamivir,183,2
+2024-03-06,Hosp_C_Community,Cough Syrup,268,2
+2024-03-07,Hosp_C_Community,Paracetamol,170,28
+2024-03-07,Hosp_C_Community,Ibuprofen,224,29
+2024-03-07,Hosp_C_Community,Amoxicillin,191,15
+2024-03-07,Hosp_C_Community,Metformin,230,4
+2024-03-07,Hosp_C_Community,Atorvastatin,213,0
+2024-03-07,Hosp_C_Community,Letrozole,79,0
+2024-03-07,Hosp_C_Community,Trastuzumab,113,0
+2024-03-07,Hosp_C_Community,Oseltamivir,169,3
+2024-03-07,Hosp_C_Community,Cough Syrup,138,2
+2024-03-08,Hosp_C_Community,Paracetamol,117,12
+2024-03-08,Hosp_C_Community,Ibuprofen,258,11
+2024-03-08,Hosp_C_Community,Amoxicillin,265,10
+2024-03-08,Hosp_C_Community,Metformin,57,4
+2024-03-08,Hosp_C_Community,Atorvastatin,136,3
+2024-03-08,Hosp_C_Community,Letrozole,231,3
+2024-03-08,Hosp_C_Community,Trastuzumab,223,0
+2024-03-08,Hosp_C_Community,Oseltamivir,196,1
+2024-03-08,Hosp_C_Community,Cough Syrup,101,4
+2024-03-09,Hosp_C_Community,Paracetamol,267,17
+2024-03-09,Hosp_C_Community,Ibuprofen,260,19
+2024-03-09,Hosp_C_Community,Amoxicillin,242,22
+2024-03-09,Hosp_C_Community,Metformin,290,2
+2024-03-09,Hosp_C_Community,Atorvastatin,217,2
+2024-03-09,Hosp_C_Community,Letrozole,225,4
+2024-03-09,Hosp_C_Community,Trastuzumab,133,0
+2024-03-09,Hosp_C_Community,Oseltamivir,190,4
+2024-03-09,Hosp_C_Community,Cough Syrup,279,0
+2024-03-10,Hosp_C_Community,Paracetamol,217,21
+2024-03-10,Hosp_C_Community,Ibuprofen,68,21
+2024-03-10,Hosp_C_Community,Amoxicillin,121,17
+2024-03-10,Hosp_C_Community,Metformin,238,4
+2024-03-10,Hosp_C_Community,Atorvastatin,158,3
+2024-03-10,Hosp_C_Community,Letrozole,238,0
+2024-03-10,Hosp_C_Community,Trastuzumab,94,1
+2024-03-10,Hosp_C_Community,Oseltamivir,152,3
+2024-03-10,Hosp_C_Community,Cough Syrup,299,4
+2024-03-11,Hosp_C_Community,Paracetamol,100,20
+2024-03-11,Hosp_C_Community,Ibuprofen,254,19
+2024-03-11,Hosp_C_Community,Amoxicillin,191,27
+2024-03-11,Hosp_C_Community,Metformin,100,0
+2024-03-11,Hosp_C_Community,Atorvastatin,170,3
+2024-03-11,Hosp_C_Community,Letrozole,52,3
+2024-03-11,Hosp_C_Community,Trastuzumab,247,2
+2024-03-11,Hosp_C_Community,Oseltamivir,166,1
+2024-03-11,Hosp_C_Community,Cough Syrup,142,2
+2024-03-12,Hosp_C_Community,Paracetamol,244,21
+2024-03-12,Hosp_C_Community,Ibuprofen,128,18
+2024-03-12,Hosp_C_Community,Amoxicillin,112,17
+2024-03-12,Hosp_C_Community,Metformin,124,1
+2024-03-12,Hosp_C_Community,Atorvastatin,106,3
+2024-03-12,Hosp_C_Community,Letrozole,173,0
+2024-03-12,Hosp_C_Community,Trastuzumab,201,1
+2024-03-12,Hosp_C_Community,Oseltamivir,233,3
+2024-03-12,Hosp_C_Community,Cough Syrup,214,3
+2024-03-13,Hosp_C_Community,Paracetamol,137,12
+2024-03-13,Hosp_C_Community,Ibuprofen,124,22
+2024-03-13,Hosp_C_Community,Amoxicillin,53,23
+2024-03-13,Hosp_C_Community,Metformin,295,2
+2024-03-13,Hosp_C_Community,Atorvastatin,241,2
+2024-03-13,Hosp_C_Community,Letrozole,283,2
+2024-03-13,Hosp_C_Community,Trastuzumab,99,2
+2024-03-13,Hosp_C_Community,Oseltamivir,174,4
+2024-03-13,Hosp_C_Community,Cough Syrup,79,1
+2024-03-14,Hosp_C_Community,Paracetamol,299,26
+2024-03-14,Hosp_C_Community,Ibuprofen,134,23
+2024-03-14,Hosp_C_Community,Amoxicillin,176,21
+2024-03-14,Hosp_C_Community,Metformin,70,3
+2024-03-14,Hosp_C_Community,Atorvastatin,188,3
+2024-03-14,Hosp_C_Community,Letrozole,292,0
+2024-03-14,Hosp_C_Community,Trastuzumab,141,4
+2024-03-14,Hosp_C_Community,Oseltamivir,276,4
+2024-03-14,Hosp_C_Community,Cough Syrup,160,1
+2024-03-15,Hosp_C_Community,Paracetamol,66,28
+2024-03-15,Hosp_C_Community,Ibuprofen,196,25
+2024-03-15,Hosp_C_Community,Amoxicillin,157,21
+2024-03-15,Hosp_C_Community,Metformin,101,1
+2024-03-15,Hosp_C_Community,Atorvastatin,277,2
+2024-03-15,Hosp_C_Community,Letrozole,210,2
+2024-03-15,Hosp_C_Community,Trastuzumab,252,0
+2024-03-15,Hosp_C_Community,Oseltamivir,292,1
+2024-03-15,Hosp_C_Community,Cough Syrup,258,2
+2024-03-16,Hosp_C_Community,Paracetamol,257,21
+2024-03-16,Hosp_C_Community,Ibuprofen,243,18
+2024-03-16,Hosp_C_Community,Amoxicillin,201,12
+2024-03-16,Hosp_C_Community,Metformin,233,0
+2024-03-16,Hosp_C_Community,Atorvastatin,271,2
+2024-03-16,Hosp_C_Community,Letrozole,68,1
+2024-03-16,Hosp_C_Community,Trastuzumab,57,1
+2024-03-16,Hosp_C_Community,Oseltamivir,162,2
+2024-03-16,Hosp_C_Community,Cough Syrup,114,3
+2024-03-17,Hosp_C_Community,Paracetamol,172,15
+2024-03-17,Hosp_C_Community,Ibuprofen,65,11
+2024-03-17,Hosp_C_Community,Amoxicillin,217,26
+2024-03-17,Hosp_C_Community,Metformin,168,1
+2024-03-17,Hosp_C_Community,Atorvastatin,283,3
+2024-03-17,Hosp_C_Community,Letrozole,193,3
+2024-03-17,Hosp_C_Community,Trastuzumab,115,1
+2024-03-17,Hosp_C_Community,Oseltamivir,267,4
+2024-03-17,Hosp_C_Community,Cough Syrup,233,3
+2024-03-18,Hosp_C_Community,Paracetamol,101,29
+2024-03-18,Hosp_C_Community,Ibuprofen,209,27
+2024-03-18,Hosp_C_Community,Amoxicillin,63,27
+2024-03-18,Hosp_C_Community,Metformin,205,3
+2024-03-18,Hosp_C_Community,Atorvastatin,102,3
+2024-03-18,Hosp_C_Community,Letrozole,254,2
+2024-03-18,Hosp_C_Community,Trastuzumab,264,1
+2024-03-18,Hosp_C_Community,Oseltamivir,61,1
+2024-03-18,Hosp_C_Community,Cough Syrup,131,1
+2024-03-19,Hosp_C_Community,Paracetamol,253,28
+2024-03-19,Hosp_C_Community,Ibuprofen,214,26
+2024-03-19,Hosp_C_Community,Amoxicillin,235,10
+2024-03-19,Hosp_C_Community,Metformin,109,2
+2024-03-19,Hosp_C_Community,Atorvastatin,266,1
+2024-03-19,Hosp_C_Community,Letrozole,224,4
+2024-03-19,Hosp_C_Community,Trastuzumab,198,2
+2024-03-19,Hosp_C_Community,Oseltamivir,62,4
+2024-03-19,Hosp_C_Community,Cough Syrup,210,3
+2024-03-20,Hosp_C_Community,Paracetamol,252,10
+2024-03-20,Hosp_C_Community,Ibuprofen,149,22
+2024-03-20,Hosp_C_Community,Amoxicillin,136,22
+2024-03-20,Hosp_C_Community,Metformin,286,1
+2024-03-20,Hosp_C_Community,Atorvastatin,186,3
+2024-03-20,Hosp_C_Community,Letrozole,67,2
+2024-03-20,Hosp_C_Community,Trastuzumab,77,3
+2024-03-20,Hosp_C_Community,Oseltamivir,221,4
+2024-03-20,Hosp_C_Community,Cough Syrup,77,0
+2024-03-21,Hosp_C_Community,Paracetamol,237,15
+2024-03-21,Hosp_C_Community,Ibuprofen,114,29
+2024-03-21,Hosp_C_Community,Amoxicillin,168,25
+2024-03-21,Hosp_C_Community,Metformin,224,0
+2024-03-21,Hosp_C_Community,Atorvastatin,153,3
+2024-03-21,Hosp_C_Community,Letrozole,235,3
+2024-03-21,Hosp_C_Community,Trastuzumab,76,4
+2024-03-21,Hosp_C_Community,Oseltamivir,219,2
+2024-03-21,Hosp_C_Community,Cough Syrup,224,0
+2024-03-22,Hosp_C_Community,Paracetamol,206,11
+2024-03-22,Hosp_C_Community,Ibuprofen,275,22
+2024-03-22,Hosp_C_Community,Amoxicillin,128,21
+2024-03-22,Hosp_C_Community,Metformin,267,3
+2024-03-22,Hosp_C_Community,Atorvastatin,139,0
+2024-03-22,Hosp_C_Community,Letrozole,168,4
+2024-03-22,Hosp_C_Community,Trastuzumab,105,3
+2024-03-22,Hosp_C_Community,Oseltamivir,227,2
+2024-03-22,Hosp_C_Community,Cough Syrup,192,3
+2024-03-23,Hosp_C_Community,Paracetamol,101,18
+2024-03-23,Hosp_C_Community,Ibuprofen,252,10
+2024-03-23,Hosp_C_Community,Amoxicillin,227,15
+2024-03-23,Hosp_C_Community,Metformin,204,1
+2024-03-23,Hosp_C_Community,Atorvastatin,64,4
+2024-03-23,Hosp_C_Community,Letrozole,171,4
+2024-03-23,Hosp_C_Community,Trastuzumab,95,4
+2024-03-23,Hosp_C_Community,Oseltamivir,183,1
+2024-03-23,Hosp_C_Community,Cough Syrup,127,1
+2024-03-24,Hosp_C_Community,Paracetamol,151,27
+2024-03-24,Hosp_C_Community,Ibuprofen,203,15
+2024-03-24,Hosp_C_Community,Amoxicillin,53,21
+2024-03-24,Hosp_C_Community,Metformin,164,4
+2024-03-24,Hosp_C_Community,Atorvastatin,108,4
+2024-03-24,Hosp_C_Community,Letrozole,147,0
+2024-03-24,Hosp_C_Community,Trastuzumab,156,2
+2024-03-24,Hosp_C_Community,Oseltamivir,294,1
+2024-03-24,Hosp_C_Community,Cough Syrup,211,4
+2024-03-25,Hosp_C_Community,Paracetamol,142,12
+2024-03-25,Hosp_C_Community,Ibuprofen,157,22
+2024-03-25,Hosp_C_Community,Amoxicillin,222,19
+2024-03-25,Hosp_C_Community,Metformin,277,0
+2024-03-25,Hosp_C_Community,Atorvastatin,231,2
+2024-03-25,Hosp_C_Community,Letrozole,83,2
+2024-03-25,Hosp_C_Community,Trastuzumab,178,0
+2024-03-25,Hosp_C_Community,Oseltamivir,142,0
+2024-03-25,Hosp_C_Community,Cough Syrup,116,3
+2024-03-26,Hosp_C_Community,Paracetamol,228,12
+2024-03-26,Hosp_C_Community,Ibuprofen,125,28
+2024-03-26,Hosp_C_Community,Amoxicillin,196,22
+2024-03-26,Hosp_C_Community,Metformin,237,1
+2024-03-26,Hosp_C_Community,Atorvastatin,89,4
+2024-03-26,Hosp_C_Community,Letrozole,198,3
+2024-03-26,Hosp_C_Community,Trastuzumab,72,1
+2024-03-26,Hosp_C_Community,Oseltamivir,133,1
+2024-03-26,Hosp_C_Community,Cough Syrup,165,4
+2024-03-27,Hosp_C_Community,Paracetamol,144,18
+2024-03-27,Hosp_C_Community,Ibuprofen,106,15
+2024-03-27,Hosp_C_Community,Amoxicillin,150,19
+2024-03-27,Hosp_C_Community,Metformin,217,4
+2024-03-27,Hosp_C_Community,Atorvastatin,110,3
+2024-03-27,Hosp_C_Community,Letrozole,52,2
+2024-03-27,Hosp_C_Community,Trastuzumab,135,3
+2024-03-27,Hosp_C_Community,Oseltamivir,269,3
+2024-03-27,Hosp_C_Community,Cough Syrup,87,2
+2024-03-28,Hosp_C_Community,Paracetamol,58,26
+2024-03-28,Hosp_C_Community,Ibuprofen,188,19
+2024-03-28,Hosp_C_Community,Amoxicillin,263,26
+2024-03-28,Hosp_C_Community,Metformin,117,3
+2024-03-28,Hosp_C_Community,Atorvastatin,160,0
+2024-03-28,Hosp_C_Community,Letrozole,172,4
+2024-03-28,Hosp_C_Community,Trastuzumab,150,0
+2024-03-28,Hosp_C_Community,Oseltamivir,114,0
+2024-03-28,Hosp_C_Community,Cough Syrup,100,3
+2024-03-29,Hosp_C_Community,Paracetamol,130,12
+2024-03-29,Hosp_C_Community,Ibuprofen,267,24
+2024-03-29,Hosp_C_Community,Amoxicillin,149,13
+2024-03-29,Hosp_C_Community,Metformin,195,0
+2024-03-29,Hosp_C_Community,Atorvastatin,132,2
+2024-03-29,Hosp_C_Community,Letrozole,165,2
+2024-03-29,Hosp_C_Community,Trastuzumab,281,1
+2024-03-29,Hosp_C_Community,Oseltamivir,82,1
+2024-03-29,Hosp_C_Community,Cough Syrup,238,3
+2024-03-30,Hosp_C_Community,Paracetamol,168,12
+2024-03-30,Hosp_C_Community,Ibuprofen,163,25
+2024-03-30,Hosp_C_Community,Amoxicillin,296,28
+2024-03-30,Hosp_C_Community,Metformin,228,1
+2024-03-30,Hosp_C_Community,Atorvastatin,293,3
+2024-03-30,Hosp_C_Community,Letrozole,274,0
+2024-03-30,Hosp_C_Community,Trastuzumab,61,4
+2024-03-30,Hosp_C_Community,Oseltamivir,124,4
+2024-03-30,Hosp_C_Community,Cough Syrup,76,3
+2024-03-31,Hosp_C_Community,Paracetamol,197,27
+2024-03-31,Hosp_C_Community,Ibuprofen,112,19
+2024-03-31,Hosp_C_Community,Amoxicillin,154,17
+2024-03-31,Hosp_C_Community,Metformin,267,4
+2024-03-31,Hosp_C_Community,Atorvastatin,251,0
+2024-03-31,Hosp_C_Community,Letrozole,115,1
+2024-03-31,Hosp_C_Community,Trastuzumab,118,3
+2024-03-31,Hosp_C_Community,Oseltamivir,111,0
+2024-03-31,Hosp_C_Community,Cough Syrup,246,1
+2024-04-01,Hosp_C_Community,Paracetamol,116,15
+2024-04-01,Hosp_C_Community,Ibuprofen,256,19
+2024-04-01,Hosp_C_Community,Amoxicillin,122,10
+2024-04-01,Hosp_C_Community,Metformin,145,0
+2024-04-01,Hosp_C_Community,Atorvastatin,236,3
+2024-04-01,Hosp_C_Community,Letrozole,108,3
+2024-04-01,Hosp_C_Community,Trastuzumab,51,4
+2024-04-01,Hosp_C_Community,Oseltamivir,245,0
+2024-04-01,Hosp_C_Community,Cough Syrup,132,1
+2024-04-02,Hosp_C_Community,Paracetamol,194,19
+2024-04-02,Hosp_C_Community,Ibuprofen,163,27
+2024-04-02,Hosp_C_Community,Amoxicillin,212,29
+2024-04-02,Hosp_C_Community,Metformin,134,0
+2024-04-02,Hosp_C_Community,Atorvastatin,205,3
+2024-04-02,Hosp_C_Community,Letrozole,142,2
+2024-04-02,Hosp_C_Community,Trastuzumab,122,2
+2024-04-02,Hosp_C_Community,Oseltamivir,203,2
+2024-04-02,Hosp_C_Community,Cough Syrup,297,3
+2024-04-03,Hosp_C_Community,Paracetamol,187,27
+2024-04-03,Hosp_C_Community,Ibuprofen,87,28
+2024-04-03,Hosp_C_Community,Amoxicillin,213,22
+2024-04-03,Hosp_C_Community,Metformin,297,2
+2024-04-03,Hosp_C_Community,Atorvastatin,251,0
+2024-04-03,Hosp_C_Community,Letrozole,296,2
+2024-04-03,Hosp_C_Community,Trastuzumab,287,2
+2024-04-03,Hosp_C_Community,Oseltamivir,287,1
+2024-04-03,Hosp_C_Community,Cough Syrup,258,0
+2024-04-04,Hosp_C_Community,Paracetamol,110,20
+2024-04-04,Hosp_C_Community,Ibuprofen,103,13
+2024-04-04,Hosp_C_Community,Amoxicillin,269,24
+2024-04-04,Hosp_C_Community,Metformin,178,2
+2024-04-04,Hosp_C_Community,Atorvastatin,255,1
+2024-04-04,Hosp_C_Community,Letrozole,170,0
+2024-04-04,Hosp_C_Community,Trastuzumab,151,4
+2024-04-04,Hosp_C_Community,Oseltamivir,289,4
+2024-04-04,Hosp_C_Community,Cough Syrup,182,0
+2024-04-05,Hosp_C_Community,Paracetamol,107,16
+2024-04-05,Hosp_C_Community,Ibuprofen,129,10
+2024-04-05,Hosp_C_Community,Amoxicillin,162,18
+2024-04-05,Hosp_C_Community,Metformin,55,2
+2024-04-05,Hosp_C_Community,Atorvastatin,158,2
+2024-04-05,Hosp_C_Community,Letrozole,88,0
+2024-04-05,Hosp_C_Community,Trastuzumab,167,4
+2024-04-05,Hosp_C_Community,Oseltamivir,219,0
+2024-04-05,Hosp_C_Community,Cough Syrup,125,2
+2024-04-06,Hosp_C_Community,Paracetamol,187,24
+2024-04-06,Hosp_C_Community,Ibuprofen,164,13
+2024-04-06,Hosp_C_Community,Amoxicillin,211,18
+2024-04-06,Hosp_C_Community,Metformin,283,3
+2024-04-06,Hosp_C_Community,Atorvastatin,60,2
+2024-04-06,Hosp_C_Community,Letrozole,167,3
+2024-04-06,Hosp_C_Community,Trastuzumab,201,2
+2024-04-06,Hosp_C_Community,Oseltamivir,186,0
+2024-04-06,Hosp_C_Community,Cough Syrup,239,0
+2024-04-07,Hosp_C_Community,Paracetamol,290,26
+2024-04-07,Hosp_C_Community,Ibuprofen,220,12
+2024-04-07,Hosp_C_Community,Amoxicillin,256,20
+2024-04-07,Hosp_C_Community,Metformin,209,1
+2024-04-07,Hosp_C_Community,Atorvastatin,173,0
+2024-04-07,Hosp_C_Community,Letrozole,103,3
+2024-04-07,Hosp_C_Community,Trastuzumab,122,0
+2024-04-07,Hosp_C_Community,Oseltamivir,142,0
+2024-04-07,Hosp_C_Community,Cough Syrup,135,0
+2024-04-08,Hosp_C_Community,Paracetamol,128,29
+2024-04-08,Hosp_C_Community,Ibuprofen,241,19
+2024-04-08,Hosp_C_Community,Amoxicillin,270,12
+2024-04-08,Hosp_C_Community,Metformin,132,2
+2024-04-08,Hosp_C_Community,Atorvastatin,231,2
+2024-04-08,Hosp_C_Community,Letrozole,232,3
+2024-04-08,Hosp_C_Community,Trastuzumab,109,3
+2024-04-08,Hosp_C_Community,Oseltamivir,124,1
+2024-04-08,Hosp_C_Community,Cough Syrup,272,2
+2024-04-09,Hosp_C_Community,Paracetamol,176,15
+2024-04-09,Hosp_C_Community,Ibuprofen,206,26
+2024-04-09,Hosp_C_Community,Amoxicillin,193,12
+2024-04-09,Hosp_C_Community,Metformin,70,1
+2024-04-09,Hosp_C_Community,Atorvastatin,85,1
+2024-04-09,Hosp_C_Community,Letrozole,278,4
+2024-04-09,Hosp_C_Community,Trastuzumab,263,1
+2024-04-09,Hosp_C_Community,Oseltamivir,125,1
+2024-04-09,Hosp_C_Community,Cough Syrup,238,4
+2024-04-10,Hosp_C_Community,Paracetamol,271,22
+2024-04-10,Hosp_C_Community,Ibuprofen,273,23
+2024-04-10,Hosp_C_Community,Amoxicillin,62,13
+2024-04-10,Hosp_C_Community,Metformin,184,1
+2024-04-10,Hosp_C_Community,Atorvastatin,280,4
+2024-04-10,Hosp_C_Community,Letrozole,256,3
+2024-04-10,Hosp_C_Community,Trastuzumab,273,3
+2024-04-10,Hosp_C_Community,Oseltamivir,299,4
+2024-04-10,Hosp_C_Community,Cough Syrup,133,3
+2024-04-11,Hosp_C_Community,Paracetamol,225,29
+2024-04-11,Hosp_C_Community,Ibuprofen,189,20
+2024-04-11,Hosp_C_Community,Amoxicillin,238,19
+2024-04-11,Hosp_C_Community,Metformin,244,4
+2024-04-11,Hosp_C_Community,Atorvastatin,140,2
+2024-04-11,Hosp_C_Community,Letrozole,144,4
+2024-04-11,Hosp_C_Community,Trastuzumab,62,0
+2024-04-11,Hosp_C_Community,Oseltamivir,84,3
+2024-04-11,Hosp_C_Community,Cough Syrup,252,2
+2024-04-12,Hosp_C_Community,Paracetamol,136,20
+2024-04-12,Hosp_C_Community,Ibuprofen,159,11
+2024-04-12,Hosp_C_Community,Amoxicillin,232,14
+2024-04-12,Hosp_C_Community,Metformin,240,2
+2024-04-12,Hosp_C_Community,Atorvastatin,182,2
+2024-04-12,Hosp_C_Community,Letrozole,198,3
+2024-04-12,Hosp_C_Community,Trastuzumab,99,3
+2024-04-12,Hosp_C_Community,Oseltamivir,295,0
+2024-04-12,Hosp_C_Community,Cough Syrup,219,3
+2024-04-13,Hosp_C_Community,Paracetamol,142,23
+2024-04-13,Hosp_C_Community,Ibuprofen,191,27
+2024-04-13,Hosp_C_Community,Amoxicillin,197,27
+2024-04-13,Hosp_C_Community,Metformin,161,0
+2024-04-13,Hosp_C_Community,Atorvastatin,168,2
+2024-04-13,Hosp_C_Community,Letrozole,92,3
+2024-04-13,Hosp_C_Community,Trastuzumab,89,3
+2024-04-13,Hosp_C_Community,Oseltamivir,271,2
+2024-04-13,Hosp_C_Community,Cough Syrup,205,1
+2024-04-14,Hosp_C_Community,Paracetamol,264,18
+2024-04-14,Hosp_C_Community,Ibuprofen,212,28
+2024-04-14,Hosp_C_Community,Amoxicillin,261,14
+2024-04-14,Hosp_C_Community,Metformin,283,0
+2024-04-14,Hosp_C_Community,Atorvastatin,288,0
+2024-04-14,Hosp_C_Community,Letrozole,57,4
+2024-04-14,Hosp_C_Community,Trastuzumab,271,3
+2024-04-14,Hosp_C_Community,Oseltamivir,173,4
+2024-04-14,Hosp_C_Community,Cough Syrup,168,3
+2024-04-15,Hosp_C_Community,Paracetamol,142,19
+2024-04-15,Hosp_C_Community,Ibuprofen,88,26
+2024-04-15,Hosp_C_Community,Amoxicillin,213,22
+2024-04-15,Hosp_C_Community,Metformin,273,3
+2024-04-15,Hosp_C_Community,Atorvastatin,150,1
+2024-04-15,Hosp_C_Community,Letrozole,135,3
+2024-04-15,Hosp_C_Community,Trastuzumab,272,1
+2024-04-15,Hosp_C_Community,Oseltamivir,241,1
+2024-04-15,Hosp_C_Community,Cough Syrup,80,2
+2024-04-16,Hosp_C_Community,Paracetamol,194,24
+2024-04-16,Hosp_C_Community,Ibuprofen,155,24
+2024-04-16,Hosp_C_Community,Amoxicillin,256,16
+2024-04-16,Hosp_C_Community,Metformin,62,0
+2024-04-16,Hosp_C_Community,Atorvastatin,81,0
+2024-04-16,Hosp_C_Community,Letrozole,89,3
+2024-04-16,Hosp_C_Community,Trastuzumab,267,2
+2024-04-16,Hosp_C_Community,Oseltamivir,262,1
+2024-04-16,Hosp_C_Community,Cough Syrup,126,0
+2024-04-17,Hosp_C_Community,Paracetamol,169,12
+2024-04-17,Hosp_C_Community,Ibuprofen,205,12
+2024-04-17,Hosp_C_Community,Amoxicillin,286,11
+2024-04-17,Hosp_C_Community,Metformin,257,4
+2024-04-17,Hosp_C_Community,Atorvastatin,215,0
+2024-04-17,Hosp_C_Community,Letrozole,55,2
+2024-04-17,Hosp_C_Community,Trastuzumab,187,2
+2024-04-17,Hosp_C_Community,Oseltamivir,236,3
+2024-04-17,Hosp_C_Community,Cough Syrup,226,2
+2024-04-18,Hosp_C_Community,Paracetamol,223,17
+2024-04-18,Hosp_C_Community,Ibuprofen,57,24
+2024-04-18,Hosp_C_Community,Amoxicillin,236,22
+2024-04-18,Hosp_C_Community,Metformin,216,4
+2024-04-18,Hosp_C_Community,Atorvastatin,290,3
+2024-04-18,Hosp_C_Community,Letrozole,266,4
+2024-04-18,Hosp_C_Community,Trastuzumab,65,1
+2024-04-18,Hosp_C_Community,Oseltamivir,295,1
+2024-04-18,Hosp_C_Community,Cough Syrup,194,4
+2024-04-19,Hosp_C_Community,Paracetamol,286,23
+2024-04-19,Hosp_C_Community,Ibuprofen,298,17
+2024-04-19,Hosp_C_Community,Amoxicillin,121,21
+2024-04-19,Hosp_C_Community,Metformin,114,2
+2024-04-19,Hosp_C_Community,Atorvastatin,281,1
+2024-04-19,Hosp_C_Community,Letrozole,239,2
+2024-04-19,Hosp_C_Community,Trastuzumab,188,2
+2024-04-19,Hosp_C_Community,Oseltamivir,144,0
+2024-04-19,Hosp_C_Community,Cough Syrup,274,1
+2024-04-20,Hosp_C_Community,Paracetamol,164,29
+2024-04-20,Hosp_C_Community,Ibuprofen,117,26
+2024-04-20,Hosp_C_Community,Amoxicillin,92,13
+2024-04-20,Hosp_C_Community,Metformin,107,4
+2024-04-20,Hosp_C_Community,Atorvastatin,101,1
+2024-04-20,Hosp_C_Community,Letrozole,81,0
+2024-04-20,Hosp_C_Community,Trastuzumab,154,3
+2024-04-20,Hosp_C_Community,Oseltamivir,296,3
+2024-04-20,Hosp_C_Community,Cough Syrup,287,2
+2024-04-21,Hosp_C_Community,Paracetamol,116,14
+2024-04-21,Hosp_C_Community,Ibuprofen,244,25
+2024-04-21,Hosp_C_Community,Amoxicillin,162,24
+2024-04-21,Hosp_C_Community,Metformin,212,3
+2024-04-21,Hosp_C_Community,Atorvastatin,154,4
+2024-04-21,Hosp_C_Community,Letrozole,93,1
+2024-04-21,Hosp_C_Community,Trastuzumab,224,1
+2024-04-21,Hosp_C_Community,Oseltamivir,264,1
+2024-04-21,Hosp_C_Community,Cough Syrup,133,3
+2024-04-22,Hosp_C_Community,Paracetamol,245,27
+2024-04-22,Hosp_C_Community,Ibuprofen,198,12
+2024-04-22,Hosp_C_Community,Amoxicillin,263,17
+2024-04-22,Hosp_C_Community,Metformin,200,2
+2024-04-22,Hosp_C_Community,Atorvastatin,89,1
+2024-04-22,Hosp_C_Community,Letrozole,187,0
+2024-04-22,Hosp_C_Community,Trastuzumab,229,0
+2024-04-22,Hosp_C_Community,Oseltamivir,249,2
+2024-04-22,Hosp_C_Community,Cough Syrup,110,4
+2024-04-23,Hosp_C_Community,Paracetamol,232,17
+2024-04-23,Hosp_C_Community,Ibuprofen,150,24
+2024-04-23,Hosp_C_Community,Amoxicillin,178,10
+2024-04-23,Hosp_C_Community,Metformin,298,1
+2024-04-23,Hosp_C_Community,Atorvastatin,231,1
+2024-04-23,Hosp_C_Community,Letrozole,198,0
+2024-04-23,Hosp_C_Community,Trastuzumab,71,2
+2024-04-23,Hosp_C_Community,Oseltamivir,286,0
+2024-04-23,Hosp_C_Community,Cough Syrup,66,1
+2024-04-24,Hosp_C_Community,Paracetamol,108,27
+2024-04-24,Hosp_C_Community,Ibuprofen,195,13
+2024-04-24,Hosp_C_Community,Amoxicillin,66,23
+2024-04-24,Hosp_C_Community,Metformin,255,4
+2024-04-24,Hosp_C_Community,Atorvastatin,184,3
+2024-04-24,Hosp_C_Community,Letrozole,168,2
+2024-04-24,Hosp_C_Community,Trastuzumab,112,2
+2024-04-24,Hosp_C_Community,Oseltamivir,288,3
+2024-04-24,Hosp_C_Community,Cough Syrup,212,0
+2024-04-25,Hosp_C_Community,Paracetamol,295,17
+2024-04-25,Hosp_C_Community,Ibuprofen,73,24
+2024-04-25,Hosp_C_Community,Amoxicillin,220,18
+2024-04-25,Hosp_C_Community,Metformin,280,4
+2024-04-25,Hosp_C_Community,Atorvastatin,243,3
+2024-04-25,Hosp_C_Community,Letrozole,164,1
+2024-04-25,Hosp_C_Community,Trastuzumab,174,0
+2024-04-25,Hosp_C_Community,Oseltamivir,257,2
+2024-04-25,Hosp_C_Community,Cough Syrup,79,1
+2024-04-26,Hosp_C_Community,Paracetamol,155,20
+2024-04-26,Hosp_C_Community,Ibuprofen,92,26
+2024-04-26,Hosp_C_Community,Amoxicillin,145,13
+2024-04-26,Hosp_C_Community,Metformin,240,3
+2024-04-26,Hosp_C_Community,Atorvastatin,130,0
+2024-04-26,Hosp_C_Community,Letrozole,260,4
+2024-04-26,Hosp_C_Community,Trastuzumab,209,2
+2024-04-26,Hosp_C_Community,Oseltamivir,71,0
+2024-04-26,Hosp_C_Community,Cough Syrup,261,2
+2024-04-27,Hosp_C_Community,Paracetamol,59,12
+2024-04-27,Hosp_C_Community,Ibuprofen,252,20
+2024-04-27,Hosp_C_Community,Amoxicillin,134,22
+2024-04-27,Hosp_C_Community,Metformin,184,0
+2024-04-27,Hosp_C_Community,Atorvastatin,241,1
+2024-04-27,Hosp_C_Community,Letrozole,125,0
+2024-04-27,Hosp_C_Community,Trastuzumab,91,1
+2024-04-27,Hosp_C_Community,Oseltamivir,103,2
+2024-04-27,Hosp_C_Community,Cough Syrup,124,0
+2024-04-28,Hosp_C_Community,Paracetamol,262,17
+2024-04-28,Hosp_C_Community,Ibuprofen,118,25
+2024-04-28,Hosp_C_Community,Amoxicillin,85,24
+2024-04-28,Hosp_C_Community,Metformin,125,4
+2024-04-28,Hosp_C_Community,Atorvastatin,207,1
+2024-04-28,Hosp_C_Community,Letrozole,120,4
+2024-04-28,Hosp_C_Community,Trastuzumab,229,3
+2024-04-28,Hosp_C_Community,Oseltamivir,174,4
+2024-04-28,Hosp_C_Community,Cough Syrup,78,2
+2024-04-29,Hosp_C_Community,Paracetamol,122,16
+2024-04-29,Hosp_C_Community,Ibuprofen,292,28
+2024-04-29,Hosp_C_Community,Amoxicillin,87,15
+2024-04-29,Hosp_C_Community,Metformin,165,0
+2024-04-29,Hosp_C_Community,Atorvastatin,197,0
+2024-04-29,Hosp_C_Community,Letrozole,81,3
+2024-04-29,Hosp_C_Community,Trastuzumab,99,1
+2024-04-29,Hosp_C_Community,Oseltamivir,54,3
+2024-04-29,Hosp_C_Community,Cough Syrup,136,2
+2024-04-30,Hosp_C_Community,Paracetamol,178,20
+2024-04-30,Hosp_C_Community,Ibuprofen,168,13
+2024-04-30,Hosp_C_Community,Amoxicillin,120,24
+2024-04-30,Hosp_C_Community,Metformin,99,3
+2024-04-30,Hosp_C_Community,Atorvastatin,144,0
+2024-04-30,Hosp_C_Community,Letrozole,274,2
+2024-04-30,Hosp_C_Community,Trastuzumab,141,0
+2024-04-30,Hosp_C_Community,Oseltamivir,96,3
+2024-04-30,Hosp_C_Community,Cough Syrup,230,1
+2024-05-01,Hosp_C_Community,Paracetamol,89,10
+2024-05-01,Hosp_C_Community,Ibuprofen,126,18
+2024-05-01,Hosp_C_Community,Amoxicillin,167,19
+2024-05-01,Hosp_C_Community,Metformin,96,4
+2024-05-01,Hosp_C_Community,Atorvastatin,295,4
+2024-05-01,Hosp_C_Community,Letrozole,71,0
+2024-05-01,Hosp_C_Community,Trastuzumab,261,1
+2024-05-01,Hosp_C_Community,Oseltamivir,156,2
+2024-05-01,Hosp_C_Community,Cough Syrup,90,1
+2024-05-02,Hosp_C_Community,Paracetamol,195,23
+2024-05-02,Hosp_C_Community,Ibuprofen,211,21
+2024-05-02,Hosp_C_Community,Amoxicillin,199,15
+2024-05-02,Hosp_C_Community,Metformin,85,4
+2024-05-02,Hosp_C_Community,Atorvastatin,213,4
+2024-05-02,Hosp_C_Community,Letrozole,149,0
+2024-05-02,Hosp_C_Community,Trastuzumab,145,0
+2024-05-02,Hosp_C_Community,Oseltamivir,222,3
+2024-05-02,Hosp_C_Community,Cough Syrup,197,1
+2024-05-03,Hosp_C_Community,Paracetamol,294,12
+2024-05-03,Hosp_C_Community,Ibuprofen,66,28
+2024-05-03,Hosp_C_Community,Amoxicillin,159,17
+2024-05-03,Hosp_C_Community,Metformin,190,2
+2024-05-03,Hosp_C_Community,Atorvastatin,261,2
+2024-05-03,Hosp_C_Community,Letrozole,182,0
+2024-05-03,Hosp_C_Community,Trastuzumab,78,0
+2024-05-03,Hosp_C_Community,Oseltamivir,144,1
+2024-05-03,Hosp_C_Community,Cough Syrup,222,4
+2024-05-04,Hosp_C_Community,Paracetamol,158,29
+2024-05-04,Hosp_C_Community,Ibuprofen,122,16
+2024-05-04,Hosp_C_Community,Amoxicillin,53,28
+2024-05-04,Hosp_C_Community,Metformin,295,2
+2024-05-04,Hosp_C_Community,Atorvastatin,151,2
+2024-05-04,Hosp_C_Community,Letrozole,222,2
+2024-05-04,Hosp_C_Community,Trastuzumab,190,4
+2024-05-04,Hosp_C_Community,Oseltamivir,237,0
+2024-05-04,Hosp_C_Community,Cough Syrup,135,3
+2024-05-05,Hosp_C_Community,Paracetamol,219,10
+2024-05-05,Hosp_C_Community,Ibuprofen,148,17
+2024-05-05,Hosp_C_Community,Amoxicillin,121,29
+2024-05-05,Hosp_C_Community,Metformin,167,2
+2024-05-05,Hosp_C_Community,Atorvastatin,152,4
+2024-05-05,Hosp_C_Community,Letrozole,117,0
+2024-05-05,Hosp_C_Community,Trastuzumab,189,1
+2024-05-05,Hosp_C_Community,Oseltamivir,151,3
+2024-05-05,Hosp_C_Community,Cough Syrup,220,2
+2024-05-06,Hosp_C_Community,Paracetamol,79,26
+2024-05-06,Hosp_C_Community,Ibuprofen,244,25
+2024-05-06,Hosp_C_Community,Amoxicillin,287,29
+2024-05-06,Hosp_C_Community,Metformin,142,4
+2024-05-06,Hosp_C_Community,Atorvastatin,128,0
+2024-05-06,Hosp_C_Community,Letrozole,228,1
+2024-05-06,Hosp_C_Community,Trastuzumab,96,4
+2024-05-06,Hosp_C_Community,Oseltamivir,113,3
+2024-05-06,Hosp_C_Community,Cough Syrup,299,0
+2024-05-07,Hosp_C_Community,Paracetamol,85,27
+2024-05-07,Hosp_C_Community,Ibuprofen,293,20
+2024-05-07,Hosp_C_Community,Amoxicillin,76,23
+2024-05-07,Hosp_C_Community,Metformin,170,1
+2024-05-07,Hosp_C_Community,Atorvastatin,205,3
+2024-05-07,Hosp_C_Community,Letrozole,206,2
+2024-05-07,Hosp_C_Community,Trastuzumab,96,2
+2024-05-07,Hosp_C_Community,Oseltamivir,236,3
+2024-05-07,Hosp_C_Community,Cough Syrup,214,0
+2024-05-08,Hosp_C_Community,Paracetamol,79,19
+2024-05-08,Hosp_C_Community,Ibuprofen,82,19
+2024-05-08,Hosp_C_Community,Amoxicillin,278,21
+2024-05-08,Hosp_C_Community,Metformin,167,2
+2024-05-08,Hosp_C_Community,Atorvastatin,216,0
+2024-05-08,Hosp_C_Community,Letrozole,295,4
+2024-05-08,Hosp_C_Community,Trastuzumab,125,4
+2024-05-08,Hosp_C_Community,Oseltamivir,210,2
+2024-05-08,Hosp_C_Community,Cough Syrup,239,4
+2024-05-09,Hosp_C_Community,Paracetamol,134,25
+2024-05-09,Hosp_C_Community,Ibuprofen,144,23
+2024-05-09,Hosp_C_Community,Amoxicillin,216,28
+2024-05-09,Hosp_C_Community,Metformin,168,0
+2024-05-09,Hosp_C_Community,Atorvastatin,58,1
+2024-05-09,Hosp_C_Community,Letrozole,222,4
+2024-05-09,Hosp_C_Community,Trastuzumab,264,4
+2024-05-09,Hosp_C_Community,Oseltamivir,91,4
+2024-05-09,Hosp_C_Community,Cough Syrup,273,2
+2024-05-10,Hosp_C_Community,Paracetamol,289,18
+2024-05-10,Hosp_C_Community,Ibuprofen,109,23
+2024-05-10,Hosp_C_Community,Amoxicillin,126,16
+2024-05-10,Hosp_C_Community,Metformin,64,1
+2024-05-10,Hosp_C_Community,Atorvastatin,218,0
+2024-05-10,Hosp_C_Community,Letrozole,278,3
+2024-05-10,Hosp_C_Community,Trastuzumab,50,1
+2024-05-10,Hosp_C_Community,Oseltamivir,284,0
+2024-05-10,Hosp_C_Community,Cough Syrup,266,1
+2024-05-11,Hosp_C_Community,Paracetamol,55,25
+2024-05-11,Hosp_C_Community,Ibuprofen,73,25
+2024-05-11,Hosp_C_Community,Amoxicillin,280,22
+2024-05-11,Hosp_C_Community,Metformin,62,4
+2024-05-11,Hosp_C_Community,Atorvastatin,74,3
+2024-05-11,Hosp_C_Community,Letrozole,167,1
+2024-05-11,Hosp_C_Community,Trastuzumab,160,1
+2024-05-11,Hosp_C_Community,Oseltamivir,115,1
+2024-05-11,Hosp_C_Community,Cough Syrup,296,4
+2024-05-12,Hosp_C_Community,Paracetamol,175,26
+2024-05-12,Hosp_C_Community,Ibuprofen,86,12
+2024-05-12,Hosp_C_Community,Amoxicillin,147,12
+2024-05-12,Hosp_C_Community,Metformin,217,4
+2024-05-12,Hosp_C_Community,Atorvastatin,175,3
+2024-05-12,Hosp_C_Community,Letrozole,103,3
+2024-05-12,Hosp_C_Community,Trastuzumab,289,2
+2024-05-12,Hosp_C_Community,Oseltamivir,237,4
+2024-05-12,Hosp_C_Community,Cough Syrup,95,3
+2024-05-13,Hosp_C_Community,Paracetamol,140,15
+2024-05-13,Hosp_C_Community,Ibuprofen,140,18
+2024-05-13,Hosp_C_Community,Amoxicillin,294,22
+2024-05-13,Hosp_C_Community,Metformin,106,4
+2024-05-13,Hosp_C_Community,Atorvastatin,139,4
+2024-05-13,Hosp_C_Community,Letrozole,126,0
+2024-05-13,Hosp_C_Community,Trastuzumab,136,3
+2024-05-13,Hosp_C_Community,Oseltamivir,150,4
+2024-05-13,Hosp_C_Community,Cough Syrup,141,0
+2024-05-14,Hosp_C_Community,Paracetamol,175,20
+2024-05-14,Hosp_C_Community,Ibuprofen,275,25
+2024-05-14,Hosp_C_Community,Amoxicillin,275,28
+2024-05-14,Hosp_C_Community,Metformin,200,2
+2024-05-14,Hosp_C_Community,Atorvastatin,74,2
+2024-05-14,Hosp_C_Community,Letrozole,122,0
+2024-05-14,Hosp_C_Community,Trastuzumab,91,2
+2024-05-14,Hosp_C_Community,Oseltamivir,274,1
+2024-05-14,Hosp_C_Community,Cough Syrup,129,3
+2024-05-15,Hosp_C_Community,Paracetamol,258,25
+2024-05-15,Hosp_C_Community,Ibuprofen,192,12
+2024-05-15,Hosp_C_Community,Amoxicillin,170,29
+2024-05-15,Hosp_C_Community,Metformin,118,4
+2024-05-15,Hosp_C_Community,Atorvastatin,69,1
+2024-05-15,Hosp_C_Community,Letrozole,160,1
+2024-05-15,Hosp_C_Community,Trastuzumab,142,4
+2024-05-15,Hosp_C_Community,Oseltamivir,53,1
+2024-05-15,Hosp_C_Community,Cough Syrup,158,1
+2024-05-16,Hosp_C_Community,Paracetamol,296,27
+2024-05-16,Hosp_C_Community,Ibuprofen,69,21
+2024-05-16,Hosp_C_Community,Amoxicillin,232,26
+2024-05-16,Hosp_C_Community,Metformin,286,1
+2024-05-16,Hosp_C_Community,Atorvastatin,202,4
+2024-05-16,Hosp_C_Community,Letrozole,171,3
+2024-05-16,Hosp_C_Community,Trastuzumab,155,2
+2024-05-16,Hosp_C_Community,Oseltamivir,235,2
+2024-05-16,Hosp_C_Community,Cough Syrup,131,2
+2024-05-17,Hosp_C_Community,Paracetamol,240,22
+2024-05-17,Hosp_C_Community,Ibuprofen,254,16
+2024-05-17,Hosp_C_Community,Amoxicillin,204,19
+2024-05-17,Hosp_C_Community,Metformin,83,3
+2024-05-17,Hosp_C_Community,Atorvastatin,202,1
+2024-05-17,Hosp_C_Community,Letrozole,264,4
+2024-05-17,Hosp_C_Community,Trastuzumab,175,0
+2024-05-17,Hosp_C_Community,Oseltamivir,232,0
+2024-05-17,Hosp_C_Community,Cough Syrup,223,2
+2024-05-18,Hosp_C_Community,Paracetamol,90,20
+2024-05-18,Hosp_C_Community,Ibuprofen,91,10
+2024-05-18,Hosp_C_Community,Amoxicillin,227,13
+2024-05-18,Hosp_C_Community,Metformin,214,0
+2024-05-18,Hosp_C_Community,Atorvastatin,236,0
+2024-05-18,Hosp_C_Community,Letrozole,276,4
+2024-05-18,Hosp_C_Community,Trastuzumab,97,2
+2024-05-18,Hosp_C_Community,Oseltamivir,165,2
+2024-05-18,Hosp_C_Community,Cough Syrup,165,4
+2024-05-19,Hosp_C_Community,Paracetamol,83,24
+2024-05-19,Hosp_C_Community,Ibuprofen,285,23
+2024-05-19,Hosp_C_Community,Amoxicillin,170,11
+2024-05-19,Hosp_C_Community,Metformin,131,4
+2024-05-19,Hosp_C_Community,Atorvastatin,296,4
+2024-05-19,Hosp_C_Community,Letrozole,202,2
+2024-05-19,Hosp_C_Community,Trastuzumab,103,1
+2024-05-19,Hosp_C_Community,Oseltamivir,258,4
+2024-05-19,Hosp_C_Community,Cough Syrup,255,0
+2024-05-20,Hosp_C_Community,Paracetamol,234,11
+2024-05-20,Hosp_C_Community,Ibuprofen,58,20
+2024-05-20,Hosp_C_Community,Amoxicillin,149,11
+2024-05-20,Hosp_C_Community,Metformin,232,4
+2024-05-20,Hosp_C_Community,Atorvastatin,215,2
+2024-05-20,Hosp_C_Community,Letrozole,159,0
+2024-05-20,Hosp_C_Community,Trastuzumab,67,0
+2024-05-20,Hosp_C_Community,Oseltamivir,176,0
+2024-05-20,Hosp_C_Community,Cough Syrup,50,3
+2024-05-21,Hosp_C_Community,Paracetamol,292,11
+2024-05-21,Hosp_C_Community,Ibuprofen,107,13
+2024-05-21,Hosp_C_Community,Amoxicillin,116,16
+2024-05-21,Hosp_C_Community,Metformin,297,1
+2024-05-21,Hosp_C_Community,Atorvastatin,155,1
+2024-05-21,Hosp_C_Community,Letrozole,242,3
+2024-05-21,Hosp_C_Community,Trastuzumab,287,0
+2024-05-21,Hosp_C_Community,Oseltamivir,101,1
+2024-05-21,Hosp_C_Community,Cough Syrup,156,4
+2024-05-22,Hosp_C_Community,Paracetamol,147,10
+2024-05-22,Hosp_C_Community,Ibuprofen,80,25
+2024-05-22,Hosp_C_Community,Amoxicillin,195,26
+2024-05-22,Hosp_C_Community,Metformin,87,0
+2024-05-22,Hosp_C_Community,Atorvastatin,256,2
+2024-05-22,Hosp_C_Community,Letrozole,105,2
+2024-05-22,Hosp_C_Community,Trastuzumab,106,3
+2024-05-22,Hosp_C_Community,Oseltamivir,275,2
+2024-05-22,Hosp_C_Community,Cough Syrup,163,4
+2024-05-23,Hosp_C_Community,Paracetamol,145,28
+2024-05-23,Hosp_C_Community,Ibuprofen,51,19
+2024-05-23,Hosp_C_Community,Amoxicillin,227,26
+2024-05-23,Hosp_C_Community,Metformin,278,3
+2024-05-23,Hosp_C_Community,Atorvastatin,119,0
+2024-05-23,Hosp_C_Community,Letrozole,133,0
+2024-05-23,Hosp_C_Community,Trastuzumab,231,4
+2024-05-23,Hosp_C_Community,Oseltamivir,107,2
+2024-05-23,Hosp_C_Community,Cough Syrup,195,4
+2024-05-24,Hosp_C_Community,Paracetamol,218,16
+2024-05-24,Hosp_C_Community,Ibuprofen,52,27
+2024-05-24,Hosp_C_Community,Amoxicillin,92,16
+2024-05-24,Hosp_C_Community,Metformin,154,0
+2024-05-24,Hosp_C_Community,Atorvastatin,110,3
+2024-05-24,Hosp_C_Community,Letrozole,273,1
+2024-05-24,Hosp_C_Community,Trastuzumab,120,1
+2024-05-24,Hosp_C_Community,Oseltamivir,275,3
+2024-05-24,Hosp_C_Community,Cough Syrup,198,3
+2024-05-25,Hosp_C_Community,Paracetamol,74,14
+2024-05-25,Hosp_C_Community,Ibuprofen,225,20
+2024-05-25,Hosp_C_Community,Amoxicillin,166,15
+2024-05-25,Hosp_C_Community,Metformin,90,4
+2024-05-25,Hosp_C_Community,Atorvastatin,137,0
+2024-05-25,Hosp_C_Community,Letrozole,194,4
+2024-05-25,Hosp_C_Community,Trastuzumab,106,1
+2024-05-25,Hosp_C_Community,Oseltamivir,145,0
+2024-05-25,Hosp_C_Community,Cough Syrup,111,0
+2024-05-26,Hosp_C_Community,Paracetamol,296,28
+2024-05-26,Hosp_C_Community,Ibuprofen,139,29
+2024-05-26,Hosp_C_Community,Amoxicillin,75,23
+2024-05-26,Hosp_C_Community,Metformin,141,0
+2024-05-26,Hosp_C_Community,Atorvastatin,131,4
+2024-05-26,Hosp_C_Community,Letrozole,180,1
+2024-05-26,Hosp_C_Community,Trastuzumab,274,1
+2024-05-26,Hosp_C_Community,Oseltamivir,68,0
+2024-05-26,Hosp_C_Community,Cough Syrup,285,0
+2024-05-27,Hosp_C_Community,Paracetamol,129,16
+2024-05-27,Hosp_C_Community,Ibuprofen,282,23
+2024-05-27,Hosp_C_Community,Amoxicillin,92,23
+2024-05-27,Hosp_C_Community,Metformin,248,0
+2024-05-27,Hosp_C_Community,Atorvastatin,75,0
+2024-05-27,Hosp_C_Community,Letrozole,94,3
+2024-05-27,Hosp_C_Community,Trastuzumab,112,2
+2024-05-27,Hosp_C_Community,Oseltamivir,229,3
+2024-05-27,Hosp_C_Community,Cough Syrup,203,2
+2024-05-28,Hosp_C_Community,Paracetamol,232,21
+2024-05-28,Hosp_C_Community,Ibuprofen,89,11
+2024-05-28,Hosp_C_Community,Amoxicillin,149,23
+2024-05-28,Hosp_C_Community,Metformin,65,2
+2024-05-28,Hosp_C_Community,Atorvastatin,211,3
+2024-05-28,Hosp_C_Community,Letrozole,287,4
+2024-05-28,Hosp_C_Community,Trastuzumab,241,3
+2024-05-28,Hosp_C_Community,Oseltamivir,71,1
+2024-05-28,Hosp_C_Community,Cough Syrup,61,3
+2024-05-29,Hosp_C_Community,Paracetamol,121,19
+2024-05-29,Hosp_C_Community,Ibuprofen,265,12
+2024-05-29,Hosp_C_Community,Amoxicillin,168,23
+2024-05-29,Hosp_C_Community,Metformin,296,1
+2024-05-29,Hosp_C_Community,Atorvastatin,189,3
+2024-05-29,Hosp_C_Community,Letrozole,168,1
+2024-05-29,Hosp_C_Community,Trastuzumab,218,1
+2024-05-29,Hosp_C_Community,Oseltamivir,171,0
+2024-05-29,Hosp_C_Community,Cough Syrup,194,2
+2024-05-30,Hosp_C_Community,Paracetamol,262,29
+2024-05-30,Hosp_C_Community,Ibuprofen,161,17
+2024-05-30,Hosp_C_Community,Amoxicillin,85,19
+2024-05-30,Hosp_C_Community,Metformin,253,4
+2024-05-30,Hosp_C_Community,Atorvastatin,63,1
+2024-05-30,Hosp_C_Community,Letrozole,262,4
+2024-05-30,Hosp_C_Community,Trastuzumab,285,1
+2024-05-30,Hosp_C_Community,Oseltamivir,271,3
+2024-05-30,Hosp_C_Community,Cough Syrup,265,0
+2024-05-31,Hosp_C_Community,Paracetamol,293,21
+2024-05-31,Hosp_C_Community,Ibuprofen,97,19
+2024-05-31,Hosp_C_Community,Amoxicillin,76,19
+2024-05-31,Hosp_C_Community,Metformin,159,0
+2024-05-31,Hosp_C_Community,Atorvastatin,229,1
+2024-05-31,Hosp_C_Community,Letrozole,81,1
+2024-05-31,Hosp_C_Community,Trastuzumab,75,0
+2024-05-31,Hosp_C_Community,Oseltamivir,124,1
+2024-05-31,Hosp_C_Community,Cough Syrup,106,3
+2024-06-01,Hosp_C_Community,Paracetamol,91,28
+2024-06-01,Hosp_C_Community,Ibuprofen,259,14
+2024-06-01,Hosp_C_Community,Amoxicillin,143,28
+2024-06-01,Hosp_C_Community,Metformin,235,2
+2024-06-01,Hosp_C_Community,Atorvastatin,103,0
+2024-06-01,Hosp_C_Community,Letrozole,189,1
+2024-06-01,Hosp_C_Community,Trastuzumab,102,0
+2024-06-01,Hosp_C_Community,Oseltamivir,185,1
+2024-06-01,Hosp_C_Community,Cough Syrup,106,4
+2024-06-02,Hosp_C_Community,Paracetamol,190,14
+2024-06-02,Hosp_C_Community,Ibuprofen,252,19
+2024-06-02,Hosp_C_Community,Amoxicillin,101,22
+2024-06-02,Hosp_C_Community,Metformin,218,4
+2024-06-02,Hosp_C_Community,Atorvastatin,159,1
+2024-06-02,Hosp_C_Community,Letrozole,192,1
+2024-06-02,Hosp_C_Community,Trastuzumab,297,3
+2024-06-02,Hosp_C_Community,Oseltamivir,209,2
+2024-06-02,Hosp_C_Community,Cough Syrup,192,3
+2024-06-03,Hosp_C_Community,Paracetamol,231,12
+2024-06-03,Hosp_C_Community,Ibuprofen,246,11
+2024-06-03,Hosp_C_Community,Amoxicillin,159,11
+2024-06-03,Hosp_C_Community,Metformin,126,1
+2024-06-03,Hosp_C_Community,Atorvastatin,158,1
+2024-06-03,Hosp_C_Community,Letrozole,127,2
+2024-06-03,Hosp_C_Community,Trastuzumab,91,3
+2024-06-03,Hosp_C_Community,Oseltamivir,230,0
+2024-06-03,Hosp_C_Community,Cough Syrup,120,0
+2024-06-04,Hosp_C_Community,Paracetamol,154,23
+2024-06-04,Hosp_C_Community,Ibuprofen,53,18
+2024-06-04,Hosp_C_Community,Amoxicillin,222,27
+2024-06-04,Hosp_C_Community,Metformin,256,3
+2024-06-04,Hosp_C_Community,Atorvastatin,219,3
+2024-06-04,Hosp_C_Community,Letrozole,165,4
+2024-06-04,Hosp_C_Community,Trastuzumab,147,1
+2024-06-04,Hosp_C_Community,Oseltamivir,50,1
+2024-06-04,Hosp_C_Community,Cough Syrup,66,2
+2024-06-05,Hosp_C_Community,Paracetamol,226,25
+2024-06-05,Hosp_C_Community,Ibuprofen,234,24
+2024-06-05,Hosp_C_Community,Amoxicillin,254,24
+2024-06-05,Hosp_C_Community,Metformin,76,3
+2024-06-05,Hosp_C_Community,Atorvastatin,257,3
+2024-06-05,Hosp_C_Community,Letrozole,207,3
+2024-06-05,Hosp_C_Community,Trastuzumab,244,0
+2024-06-05,Hosp_C_Community,Oseltamivir,135,1
+2024-06-05,Hosp_C_Community,Cough Syrup,298,1
+2024-06-06,Hosp_C_Community,Paracetamol,298,21
+2024-06-06,Hosp_C_Community,Ibuprofen,166,13
+2024-06-06,Hosp_C_Community,Amoxicillin,83,11
+2024-06-06,Hosp_C_Community,Metformin,118,1
+2024-06-06,Hosp_C_Community,Atorvastatin,273,1
+2024-06-06,Hosp_C_Community,Letrozole,90,4
+2024-06-06,Hosp_C_Community,Trastuzumab,280,4
+2024-06-06,Hosp_C_Community,Oseltamivir,171,1
+2024-06-06,Hosp_C_Community,Cough Syrup,59,2
+2024-06-07,Hosp_C_Community,Paracetamol,120,25
+2024-06-07,Hosp_C_Community,Ibuprofen,105,23
+2024-06-07,Hosp_C_Community,Amoxicillin,264,29
+2024-06-07,Hosp_C_Community,Metformin,197,0
+2024-06-07,Hosp_C_Community,Atorvastatin,205,4
+2024-06-07,Hosp_C_Community,Letrozole,169,4
+2024-06-07,Hosp_C_Community,Trastuzumab,67,0
+2024-06-07,Hosp_C_Community,Oseltamivir,142,2
+2024-06-07,Hosp_C_Community,Cough Syrup,177,0
+2024-06-08,Hosp_C_Community,Paracetamol,240,19
+2024-06-08,Hosp_C_Community,Ibuprofen,91,29
+2024-06-08,Hosp_C_Community,Amoxicillin,122,26
+2024-06-08,Hosp_C_Community,Metformin,76,1
+2024-06-08,Hosp_C_Community,Atorvastatin,112,3
+2024-06-08,Hosp_C_Community,Letrozole,68,0
+2024-06-08,Hosp_C_Community,Trastuzumab,118,1
+2024-06-08,Hosp_C_Community,Oseltamivir,166,2
+2024-06-08,Hosp_C_Community,Cough Syrup,248,0
+2024-06-09,Hosp_C_Community,Paracetamol,237,12
+2024-06-09,Hosp_C_Community,Ibuprofen,263,28
+2024-06-09,Hosp_C_Community,Amoxicillin,158,21
+2024-06-09,Hosp_C_Community,Metformin,197,0
+2024-06-09,Hosp_C_Community,Atorvastatin,262,0
+2024-06-09,Hosp_C_Community,Letrozole,158,0
+2024-06-09,Hosp_C_Community,Trastuzumab,59,2
+2024-06-09,Hosp_C_Community,Oseltamivir,108,3
+2024-06-09,Hosp_C_Community,Cough Syrup,135,1
+2024-06-10,Hosp_C_Community,Paracetamol,284,23
+2024-06-10,Hosp_C_Community,Ibuprofen,199,25
+2024-06-10,Hosp_C_Community,Amoxicillin,197,15
+2024-06-10,Hosp_C_Community,Metformin,104,3
+2024-06-10,Hosp_C_Community,Atorvastatin,256,0
+2024-06-10,Hosp_C_Community,Letrozole,50,0
+2024-06-10,Hosp_C_Community,Trastuzumab,144,3
+2024-06-10,Hosp_C_Community,Oseltamivir,155,4
+2024-06-10,Hosp_C_Community,Cough Syrup,157,1
+2024-06-11,Hosp_C_Community,Paracetamol,115,13
+2024-06-11,Hosp_C_Community,Ibuprofen,187,16
+2024-06-11,Hosp_C_Community,Amoxicillin,137,26
+2024-06-11,Hosp_C_Community,Metformin,101,2
+2024-06-11,Hosp_C_Community,Atorvastatin,118,1
+2024-06-11,Hosp_C_Community,Letrozole,186,2
+2024-06-11,Hosp_C_Community,Trastuzumab,254,2
+2024-06-11,Hosp_C_Community,Oseltamivir,70,3
+2024-06-11,Hosp_C_Community,Cough Syrup,201,2
+2024-06-12,Hosp_C_Community,Paracetamol,116,12
+2024-06-12,Hosp_C_Community,Ibuprofen,237,21
+2024-06-12,Hosp_C_Community,Amoxicillin,265,14
+2024-06-12,Hosp_C_Community,Metformin,133,4
+2024-06-12,Hosp_C_Community,Atorvastatin,90,0
+2024-06-12,Hosp_C_Community,Letrozole,230,4
+2024-06-12,Hosp_C_Community,Trastuzumab,61,4
+2024-06-12,Hosp_C_Community,Oseltamivir,169,1
+2024-06-12,Hosp_C_Community,Cough Syrup,146,0
+2024-06-13,Hosp_C_Community,Paracetamol,94,20
+2024-06-13,Hosp_C_Community,Ibuprofen,119,23
+2024-06-13,Hosp_C_Community,Amoxicillin,119,15
+2024-06-13,Hosp_C_Community,Metformin,179,3
+2024-06-13,Hosp_C_Community,Atorvastatin,138,3
+2024-06-13,Hosp_C_Community,Letrozole,162,4
+2024-06-13,Hosp_C_Community,Trastuzumab,121,4
+2024-06-13,Hosp_C_Community,Oseltamivir,98,3
+2024-06-13,Hosp_C_Community,Cough Syrup,82,1
+2024-06-14,Hosp_C_Community,Paracetamol,73,22
+2024-06-14,Hosp_C_Community,Ibuprofen,204,16
+2024-06-14,Hosp_C_Community,Amoxicillin,219,24
+2024-06-14,Hosp_C_Community,Metformin,102,2
+2024-06-14,Hosp_C_Community,Atorvastatin,87,4
+2024-06-14,Hosp_C_Community,Letrozole,264,3
+2024-06-14,Hosp_C_Community,Trastuzumab,275,4
+2024-06-14,Hosp_C_Community,Oseltamivir,192,1
+2024-06-14,Hosp_C_Community,Cough Syrup,97,2
+2024-06-15,Hosp_C_Community,Paracetamol,178,20
+2024-06-15,Hosp_C_Community,Ibuprofen,279,29
+2024-06-15,Hosp_C_Community,Amoxicillin,244,28
+2024-06-15,Hosp_C_Community,Metformin,179,1
+2024-06-15,Hosp_C_Community,Atorvastatin,175,3
+2024-06-15,Hosp_C_Community,Letrozole,241,1
+2024-06-15,Hosp_C_Community,Trastuzumab,118,0
+2024-06-15,Hosp_C_Community,Oseltamivir,51,1
+2024-06-15,Hosp_C_Community,Cough Syrup,237,4
+2024-06-16,Hosp_C_Community,Paracetamol,284,11
+2024-06-16,Hosp_C_Community,Ibuprofen,231,15
+2024-06-16,Hosp_C_Community,Amoxicillin,139,15
+2024-06-16,Hosp_C_Community,Metformin,223,0
+2024-06-16,Hosp_C_Community,Atorvastatin,188,0
+2024-06-16,Hosp_C_Community,Letrozole,166,4
+2024-06-16,Hosp_C_Community,Trastuzumab,249,2
+2024-06-16,Hosp_C_Community,Oseltamivir,295,4
+2024-06-16,Hosp_C_Community,Cough Syrup,241,3
+2024-06-17,Hosp_C_Community,Paracetamol,78,28
+2024-06-17,Hosp_C_Community,Ibuprofen,98,20
+2024-06-17,Hosp_C_Community,Amoxicillin,269,17
+2024-06-17,Hosp_C_Community,Metformin,264,4
+2024-06-17,Hosp_C_Community,Atorvastatin,182,1
+2024-06-17,Hosp_C_Community,Letrozole,184,1
+2024-06-17,Hosp_C_Community,Trastuzumab,213,0
+2024-06-17,Hosp_C_Community,Oseltamivir,76,1
+2024-06-17,Hosp_C_Community,Cough Syrup,95,1
+2024-06-18,Hosp_C_Community,Paracetamol,288,12
+2024-06-18,Hosp_C_Community,Ibuprofen,95,20
+2024-06-18,Hosp_C_Community,Amoxicillin,265,21
+2024-06-18,Hosp_C_Community,Metformin,94,1
+2024-06-18,Hosp_C_Community,Atorvastatin,126,0
+2024-06-18,Hosp_C_Community,Letrozole,73,1
+2024-06-18,Hosp_C_Community,Trastuzumab,84,3
+2024-06-18,Hosp_C_Community,Oseltamivir,277,2
+2024-06-18,Hosp_C_Community,Cough Syrup,258,2
+2024-06-19,Hosp_C_Community,Paracetamol,166,13
+2024-06-19,Hosp_C_Community,Ibuprofen,81,22
+2024-06-19,Hosp_C_Community,Amoxicillin,50,12
+2024-06-19,Hosp_C_Community,Metformin,161,3
+2024-06-19,Hosp_C_Community,Atorvastatin,298,0
+2024-06-19,Hosp_C_Community,Letrozole,129,1
+2024-06-19,Hosp_C_Community,Trastuzumab,132,0
+2024-06-19,Hosp_C_Community,Oseltamivir,118,2
+2024-06-19,Hosp_C_Community,Cough Syrup,71,2
+2024-06-20,Hosp_C_Community,Paracetamol,225,23
+2024-06-20,Hosp_C_Community,Ibuprofen,191,10
+2024-06-20,Hosp_C_Community,Amoxicillin,148,16
+2024-06-20,Hosp_C_Community,Metformin,235,2
+2024-06-20,Hosp_C_Community,Atorvastatin,261,1
+2024-06-20,Hosp_C_Community,Letrozole,292,0
+2024-06-20,Hosp_C_Community,Trastuzumab,260,2
+2024-06-20,Hosp_C_Community,Oseltamivir,278,1
+2024-06-20,Hosp_C_Community,Cough Syrup,193,3
+2024-06-21,Hosp_C_Community,Paracetamol,234,26
+2024-06-21,Hosp_C_Community,Ibuprofen,221,16
+2024-06-21,Hosp_C_Community,Amoxicillin,257,20
+2024-06-21,Hosp_C_Community,Metformin,63,2
+2024-06-21,Hosp_C_Community,Atorvastatin,292,1
+2024-06-21,Hosp_C_Community,Letrozole,111,1
+2024-06-21,Hosp_C_Community,Trastuzumab,113,4
+2024-06-21,Hosp_C_Community,Oseltamivir,155,1
+2024-06-21,Hosp_C_Community,Cough Syrup,235,3
+2024-06-22,Hosp_C_Community,Paracetamol,74,28
+2024-06-22,Hosp_C_Community,Ibuprofen,190,16
+2024-06-22,Hosp_C_Community,Amoxicillin,93,12
+2024-06-22,Hosp_C_Community,Metformin,104,0
+2024-06-22,Hosp_C_Community,Atorvastatin,179,4
+2024-06-22,Hosp_C_Community,Letrozole,295,0
+2024-06-22,Hosp_C_Community,Trastuzumab,221,3
+2024-06-22,Hosp_C_Community,Oseltamivir,96,1
+2024-06-22,Hosp_C_Community,Cough Syrup,145,1
+2024-06-23,Hosp_C_Community,Paracetamol,195,13
+2024-06-23,Hosp_C_Community,Ibuprofen,153,29
+2024-06-23,Hosp_C_Community,Amoxicillin,95,21
+2024-06-23,Hosp_C_Community,Metformin,71,4
+2024-06-23,Hosp_C_Community,Atorvastatin,236,1
+2024-06-23,Hosp_C_Community,Letrozole,284,4
+2024-06-23,Hosp_C_Community,Trastuzumab,173,1
+2024-06-23,Hosp_C_Community,Oseltamivir,106,0
+2024-06-23,Hosp_C_Community,Cough Syrup,164,3
+2024-06-24,Hosp_C_Community,Paracetamol,182,24
+2024-06-24,Hosp_C_Community,Ibuprofen,62,10
+2024-06-24,Hosp_C_Community,Amoxicillin,156,10
+2024-06-24,Hosp_C_Community,Metformin,284,1
+2024-06-24,Hosp_C_Community,Atorvastatin,291,4
+2024-06-24,Hosp_C_Community,Letrozole,79,1
+2024-06-24,Hosp_C_Community,Trastuzumab,193,4
+2024-06-24,Hosp_C_Community,Oseltamivir,88,0
+2024-06-24,Hosp_C_Community,Cough Syrup,203,0
+2024-06-25,Hosp_C_Community,Paracetamol,138,22
+2024-06-25,Hosp_C_Community,Ibuprofen,262,18
+2024-06-25,Hosp_C_Community,Amoxicillin,187,18
+2024-06-25,Hosp_C_Community,Metformin,128,3
+2024-06-25,Hosp_C_Community,Atorvastatin,179,0
+2024-06-25,Hosp_C_Community,Letrozole,62,1
+2024-06-25,Hosp_C_Community,Trastuzumab,100,1
+2024-06-25,Hosp_C_Community,Oseltamivir,83,2
+2024-06-25,Hosp_C_Community,Cough Syrup,279,2
+2024-06-26,Hosp_C_Community,Paracetamol,289,24
+2024-06-26,Hosp_C_Community,Ibuprofen,109,19
+2024-06-26,Hosp_C_Community,Amoxicillin,282,20
+2024-06-26,Hosp_C_Community,Metformin,257,1
+2024-06-26,Hosp_C_Community,Atorvastatin,226,2
+2024-06-26,Hosp_C_Community,Letrozole,51,1
+2024-06-26,Hosp_C_Community,Trastuzumab,215,2
+2024-06-26,Hosp_C_Community,Oseltamivir,281,1
+2024-06-26,Hosp_C_Community,Cough Syrup,78,2
+2024-06-27,Hosp_C_Community,Paracetamol,186,20
+2024-06-27,Hosp_C_Community,Ibuprofen,118,12
+2024-06-27,Hosp_C_Community,Amoxicillin,140,26
+2024-06-27,Hosp_C_Community,Metformin,243,0
+2024-06-27,Hosp_C_Community,Atorvastatin,216,4
+2024-06-27,Hosp_C_Community,Letrozole,164,3
+2024-06-27,Hosp_C_Community,Trastuzumab,237,2
+2024-06-27,Hosp_C_Community,Oseltamivir,136,0
+2024-06-27,Hosp_C_Community,Cough Syrup,179,0
+2024-06-28,Hosp_C_Community,Paracetamol,125,14
+2024-06-28,Hosp_C_Community,Ibuprofen,275,16
+2024-06-28,Hosp_C_Community,Amoxicillin,254,24
+2024-06-28,Hosp_C_Community,Metformin,231,2
+2024-06-28,Hosp_C_Community,Atorvastatin,173,4
+2024-06-28,Hosp_C_Community,Letrozole,261,4
+2024-06-28,Hosp_C_Community,Trastuzumab,265,0
+2024-06-28,Hosp_C_Community,Oseltamivir,249,1
+2024-06-28,Hosp_C_Community,Cough Syrup,261,3
+2024-06-29,Hosp_C_Community,Paracetamol,78,23
+2024-06-29,Hosp_C_Community,Ibuprofen,128,26
+2024-06-29,Hosp_C_Community,Amoxicillin,82,26
+2024-06-29,Hosp_C_Community,Metformin,72,0
+2024-06-29,Hosp_C_Community,Atorvastatin,284,0
+2024-06-29,Hosp_C_Community,Letrozole,235,4
+2024-06-29,Hosp_C_Community,Trastuzumab,69,2
+2024-06-29,Hosp_C_Community,Oseltamivir,230,4
+2024-06-29,Hosp_C_Community,Cough Syrup,259,0
+2024-06-30,Hosp_C_Community,Paracetamol,227,20
+2024-06-30,Hosp_C_Community,Ibuprofen,277,25
+2024-06-30,Hosp_C_Community,Amoxicillin,66,18
+2024-06-30,Hosp_C_Community,Metformin,183,2
+2024-06-30,Hosp_C_Community,Atorvastatin,197,0
+2024-06-30,Hosp_C_Community,Letrozole,115,0
+2024-06-30,Hosp_C_Community,Trastuzumab,141,4
+2024-06-30,Hosp_C_Community,Oseltamivir,110,2
+2024-06-30,Hosp_C_Community,Cough Syrup,261,0
+2024-07-01,Hosp_C_Community,Paracetamol,86,18
+2024-07-01,Hosp_C_Community,Ibuprofen,276,17
+2024-07-01,Hosp_C_Community,Amoxicillin,197,19
+2024-07-01,Hosp_C_Community,Metformin,135,2
+2024-07-01,Hosp_C_Community,Atorvastatin,207,4
+2024-07-01,Hosp_C_Community,Letrozole,141,2
+2024-07-01,Hosp_C_Community,Trastuzumab,284,2
+2024-07-01,Hosp_C_Community,Oseltamivir,80,0
+2024-07-01,Hosp_C_Community,Cough Syrup,289,3
+2024-07-02,Hosp_C_Community,Paracetamol,191,19
+2024-07-02,Hosp_C_Community,Ibuprofen,276,18
+2024-07-02,Hosp_C_Community,Amoxicillin,276,20
+2024-07-02,Hosp_C_Community,Metformin,240,3
+2024-07-02,Hosp_C_Community,Atorvastatin,253,2
+2024-07-02,Hosp_C_Community,Letrozole,230,3
+2024-07-02,Hosp_C_Community,Trastuzumab,124,0
+2024-07-02,Hosp_C_Community,Oseltamivir,70,1
+2024-07-02,Hosp_C_Community,Cough Syrup,220,2
+2024-07-03,Hosp_C_Community,Paracetamol,206,26
+2024-07-03,Hosp_C_Community,Ibuprofen,273,16
+2024-07-03,Hosp_C_Community,Amoxicillin,271,23
+2024-07-03,Hosp_C_Community,Metformin,221,0
+2024-07-03,Hosp_C_Community,Atorvastatin,209,2
+2024-07-03,Hosp_C_Community,Letrozole,137,2
+2024-07-03,Hosp_C_Community,Trastuzumab,131,4
+2024-07-03,Hosp_C_Community,Oseltamivir,169,1
+2024-07-03,Hosp_C_Community,Cough Syrup,217,2
+2024-07-04,Hosp_C_Community,Paracetamol,79,17
+2024-07-04,Hosp_C_Community,Ibuprofen,152,24
+2024-07-04,Hosp_C_Community,Amoxicillin,75,14
+2024-07-04,Hosp_C_Community,Metformin,275,3
+2024-07-04,Hosp_C_Community,Atorvastatin,216,3
+2024-07-04,Hosp_C_Community,Letrozole,255,4
+2024-07-04,Hosp_C_Community,Trastuzumab,291,3
+2024-07-04,Hosp_C_Community,Oseltamivir,283,1
+2024-07-04,Hosp_C_Community,Cough Syrup,157,0
+2024-07-05,Hosp_C_Community,Paracetamol,168,24
+2024-07-05,Hosp_C_Community,Ibuprofen,129,17
+2024-07-05,Hosp_C_Community,Amoxicillin,123,13
+2024-07-05,Hosp_C_Community,Metformin,292,2
+2024-07-05,Hosp_C_Community,Atorvastatin,77,4
+2024-07-05,Hosp_C_Community,Letrozole,172,0
+2024-07-05,Hosp_C_Community,Trastuzumab,289,1
+2024-07-05,Hosp_C_Community,Oseltamivir,132,2
+2024-07-05,Hosp_C_Community,Cough Syrup,150,0
+2024-07-06,Hosp_C_Community,Paracetamol,106,19
+2024-07-06,Hosp_C_Community,Ibuprofen,147,18
+2024-07-06,Hosp_C_Community,Amoxicillin,169,12
+2024-07-06,Hosp_C_Community,Metformin,291,4
+2024-07-06,Hosp_C_Community,Atorvastatin,103,3
+2024-07-06,Hosp_C_Community,Letrozole,291,0
+2024-07-06,Hosp_C_Community,Trastuzumab,116,3
+2024-07-06,Hosp_C_Community,Oseltamivir,239,1
+2024-07-06,Hosp_C_Community,Cough Syrup,95,2
+2024-07-07,Hosp_C_Community,Paracetamol,164,22
+2024-07-07,Hosp_C_Community,Ibuprofen,114,29
+2024-07-07,Hosp_C_Community,Amoxicillin,106,24
+2024-07-07,Hosp_C_Community,Metformin,95,1
+2024-07-07,Hosp_C_Community,Atorvastatin,250,0
+2024-07-07,Hosp_C_Community,Letrozole,282,2
+2024-07-07,Hosp_C_Community,Trastuzumab,188,3
+2024-07-07,Hosp_C_Community,Oseltamivir,187,0
+2024-07-07,Hosp_C_Community,Cough Syrup,226,0
+2024-07-08,Hosp_C_Community,Paracetamol,142,16
+2024-07-08,Hosp_C_Community,Ibuprofen,189,16
+2024-07-08,Hosp_C_Community,Amoxicillin,177,16
+2024-07-08,Hosp_C_Community,Metformin,155,1
+2024-07-08,Hosp_C_Community,Atorvastatin,281,0
+2024-07-08,Hosp_C_Community,Letrozole,282,1
+2024-07-08,Hosp_C_Community,Trastuzumab,286,4
+2024-07-08,Hosp_C_Community,Oseltamivir,232,3
+2024-07-08,Hosp_C_Community,Cough Syrup,138,3
+2024-07-09,Hosp_C_Community,Paracetamol,273,12
+2024-07-09,Hosp_C_Community,Ibuprofen,111,22
+2024-07-09,Hosp_C_Community,Amoxicillin,216,14
+2024-07-09,Hosp_C_Community,Metformin,168,1
+2024-07-09,Hosp_C_Community,Atorvastatin,135,0
+2024-07-09,Hosp_C_Community,Letrozole,101,2
+2024-07-09,Hosp_C_Community,Trastuzumab,82,0
+2024-07-09,Hosp_C_Community,Oseltamivir,91,3
+2024-07-09,Hosp_C_Community,Cough Syrup,161,2
+2024-07-10,Hosp_C_Community,Paracetamol,212,11
+2024-07-10,Hosp_C_Community,Ibuprofen,279,14
+2024-07-10,Hosp_C_Community,Amoxicillin,259,25
+2024-07-10,Hosp_C_Community,Metformin,185,0
+2024-07-10,Hosp_C_Community,Atorvastatin,145,1
+2024-07-10,Hosp_C_Community,Letrozole,293,2
+2024-07-10,Hosp_C_Community,Trastuzumab,187,0
+2024-07-10,Hosp_C_Community,Oseltamivir,125,4
+2024-07-10,Hosp_C_Community,Cough Syrup,141,2
+2024-07-11,Hosp_C_Community,Paracetamol,266,12
+2024-07-11,Hosp_C_Community,Ibuprofen,215,29
+2024-07-11,Hosp_C_Community,Amoxicillin,211,26
+2024-07-11,Hosp_C_Community,Metformin,93,3
+2024-07-11,Hosp_C_Community,Atorvastatin,207,0
+2024-07-11,Hosp_C_Community,Letrozole,108,1
+2024-07-11,Hosp_C_Community,Trastuzumab,148,3
+2024-07-11,Hosp_C_Community,Oseltamivir,195,4
+2024-07-11,Hosp_C_Community,Cough Syrup,157,2
+2024-07-12,Hosp_C_Community,Paracetamol,229,25
+2024-07-12,Hosp_C_Community,Ibuprofen,220,16
+2024-07-12,Hosp_C_Community,Amoxicillin,226,26
+2024-07-12,Hosp_C_Community,Metformin,189,4
+2024-07-12,Hosp_C_Community,Atorvastatin,187,0
+2024-07-12,Hosp_C_Community,Letrozole,98,3
+2024-07-12,Hosp_C_Community,Trastuzumab,70,4
+2024-07-12,Hosp_C_Community,Oseltamivir,165,0
+2024-07-12,Hosp_C_Community,Cough Syrup,184,1
+2024-07-13,Hosp_C_Community,Paracetamol,221,28
+2024-07-13,Hosp_C_Community,Ibuprofen,248,15
+2024-07-13,Hosp_C_Community,Amoxicillin,185,22
+2024-07-13,Hosp_C_Community,Metformin,278,1
+2024-07-13,Hosp_C_Community,Atorvastatin,90,2
+2024-07-13,Hosp_C_Community,Letrozole,265,4
+2024-07-13,Hosp_C_Community,Trastuzumab,75,0
+2024-07-13,Hosp_C_Community,Oseltamivir,152,2
+2024-07-13,Hosp_C_Community,Cough Syrup,119,2
+2024-07-14,Hosp_C_Community,Paracetamol,278,26
+2024-07-14,Hosp_C_Community,Ibuprofen,135,11
+2024-07-14,Hosp_C_Community,Amoxicillin,296,14
+2024-07-14,Hosp_C_Community,Metformin,53,3
+2024-07-14,Hosp_C_Community,Atorvastatin,55,3
+2024-07-14,Hosp_C_Community,Letrozole,198,4
+2024-07-14,Hosp_C_Community,Trastuzumab,167,4
+2024-07-14,Hosp_C_Community,Oseltamivir,296,0
+2024-07-14,Hosp_C_Community,Cough Syrup,203,3
+2024-07-15,Hosp_C_Community,Paracetamol,112,26
+2024-07-15,Hosp_C_Community,Ibuprofen,143,12
+2024-07-15,Hosp_C_Community,Amoxicillin,97,23
+2024-07-15,Hosp_C_Community,Metformin,61,3
+2024-07-15,Hosp_C_Community,Atorvastatin,221,4
+2024-07-15,Hosp_C_Community,Letrozole,220,0
+2024-07-15,Hosp_C_Community,Trastuzumab,89,0
+2024-07-15,Hosp_C_Community,Oseltamivir,134,0
+2024-07-15,Hosp_C_Community,Cough Syrup,136,3
+2024-07-16,Hosp_C_Community,Paracetamol,60,21
+2024-07-16,Hosp_C_Community,Ibuprofen,219,27
+2024-07-16,Hosp_C_Community,Amoxicillin,88,16
+2024-07-16,Hosp_C_Community,Metformin,188,3
+2024-07-16,Hosp_C_Community,Atorvastatin,101,0
+2024-07-16,Hosp_C_Community,Letrozole,190,1
+2024-07-16,Hosp_C_Community,Trastuzumab,218,1
+2024-07-16,Hosp_C_Community,Oseltamivir,233,0
+2024-07-16,Hosp_C_Community,Cough Syrup,177,4
+2024-07-17,Hosp_C_Community,Paracetamol,143,19
+2024-07-17,Hosp_C_Community,Ibuprofen,182,20
+2024-07-17,Hosp_C_Community,Amoxicillin,114,11
+2024-07-17,Hosp_C_Community,Metformin,169,0
+2024-07-17,Hosp_C_Community,Atorvastatin,260,1
+2024-07-17,Hosp_C_Community,Letrozole,262,3
+2024-07-17,Hosp_C_Community,Trastuzumab,110,4
+2024-07-17,Hosp_C_Community,Oseltamivir,137,3
+2024-07-17,Hosp_C_Community,Cough Syrup,176,3
+2024-07-18,Hosp_C_Community,Paracetamol,205,20
+2024-07-18,Hosp_C_Community,Ibuprofen,180,29
+2024-07-18,Hosp_C_Community,Amoxicillin,187,19
+2024-07-18,Hosp_C_Community,Metformin,191,3
+2024-07-18,Hosp_C_Community,Atorvastatin,224,1
+2024-07-18,Hosp_C_Community,Letrozole,143,1
+2024-07-18,Hosp_C_Community,Trastuzumab,209,1
+2024-07-18,Hosp_C_Community,Oseltamivir,164,0
+2024-07-18,Hosp_C_Community,Cough Syrup,105,4
+2024-07-19,Hosp_C_Community,Paracetamol,65,10
+2024-07-19,Hosp_C_Community,Ibuprofen,164,14
+2024-07-19,Hosp_C_Community,Amoxicillin,280,28
+2024-07-19,Hosp_C_Community,Metformin,295,4
+2024-07-19,Hosp_C_Community,Atorvastatin,174,0
+2024-07-19,Hosp_C_Community,Letrozole,241,1
+2024-07-19,Hosp_C_Community,Trastuzumab,263,4
+2024-07-19,Hosp_C_Community,Oseltamivir,174,0
+2024-07-19,Hosp_C_Community,Cough Syrup,115,3
+2024-07-20,Hosp_C_Community,Paracetamol,105,21
+2024-07-20,Hosp_C_Community,Ibuprofen,74,18
+2024-07-20,Hosp_C_Community,Amoxicillin,183,11
+2024-07-20,Hosp_C_Community,Metformin,240,0
+2024-07-20,Hosp_C_Community,Atorvastatin,109,4
+2024-07-20,Hosp_C_Community,Letrozole,98,0
+2024-07-20,Hosp_C_Community,Trastuzumab,100,3
+2024-07-20,Hosp_C_Community,Oseltamivir,119,4
+2024-07-20,Hosp_C_Community,Cough Syrup,80,1
+2024-07-21,Hosp_C_Community,Paracetamol,187,18
+2024-07-21,Hosp_C_Community,Ibuprofen,83,23
+2024-07-21,Hosp_C_Community,Amoxicillin,225,10
+2024-07-21,Hosp_C_Community,Metformin,147,4
+2024-07-21,Hosp_C_Community,Atorvastatin,59,3
+2024-07-21,Hosp_C_Community,Letrozole,114,4
+2024-07-21,Hosp_C_Community,Trastuzumab,50,4
+2024-07-21,Hosp_C_Community,Oseltamivir,129,0
+2024-07-21,Hosp_C_Community,Cough Syrup,77,4
+2024-07-22,Hosp_C_Community,Paracetamol,180,18
+2024-07-22,Hosp_C_Community,Ibuprofen,263,21
+2024-07-22,Hosp_C_Community,Amoxicillin,251,11
+2024-07-22,Hosp_C_Community,Metformin,92,1
+2024-07-22,Hosp_C_Community,Atorvastatin,143,1
+2024-07-22,Hosp_C_Community,Letrozole,179,1
+2024-07-22,Hosp_C_Community,Trastuzumab,81,1
+2024-07-22,Hosp_C_Community,Oseltamivir,193,3
+2024-07-22,Hosp_C_Community,Cough Syrup,50,4
+2024-07-23,Hosp_C_Community,Paracetamol,127,13
+2024-07-23,Hosp_C_Community,Ibuprofen,139,24
+2024-07-23,Hosp_C_Community,Amoxicillin,161,16
+2024-07-23,Hosp_C_Community,Metformin,194,2
+2024-07-23,Hosp_C_Community,Atorvastatin,228,0
+2024-07-23,Hosp_C_Community,Letrozole,119,4
+2024-07-23,Hosp_C_Community,Trastuzumab,124,0
+2024-07-23,Hosp_C_Community,Oseltamivir,153,2
+2024-07-23,Hosp_C_Community,Cough Syrup,177,1
+2024-07-24,Hosp_C_Community,Paracetamol,154,10
+2024-07-24,Hosp_C_Community,Ibuprofen,282,19
+2024-07-24,Hosp_C_Community,Amoxicillin,232,13
+2024-07-24,Hosp_C_Community,Metformin,148,1
+2024-07-24,Hosp_C_Community,Atorvastatin,224,2
+2024-07-24,Hosp_C_Community,Letrozole,63,3
+2024-07-24,Hosp_C_Community,Trastuzumab,94,0
+2024-07-24,Hosp_C_Community,Oseltamivir,257,2
+2024-07-24,Hosp_C_Community,Cough Syrup,243,2
+2024-07-25,Hosp_C_Community,Paracetamol,273,20
+2024-07-25,Hosp_C_Community,Ibuprofen,69,12
+2024-07-25,Hosp_C_Community,Amoxicillin,102,24
+2024-07-25,Hosp_C_Community,Metformin,159,2
+2024-07-25,Hosp_C_Community,Atorvastatin,229,3
+2024-07-25,Hosp_C_Community,Letrozole,204,3
+2024-07-25,Hosp_C_Community,Trastuzumab,217,3
+2024-07-25,Hosp_C_Community,Oseltamivir,97,2
+2024-07-25,Hosp_C_Community,Cough Syrup,262,3
+2024-07-26,Hosp_C_Community,Paracetamol,207,22
+2024-07-26,Hosp_C_Community,Ibuprofen,239,24
+2024-07-26,Hosp_C_Community,Amoxicillin,161,25
+2024-07-26,Hosp_C_Community,Metformin,243,0
+2024-07-26,Hosp_C_Community,Atorvastatin,273,2
+2024-07-26,Hosp_C_Community,Letrozole,57,3
+2024-07-26,Hosp_C_Community,Trastuzumab,52,4
+2024-07-26,Hosp_C_Community,Oseltamivir,61,3
+2024-07-26,Hosp_C_Community,Cough Syrup,65,2
+2024-07-27,Hosp_C_Community,Paracetamol,137,28
+2024-07-27,Hosp_C_Community,Ibuprofen,115,29
+2024-07-27,Hosp_C_Community,Amoxicillin,82,17
+2024-07-27,Hosp_C_Community,Metformin,74,0
+2024-07-27,Hosp_C_Community,Atorvastatin,147,0
+2024-07-27,Hosp_C_Community,Letrozole,136,4
+2024-07-27,Hosp_C_Community,Trastuzumab,104,4
+2024-07-27,Hosp_C_Community,Oseltamivir,138,4
+2024-07-27,Hosp_C_Community,Cough Syrup,165,4
+2024-07-28,Hosp_C_Community,Paracetamol,122,18
+2024-07-28,Hosp_C_Community,Ibuprofen,216,11
+2024-07-28,Hosp_C_Community,Amoxicillin,72,25
+2024-07-28,Hosp_C_Community,Metformin,58,4
+2024-07-28,Hosp_C_Community,Atorvastatin,205,2
+2024-07-28,Hosp_C_Community,Letrozole,100,3
+2024-07-28,Hosp_C_Community,Trastuzumab,258,3
+2024-07-28,Hosp_C_Community,Oseltamivir,242,1
+2024-07-28,Hosp_C_Community,Cough Syrup,240,2
+2024-07-29,Hosp_C_Community,Paracetamol,145,26
+2024-07-29,Hosp_C_Community,Ibuprofen,63,10
+2024-07-29,Hosp_C_Community,Amoxicillin,258,17
+2024-07-29,Hosp_C_Community,Metformin,118,4
+2024-07-29,Hosp_C_Community,Atorvastatin,154,2
+2024-07-29,Hosp_C_Community,Letrozole,196,0
+2024-07-29,Hosp_C_Community,Trastuzumab,167,1
+2024-07-29,Hosp_C_Community,Oseltamivir,193,0
+2024-07-29,Hosp_C_Community,Cough Syrup,179,0
+2024-07-30,Hosp_C_Community,Paracetamol,130,16
+2024-07-30,Hosp_C_Community,Ibuprofen,264,29
+2024-07-30,Hosp_C_Community,Amoxicillin,256,22
+2024-07-30,Hosp_C_Community,Metformin,243,3
+2024-07-30,Hosp_C_Community,Atorvastatin,196,4
+2024-07-30,Hosp_C_Community,Letrozole,137,2
+2024-07-30,Hosp_C_Community,Trastuzumab,236,1
+2024-07-30,Hosp_C_Community,Oseltamivir,90,2
+2024-07-30,Hosp_C_Community,Cough Syrup,237,0
+2024-07-31,Hosp_C_Community,Paracetamol,105,21
+2024-07-31,Hosp_C_Community,Ibuprofen,117,24
+2024-07-31,Hosp_C_Community,Amoxicillin,186,16
+2024-07-31,Hosp_C_Community,Metformin,155,4
+2024-07-31,Hosp_C_Community,Atorvastatin,141,4
+2024-07-31,Hosp_C_Community,Letrozole,110,3
+2024-07-31,Hosp_C_Community,Trastuzumab,263,2
+2024-07-31,Hosp_C_Community,Oseltamivir,235,1
+2024-07-31,Hosp_C_Community,Cough Syrup,271,0
+2024-08-01,Hosp_C_Community,Paracetamol,132,10
+2024-08-01,Hosp_C_Community,Ibuprofen,205,11
+2024-08-01,Hosp_C_Community,Amoxicillin,241,24
+2024-08-01,Hosp_C_Community,Metformin,127,2
+2024-08-01,Hosp_C_Community,Atorvastatin,156,3
+2024-08-01,Hosp_C_Community,Letrozole,122,4
+2024-08-01,Hosp_C_Community,Trastuzumab,261,1
+2024-08-01,Hosp_C_Community,Oseltamivir,215,1
+2024-08-01,Hosp_C_Community,Cough Syrup,259,3
+2024-08-02,Hosp_C_Community,Paracetamol,272,12
+2024-08-02,Hosp_C_Community,Ibuprofen,160,11
+2024-08-02,Hosp_C_Community,Amoxicillin,298,26
+2024-08-02,Hosp_C_Community,Metformin,247,1
+2024-08-02,Hosp_C_Community,Atorvastatin,249,2
+2024-08-02,Hosp_C_Community,Letrozole,76,0
+2024-08-02,Hosp_C_Community,Trastuzumab,195,0
+2024-08-02,Hosp_C_Community,Oseltamivir,238,2
+2024-08-02,Hosp_C_Community,Cough Syrup,296,3
+2024-08-03,Hosp_C_Community,Paracetamol,106,26
+2024-08-03,Hosp_C_Community,Ibuprofen,293,16
+2024-08-03,Hosp_C_Community,Amoxicillin,268,24
+2024-08-03,Hosp_C_Community,Metformin,298,4
+2024-08-03,Hosp_C_Community,Atorvastatin,188,3
+2024-08-03,Hosp_C_Community,Letrozole,158,1
+2024-08-03,Hosp_C_Community,Trastuzumab,135,3
+2024-08-03,Hosp_C_Community,Oseltamivir,73,4
+2024-08-03,Hosp_C_Community,Cough Syrup,122,1
+2024-08-04,Hosp_C_Community,Paracetamol,53,10
+2024-08-04,Hosp_C_Community,Ibuprofen,284,27
+2024-08-04,Hosp_C_Community,Amoxicillin,159,20
+2024-08-04,Hosp_C_Community,Metformin,123,2
+2024-08-04,Hosp_C_Community,Atorvastatin,111,0
+2024-08-04,Hosp_C_Community,Letrozole,213,1
+2024-08-04,Hosp_C_Community,Trastuzumab,289,4
+2024-08-04,Hosp_C_Community,Oseltamivir,190,0
+2024-08-04,Hosp_C_Community,Cough Syrup,188,2
+2024-08-05,Hosp_C_Community,Paracetamol,87,22
+2024-08-05,Hosp_C_Community,Ibuprofen,108,10
+2024-08-05,Hosp_C_Community,Amoxicillin,150,18
+2024-08-05,Hosp_C_Community,Metformin,207,0
+2024-08-05,Hosp_C_Community,Atorvastatin,226,0
+2024-08-05,Hosp_C_Community,Letrozole,224,0
+2024-08-05,Hosp_C_Community,Trastuzumab,61,4
+2024-08-05,Hosp_C_Community,Oseltamivir,265,0
+2024-08-05,Hosp_C_Community,Cough Syrup,242,0
+2024-08-06,Hosp_C_Community,Paracetamol,197,15
+2024-08-06,Hosp_C_Community,Ibuprofen,73,25
+2024-08-06,Hosp_C_Community,Amoxicillin,143,11
+2024-08-06,Hosp_C_Community,Metformin,114,0
+2024-08-06,Hosp_C_Community,Atorvastatin,263,3
+2024-08-06,Hosp_C_Community,Letrozole,194,0
+2024-08-06,Hosp_C_Community,Trastuzumab,269,4
+2024-08-06,Hosp_C_Community,Oseltamivir,64,2
+2024-08-06,Hosp_C_Community,Cough Syrup,76,1
+2024-08-07,Hosp_C_Community,Paracetamol,95,26
+2024-08-07,Hosp_C_Community,Ibuprofen,84,13
+2024-08-07,Hosp_C_Community,Amoxicillin,129,25
+2024-08-07,Hosp_C_Community,Metformin,262,1
+2024-08-07,Hosp_C_Community,Atorvastatin,170,3
+2024-08-07,Hosp_C_Community,Letrozole,196,1
+2024-08-07,Hosp_C_Community,Trastuzumab,130,4
+2024-08-07,Hosp_C_Community,Oseltamivir,203,1
+2024-08-07,Hosp_C_Community,Cough Syrup,112,3
+2024-08-08,Hosp_C_Community,Paracetamol,153,27
+2024-08-08,Hosp_C_Community,Ibuprofen,110,11
+2024-08-08,Hosp_C_Community,Amoxicillin,227,27
+2024-08-08,Hosp_C_Community,Metformin,252,0
+2024-08-08,Hosp_C_Community,Atorvastatin,255,2
+2024-08-08,Hosp_C_Community,Letrozole,210,4
+2024-08-08,Hosp_C_Community,Trastuzumab,225,3
+2024-08-08,Hosp_C_Community,Oseltamivir,230,2
+2024-08-08,Hosp_C_Community,Cough Syrup,257,2
+2024-08-09,Hosp_C_Community,Paracetamol,116,26
+2024-08-09,Hosp_C_Community,Ibuprofen,93,19
+2024-08-09,Hosp_C_Community,Amoxicillin,113,17
+2024-08-09,Hosp_C_Community,Metformin,256,4
+2024-08-09,Hosp_C_Community,Atorvastatin,117,1
+2024-08-09,Hosp_C_Community,Letrozole,77,4
+2024-08-09,Hosp_C_Community,Trastuzumab,165,2
+2024-08-09,Hosp_C_Community,Oseltamivir,230,3
+2024-08-09,Hosp_C_Community,Cough Syrup,128,0
+2024-08-10,Hosp_C_Community,Paracetamol,264,18
+2024-08-10,Hosp_C_Community,Ibuprofen,200,13
+2024-08-10,Hosp_C_Community,Amoxicillin,70,14
+2024-08-10,Hosp_C_Community,Metformin,220,4
+2024-08-10,Hosp_C_Community,Atorvastatin,75,0
+2024-08-10,Hosp_C_Community,Letrozole,171,2
+2024-08-10,Hosp_C_Community,Trastuzumab,87,2
+2024-08-10,Hosp_C_Community,Oseltamivir,282,4
+2024-08-10,Hosp_C_Community,Cough Syrup,288,3
+2024-08-11,Hosp_C_Community,Paracetamol,187,19
+2024-08-11,Hosp_C_Community,Ibuprofen,90,22
+2024-08-11,Hosp_C_Community,Amoxicillin,180,27
+2024-08-11,Hosp_C_Community,Metformin,101,1
+2024-08-11,Hosp_C_Community,Atorvastatin,226,3
+2024-08-11,Hosp_C_Community,Letrozole,260,4
+2024-08-11,Hosp_C_Community,Trastuzumab,273,4
+2024-08-11,Hosp_C_Community,Oseltamivir,274,1
+2024-08-11,Hosp_C_Community,Cough Syrup,274,4
+2024-08-12,Hosp_C_Community,Paracetamol,88,10
+2024-08-12,Hosp_C_Community,Ibuprofen,82,17
+2024-08-12,Hosp_C_Community,Amoxicillin,69,25
+2024-08-12,Hosp_C_Community,Metformin,198,4
+2024-08-12,Hosp_C_Community,Atorvastatin,296,1
+2024-08-12,Hosp_C_Community,Letrozole,136,1
+2024-08-12,Hosp_C_Community,Trastuzumab,111,3
+2024-08-12,Hosp_C_Community,Oseltamivir,91,3
+2024-08-12,Hosp_C_Community,Cough Syrup,114,1
+2024-08-13,Hosp_C_Community,Paracetamol,278,18
+2024-08-13,Hosp_C_Community,Ibuprofen,74,10
+2024-08-13,Hosp_C_Community,Amoxicillin,51,28
+2024-08-13,Hosp_C_Community,Metformin,287,3
+2024-08-13,Hosp_C_Community,Atorvastatin,283,0
+2024-08-13,Hosp_C_Community,Letrozole,283,4
+2024-08-13,Hosp_C_Community,Trastuzumab,119,0
+2024-08-13,Hosp_C_Community,Oseltamivir,173,0
+2024-08-13,Hosp_C_Community,Cough Syrup,279,3
+2024-08-14,Hosp_C_Community,Paracetamol,215,11
+2024-08-14,Hosp_C_Community,Ibuprofen,68,29
+2024-08-14,Hosp_C_Community,Amoxicillin,261,23
+2024-08-14,Hosp_C_Community,Metformin,82,1
+2024-08-14,Hosp_C_Community,Atorvastatin,129,3
+2024-08-14,Hosp_C_Community,Letrozole,268,3
+2024-08-14,Hosp_C_Community,Trastuzumab,174,2
+2024-08-14,Hosp_C_Community,Oseltamivir,129,2
+2024-08-14,Hosp_C_Community,Cough Syrup,229,0
+2024-08-15,Hosp_C_Community,Paracetamol,232,17
+2024-08-15,Hosp_C_Community,Ibuprofen,260,27
+2024-08-15,Hosp_C_Community,Amoxicillin,227,10
+2024-08-15,Hosp_C_Community,Metformin,160,1
+2024-08-15,Hosp_C_Community,Atorvastatin,174,0
+2024-08-15,Hosp_C_Community,Letrozole,280,0
+2024-08-15,Hosp_C_Community,Trastuzumab,184,2
+2024-08-15,Hosp_C_Community,Oseltamivir,230,0
+2024-08-15,Hosp_C_Community,Cough Syrup,209,2
+2024-08-16,Hosp_C_Community,Paracetamol,246,23
+2024-08-16,Hosp_C_Community,Ibuprofen,116,16
+2024-08-16,Hosp_C_Community,Amoxicillin,143,27
+2024-08-16,Hosp_C_Community,Metformin,286,4
+2024-08-16,Hosp_C_Community,Atorvastatin,200,2
+2024-08-16,Hosp_C_Community,Letrozole,103,1
+2024-08-16,Hosp_C_Community,Trastuzumab,266,4
+2024-08-16,Hosp_C_Community,Oseltamivir,65,0
+2024-08-16,Hosp_C_Community,Cough Syrup,147,4
+2024-08-17,Hosp_C_Community,Paracetamol,193,14
+2024-08-17,Hosp_C_Community,Ibuprofen,256,22
+2024-08-17,Hosp_C_Community,Amoxicillin,126,22
+2024-08-17,Hosp_C_Community,Metformin,96,2
+2024-08-17,Hosp_C_Community,Atorvastatin,259,3
+2024-08-17,Hosp_C_Community,Letrozole,203,1
+2024-08-17,Hosp_C_Community,Trastuzumab,208,0
+2024-08-17,Hosp_C_Community,Oseltamivir,206,4
+2024-08-17,Hosp_C_Community,Cough Syrup,126,0
+2024-08-18,Hosp_C_Community,Paracetamol,54,14
+2024-08-18,Hosp_C_Community,Ibuprofen,127,23
+2024-08-18,Hosp_C_Community,Amoxicillin,153,13
+2024-08-18,Hosp_C_Community,Metformin,280,3
+2024-08-18,Hosp_C_Community,Atorvastatin,132,3
+2024-08-18,Hosp_C_Community,Letrozole,271,2
+2024-08-18,Hosp_C_Community,Trastuzumab,144,0
+2024-08-18,Hosp_C_Community,Oseltamivir,102,4
+2024-08-18,Hosp_C_Community,Cough Syrup,255,3
+2024-08-19,Hosp_C_Community,Paracetamol,186,11
+2024-08-19,Hosp_C_Community,Ibuprofen,129,15
+2024-08-19,Hosp_C_Community,Amoxicillin,294,28
+2024-08-19,Hosp_C_Community,Metformin,77,3
+2024-08-19,Hosp_C_Community,Atorvastatin,278,1
+2024-08-19,Hosp_C_Community,Letrozole,272,2
+2024-08-19,Hosp_C_Community,Trastuzumab,81,1
+2024-08-19,Hosp_C_Community,Oseltamivir,218,1
+2024-08-19,Hosp_C_Community,Cough Syrup,74,3
+2024-08-20,Hosp_C_Community,Paracetamol,62,24
+2024-08-20,Hosp_C_Community,Ibuprofen,136,10
+2024-08-20,Hosp_C_Community,Amoxicillin,78,25
+2024-08-20,Hosp_C_Community,Metformin,54,1
+2024-08-20,Hosp_C_Community,Atorvastatin,212,1
+2024-08-20,Hosp_C_Community,Letrozole,260,4
+2024-08-20,Hosp_C_Community,Trastuzumab,120,2
+2024-08-20,Hosp_C_Community,Oseltamivir,222,4
+2024-08-20,Hosp_C_Community,Cough Syrup,187,1
+2024-08-21,Hosp_C_Community,Paracetamol,283,22
+2024-08-21,Hosp_C_Community,Ibuprofen,224,21
+2024-08-21,Hosp_C_Community,Amoxicillin,118,14
+2024-08-21,Hosp_C_Community,Metformin,208,3
+2024-08-21,Hosp_C_Community,Atorvastatin,141,1
+2024-08-21,Hosp_C_Community,Letrozole,93,2
+2024-08-21,Hosp_C_Community,Trastuzumab,148,1
+2024-08-21,Hosp_C_Community,Oseltamivir,170,0
+2024-08-21,Hosp_C_Community,Cough Syrup,164,3
+2024-08-22,Hosp_C_Community,Paracetamol,135,26
+2024-08-22,Hosp_C_Community,Ibuprofen,175,23
+2024-08-22,Hosp_C_Community,Amoxicillin,154,12
+2024-08-22,Hosp_C_Community,Metformin,299,4
+2024-08-22,Hosp_C_Community,Atorvastatin,212,2
+2024-08-22,Hosp_C_Community,Letrozole,179,4
+2024-08-22,Hosp_C_Community,Trastuzumab,177,2
+2024-08-22,Hosp_C_Community,Oseltamivir,231,1
+2024-08-22,Hosp_C_Community,Cough Syrup,184,4
+2024-08-23,Hosp_C_Community,Paracetamol,57,20
+2024-08-23,Hosp_C_Community,Ibuprofen,184,18
+2024-08-23,Hosp_C_Community,Amoxicillin,89,12
+2024-08-23,Hosp_C_Community,Metformin,194,1
+2024-08-23,Hosp_C_Community,Atorvastatin,256,4
+2024-08-23,Hosp_C_Community,Letrozole,163,3
+2024-08-23,Hosp_C_Community,Trastuzumab,199,3
+2024-08-23,Hosp_C_Community,Oseltamivir,298,3
+2024-08-23,Hosp_C_Community,Cough Syrup,183,1
+2024-08-24,Hosp_C_Community,Paracetamol,126,21
+2024-08-24,Hosp_C_Community,Ibuprofen,242,28
+2024-08-24,Hosp_C_Community,Amoxicillin,142,25
+2024-08-24,Hosp_C_Community,Metformin,202,3
+2024-08-24,Hosp_C_Community,Atorvastatin,96,2
+2024-08-24,Hosp_C_Community,Letrozole,233,2
+2024-08-24,Hosp_C_Community,Trastuzumab,244,0
+2024-08-24,Hosp_C_Community,Oseltamivir,184,0
+2024-08-24,Hosp_C_Community,Cough Syrup,98,0
+2024-08-25,Hosp_C_Community,Paracetamol,200,25
+2024-08-25,Hosp_C_Community,Ibuprofen,59,18
+2024-08-25,Hosp_C_Community,Amoxicillin,218,26
+2024-08-25,Hosp_C_Community,Metformin,194,0
+2024-08-25,Hosp_C_Community,Atorvastatin,233,3
+2024-08-25,Hosp_C_Community,Letrozole,222,3
+2024-08-25,Hosp_C_Community,Trastuzumab,287,1
+2024-08-25,Hosp_C_Community,Oseltamivir,104,2
+2024-08-25,Hosp_C_Community,Cough Syrup,206,1
+2024-08-26,Hosp_C_Community,Paracetamol,171,20
+2024-08-26,Hosp_C_Community,Ibuprofen,56,26
+2024-08-26,Hosp_C_Community,Amoxicillin,170,18
+2024-08-26,Hosp_C_Community,Metformin,294,0
+2024-08-26,Hosp_C_Community,Atorvastatin,155,4
+2024-08-26,Hosp_C_Community,Letrozole,256,4
+2024-08-26,Hosp_C_Community,Trastuzumab,270,2
+2024-08-26,Hosp_C_Community,Oseltamivir,140,2
+2024-08-26,Hosp_C_Community,Cough Syrup,57,3
+2024-08-27,Hosp_C_Community,Paracetamol,298,29
+2024-08-27,Hosp_C_Community,Ibuprofen,97,29
+2024-08-27,Hosp_C_Community,Amoxicillin,286,11
+2024-08-27,Hosp_C_Community,Metformin,137,2
+2024-08-27,Hosp_C_Community,Atorvastatin,179,0
+2024-08-27,Hosp_C_Community,Letrozole,127,3
+2024-08-27,Hosp_C_Community,Trastuzumab,290,4
+2024-08-27,Hosp_C_Community,Oseltamivir,277,2
+2024-08-27,Hosp_C_Community,Cough Syrup,285,1
+2024-08-28,Hosp_C_Community,Paracetamol,59,21
+2024-08-28,Hosp_C_Community,Ibuprofen,56,26
+2024-08-28,Hosp_C_Community,Amoxicillin,242,27
+2024-08-28,Hosp_C_Community,Metformin,75,2
+2024-08-28,Hosp_C_Community,Atorvastatin,82,4
+2024-08-28,Hosp_C_Community,Letrozole,96,2
+2024-08-28,Hosp_C_Community,Trastuzumab,242,3
+2024-08-28,Hosp_C_Community,Oseltamivir,172,0
+2024-08-28,Hosp_C_Community,Cough Syrup,132,0
+2024-08-29,Hosp_C_Community,Paracetamol,115,18
+2024-08-29,Hosp_C_Community,Ibuprofen,263,11
+2024-08-29,Hosp_C_Community,Amoxicillin,173,24
+2024-08-29,Hosp_C_Community,Metformin,59,1
+2024-08-29,Hosp_C_Community,Atorvastatin,142,0
+2024-08-29,Hosp_C_Community,Letrozole,264,2
+2024-08-29,Hosp_C_Community,Trastuzumab,66,3
+2024-08-29,Hosp_C_Community,Oseltamivir,58,1
+2024-08-29,Hosp_C_Community,Cough Syrup,85,0
+2024-08-30,Hosp_C_Community,Paracetamol,106,13
+2024-08-30,Hosp_C_Community,Ibuprofen,115,27
+2024-08-30,Hosp_C_Community,Amoxicillin,63,25
+2024-08-30,Hosp_C_Community,Metformin,231,2
+2024-08-30,Hosp_C_Community,Atorvastatin,91,0
+2024-08-30,Hosp_C_Community,Letrozole,159,3
+2024-08-30,Hosp_C_Community,Trastuzumab,68,1
+2024-08-30,Hosp_C_Community,Oseltamivir,216,0
+2024-08-30,Hosp_C_Community,Cough Syrup,196,0
+2024-08-31,Hosp_C_Community,Paracetamol,110,28
+2024-08-31,Hosp_C_Community,Ibuprofen,59,15
+2024-08-31,Hosp_C_Community,Amoxicillin,111,26
+2024-08-31,Hosp_C_Community,Metformin,182,1
+2024-08-31,Hosp_C_Community,Atorvastatin,247,2
+2024-08-31,Hosp_C_Community,Letrozole,233,2
+2024-08-31,Hosp_C_Community,Trastuzumab,112,0
+2024-08-31,Hosp_C_Community,Oseltamivir,236,2
+2024-08-31,Hosp_C_Community,Cough Syrup,227,4
+2024-09-01,Hosp_C_Community,Paracetamol,196,15
+2024-09-01,Hosp_C_Community,Ibuprofen,178,17
+2024-09-01,Hosp_C_Community,Amoxicillin,274,28
+2024-09-01,Hosp_C_Community,Metformin,284,4
+2024-09-01,Hosp_C_Community,Atorvastatin,265,0
+2024-09-01,Hosp_C_Community,Letrozole,224,0
+2024-09-01,Hosp_C_Community,Trastuzumab,284,2
+2024-09-01,Hosp_C_Community,Oseltamivir,142,4
+2024-09-01,Hosp_C_Community,Cough Syrup,187,3
+2024-09-02,Hosp_C_Community,Paracetamol,83,16
+2024-09-02,Hosp_C_Community,Ibuprofen,59,29
+2024-09-02,Hosp_C_Community,Amoxicillin,56,25
+2024-09-02,Hosp_C_Community,Metformin,214,4
+2024-09-02,Hosp_C_Community,Atorvastatin,61,0
+2024-09-02,Hosp_C_Community,Letrozole,97,3
+2024-09-02,Hosp_C_Community,Trastuzumab,75,2
+2024-09-02,Hosp_C_Community,Oseltamivir,171,3
+2024-09-02,Hosp_C_Community,Cough Syrup,198,1
+2024-09-03,Hosp_C_Community,Paracetamol,115,22
+2024-09-03,Hosp_C_Community,Ibuprofen,111,24
+2024-09-03,Hosp_C_Community,Amoxicillin,246,12
+2024-09-03,Hosp_C_Community,Metformin,86,4
+2024-09-03,Hosp_C_Community,Atorvastatin,278,2
+2024-09-03,Hosp_C_Community,Letrozole,240,2
+2024-09-03,Hosp_C_Community,Trastuzumab,229,3
+2024-09-03,Hosp_C_Community,Oseltamivir,205,3
+2024-09-03,Hosp_C_Community,Cough Syrup,271,1
+2024-09-04,Hosp_C_Community,Paracetamol,142,18
+2024-09-04,Hosp_C_Community,Ibuprofen,149,25
+2024-09-04,Hosp_C_Community,Amoxicillin,123,28
+2024-09-04,Hosp_C_Community,Metformin,233,0
+2024-09-04,Hosp_C_Community,Atorvastatin,186,4
+2024-09-04,Hosp_C_Community,Letrozole,146,1
+2024-09-04,Hosp_C_Community,Trastuzumab,222,0
+2024-09-04,Hosp_C_Community,Oseltamivir,184,2
+2024-09-04,Hosp_C_Community,Cough Syrup,280,1
+2024-09-05,Hosp_C_Community,Paracetamol,87,28
+2024-09-05,Hosp_C_Community,Ibuprofen,68,25
+2024-09-05,Hosp_C_Community,Amoxicillin,208,28
+2024-09-05,Hosp_C_Community,Metformin,244,1
+2024-09-05,Hosp_C_Community,Atorvastatin,172,1
+2024-09-05,Hosp_C_Community,Letrozole,203,4
+2024-09-05,Hosp_C_Community,Trastuzumab,107,1
+2024-09-05,Hosp_C_Community,Oseltamivir,116,1
+2024-09-05,Hosp_C_Community,Cough Syrup,136,2
+2024-09-06,Hosp_C_Community,Paracetamol,163,20
+2024-09-06,Hosp_C_Community,Ibuprofen,97,21
+2024-09-06,Hosp_C_Community,Amoxicillin,222,25
+2024-09-06,Hosp_C_Community,Metformin,296,1
+2024-09-06,Hosp_C_Community,Atorvastatin,166,0
+2024-09-06,Hosp_C_Community,Letrozole,80,3
+2024-09-06,Hosp_C_Community,Trastuzumab,121,1
+2024-09-06,Hosp_C_Community,Oseltamivir,157,4
+2024-09-06,Hosp_C_Community,Cough Syrup,191,2
+2024-09-07,Hosp_C_Community,Paracetamol,256,27
+2024-09-07,Hosp_C_Community,Ibuprofen,148,27
+2024-09-07,Hosp_C_Community,Amoxicillin,207,11
+2024-09-07,Hosp_C_Community,Metformin,91,2
+2024-09-07,Hosp_C_Community,Atorvastatin,76,2
+2024-09-07,Hosp_C_Community,Letrozole,216,2
+2024-09-07,Hosp_C_Community,Trastuzumab,67,4
+2024-09-07,Hosp_C_Community,Oseltamivir,94,2
+2024-09-07,Hosp_C_Community,Cough Syrup,136,3
+2024-09-08,Hosp_C_Community,Paracetamol,206,29
+2024-09-08,Hosp_C_Community,Ibuprofen,183,16
+2024-09-08,Hosp_C_Community,Amoxicillin,86,27
+2024-09-08,Hosp_C_Community,Metformin,264,3
+2024-09-08,Hosp_C_Community,Atorvastatin,87,2
+2024-09-08,Hosp_C_Community,Letrozole,178,3
+2024-09-08,Hosp_C_Community,Trastuzumab,292,3
+2024-09-08,Hosp_C_Community,Oseltamivir,96,2
+2024-09-08,Hosp_C_Community,Cough Syrup,264,2
+2024-09-09,Hosp_C_Community,Paracetamol,94,18
+2024-09-09,Hosp_C_Community,Ibuprofen,141,19
+2024-09-09,Hosp_C_Community,Amoxicillin,238,21
+2024-09-09,Hosp_C_Community,Metformin,287,0
+2024-09-09,Hosp_C_Community,Atorvastatin,223,0
+2024-09-09,Hosp_C_Community,Letrozole,129,1
+2024-09-09,Hosp_C_Community,Trastuzumab,184,0
+2024-09-09,Hosp_C_Community,Oseltamivir,176,2
+2024-09-09,Hosp_C_Community,Cough Syrup,104,4
+2024-09-10,Hosp_C_Community,Paracetamol,71,10
+2024-09-10,Hosp_C_Community,Ibuprofen,299,16
+2024-09-10,Hosp_C_Community,Amoxicillin,96,22
+2024-09-10,Hosp_C_Community,Metformin,126,3
+2024-09-10,Hosp_C_Community,Atorvastatin,58,3
+2024-09-10,Hosp_C_Community,Letrozole,62,2
+2024-09-10,Hosp_C_Community,Trastuzumab,221,4
+2024-09-10,Hosp_C_Community,Oseltamivir,120,4
+2024-09-10,Hosp_C_Community,Cough Syrup,282,1
+2024-09-11,Hosp_C_Community,Paracetamol,201,26
+2024-09-11,Hosp_C_Community,Ibuprofen,134,28
+2024-09-11,Hosp_C_Community,Amoxicillin,227,20
+2024-09-11,Hosp_C_Community,Metformin,233,1
+2024-09-11,Hosp_C_Community,Atorvastatin,88,4
+2024-09-11,Hosp_C_Community,Letrozole,285,4
+2024-09-11,Hosp_C_Community,Trastuzumab,106,4
+2024-09-11,Hosp_C_Community,Oseltamivir,131,2
+2024-09-11,Hosp_C_Community,Cough Syrup,197,4
+2024-09-12,Hosp_C_Community,Paracetamol,83,21
+2024-09-12,Hosp_C_Community,Ibuprofen,146,29
+2024-09-12,Hosp_C_Community,Amoxicillin,246,15
+2024-09-12,Hosp_C_Community,Metformin,79,2
+2024-09-12,Hosp_C_Community,Atorvastatin,281,3
+2024-09-12,Hosp_C_Community,Letrozole,87,3
+2024-09-12,Hosp_C_Community,Trastuzumab,192,3
+2024-09-12,Hosp_C_Community,Oseltamivir,270,3
+2024-09-12,Hosp_C_Community,Cough Syrup,289,4
+2024-09-13,Hosp_C_Community,Paracetamol,51,23
+2024-09-13,Hosp_C_Community,Ibuprofen,244,27
+2024-09-13,Hosp_C_Community,Amoxicillin,198,15
+2024-09-13,Hosp_C_Community,Metformin,92,4
+2024-09-13,Hosp_C_Community,Atorvastatin,131,3
+2024-09-13,Hosp_C_Community,Letrozole,246,0
+2024-09-13,Hosp_C_Community,Trastuzumab,261,3
+2024-09-13,Hosp_C_Community,Oseltamivir,75,1
+2024-09-13,Hosp_C_Community,Cough Syrup,132,2
+2024-09-14,Hosp_C_Community,Paracetamol,113,24
+2024-09-14,Hosp_C_Community,Ibuprofen,172,18
+2024-09-14,Hosp_C_Community,Amoxicillin,233,19
+2024-09-14,Hosp_C_Community,Metformin,197,0
+2024-09-14,Hosp_C_Community,Atorvastatin,96,4
+2024-09-14,Hosp_C_Community,Letrozole,230,0
+2024-09-14,Hosp_C_Community,Trastuzumab,51,1
+2024-09-14,Hosp_C_Community,Oseltamivir,196,3
+2024-09-14,Hosp_C_Community,Cough Syrup,203,2
+2024-09-15,Hosp_C_Community,Paracetamol,181,22
+2024-09-15,Hosp_C_Community,Ibuprofen,250,26
+2024-09-15,Hosp_C_Community,Amoxicillin,147,14
+2024-09-15,Hosp_C_Community,Metformin,97,0
+2024-09-15,Hosp_C_Community,Atorvastatin,109,1
+2024-09-15,Hosp_C_Community,Letrozole,189,4
+2024-09-15,Hosp_C_Community,Trastuzumab,188,3
+2024-09-15,Hosp_C_Community,Oseltamivir,164,1
+2024-09-15,Hosp_C_Community,Cough Syrup,157,3
+2024-09-16,Hosp_C_Community,Paracetamol,184,25
+2024-09-16,Hosp_C_Community,Ibuprofen,80,19
+2024-09-16,Hosp_C_Community,Amoxicillin,68,26
+2024-09-16,Hosp_C_Community,Metformin,205,2
+2024-09-16,Hosp_C_Community,Atorvastatin,278,3
+2024-09-16,Hosp_C_Community,Letrozole,62,4
+2024-09-16,Hosp_C_Community,Trastuzumab,92,2
+2024-09-16,Hosp_C_Community,Oseltamivir,225,0
+2024-09-16,Hosp_C_Community,Cough Syrup,231,1
+2024-09-17,Hosp_C_Community,Paracetamol,150,11
+2024-09-17,Hosp_C_Community,Ibuprofen,157,11
+2024-09-17,Hosp_C_Community,Amoxicillin,299,25
+2024-09-17,Hosp_C_Community,Metformin,166,2
+2024-09-17,Hosp_C_Community,Atorvastatin,155,2
+2024-09-17,Hosp_C_Community,Letrozole,249,0
+2024-09-17,Hosp_C_Community,Trastuzumab,93,4
+2024-09-17,Hosp_C_Community,Oseltamivir,269,4
+2024-09-17,Hosp_C_Community,Cough Syrup,161,0
+2024-09-18,Hosp_C_Community,Paracetamol,72,23
+2024-09-18,Hosp_C_Community,Ibuprofen,64,11
+2024-09-18,Hosp_C_Community,Amoxicillin,110,28
+2024-09-18,Hosp_C_Community,Metformin,253,0
+2024-09-18,Hosp_C_Community,Atorvastatin,101,3
+2024-09-18,Hosp_C_Community,Letrozole,244,4
+2024-09-18,Hosp_C_Community,Trastuzumab,116,0
+2024-09-18,Hosp_C_Community,Oseltamivir,224,2
+2024-09-18,Hosp_C_Community,Cough Syrup,51,3
+2024-09-19,Hosp_C_Community,Paracetamol,108,21
+2024-09-19,Hosp_C_Community,Ibuprofen,241,15
+2024-09-19,Hosp_C_Community,Amoxicillin,102,25
+2024-09-19,Hosp_C_Community,Metformin,139,4
+2024-09-19,Hosp_C_Community,Atorvastatin,122,3
+2024-09-19,Hosp_C_Community,Letrozole,240,1
+2024-09-19,Hosp_C_Community,Trastuzumab,271,3
+2024-09-19,Hosp_C_Community,Oseltamivir,165,1
+2024-09-19,Hosp_C_Community,Cough Syrup,102,4
+2024-09-20,Hosp_C_Community,Paracetamol,295,23
+2024-09-20,Hosp_C_Community,Ibuprofen,182,18
+2024-09-20,Hosp_C_Community,Amoxicillin,89,11
+2024-09-20,Hosp_C_Community,Metformin,173,4
+2024-09-20,Hosp_C_Community,Atorvastatin,248,2
+2024-09-20,Hosp_C_Community,Letrozole,127,3
+2024-09-20,Hosp_C_Community,Trastuzumab,82,0
+2024-09-20,Hosp_C_Community,Oseltamivir,93,3
+2024-09-20,Hosp_C_Community,Cough Syrup,294,3
+2024-09-21,Hosp_C_Community,Paracetamol,98,18
+2024-09-21,Hosp_C_Community,Ibuprofen,165,22
+2024-09-21,Hosp_C_Community,Amoxicillin,211,13
+2024-09-21,Hosp_C_Community,Metformin,271,4
+2024-09-21,Hosp_C_Community,Atorvastatin,74,1
+2024-09-21,Hosp_C_Community,Letrozole,177,3
+2024-09-21,Hosp_C_Community,Trastuzumab,195,4
+2024-09-21,Hosp_C_Community,Oseltamivir,68,1
+2024-09-21,Hosp_C_Community,Cough Syrup,67,0
+2024-09-22,Hosp_C_Community,Paracetamol,195,12
+2024-09-22,Hosp_C_Community,Ibuprofen,126,21
+2024-09-22,Hosp_C_Community,Amoxicillin,224,27
+2024-09-22,Hosp_C_Community,Metformin,182,2
+2024-09-22,Hosp_C_Community,Atorvastatin,299,2
+2024-09-22,Hosp_C_Community,Letrozole,252,2
+2024-09-22,Hosp_C_Community,Trastuzumab,288,1
+2024-09-22,Hosp_C_Community,Oseltamivir,96,4
+2024-09-22,Hosp_C_Community,Cough Syrup,127,0
+2024-09-23,Hosp_C_Community,Paracetamol,133,27
+2024-09-23,Hosp_C_Community,Ibuprofen,164,25
+2024-09-23,Hosp_C_Community,Amoxicillin,172,23
+2024-09-23,Hosp_C_Community,Metformin,79,4
+2024-09-23,Hosp_C_Community,Atorvastatin,185,3
+2024-09-23,Hosp_C_Community,Letrozole,90,1
+2024-09-23,Hosp_C_Community,Trastuzumab,99,1
+2024-09-23,Hosp_C_Community,Oseltamivir,104,1
+2024-09-23,Hosp_C_Community,Cough Syrup,177,0
+2024-09-24,Hosp_C_Community,Paracetamol,229,17
+2024-09-24,Hosp_C_Community,Ibuprofen,57,17
+2024-09-24,Hosp_C_Community,Amoxicillin,153,10
+2024-09-24,Hosp_C_Community,Metformin,83,3
+2024-09-24,Hosp_C_Community,Atorvastatin,256,3
+2024-09-24,Hosp_C_Community,Letrozole,237,0
+2024-09-24,Hosp_C_Community,Trastuzumab,276,4
+2024-09-24,Hosp_C_Community,Oseltamivir,232,2
+2024-09-24,Hosp_C_Community,Cough Syrup,135,4
+2024-09-25,Hosp_C_Community,Paracetamol,82,18
+2024-09-25,Hosp_C_Community,Ibuprofen,285,13
+2024-09-25,Hosp_C_Community,Amoxicillin,263,22
+2024-09-25,Hosp_C_Community,Metformin,184,3
+2024-09-25,Hosp_C_Community,Atorvastatin,222,2
+2024-09-25,Hosp_C_Community,Letrozole,250,0
+2024-09-25,Hosp_C_Community,Trastuzumab,169,1
+2024-09-25,Hosp_C_Community,Oseltamivir,60,3
+2024-09-25,Hosp_C_Community,Cough Syrup,173,2
+2024-09-26,Hosp_C_Community,Paracetamol,250,14
+2024-09-26,Hosp_C_Community,Ibuprofen,264,10
+2024-09-26,Hosp_C_Community,Amoxicillin,151,23
+2024-09-26,Hosp_C_Community,Metformin,194,0
+2024-09-26,Hosp_C_Community,Atorvastatin,132,0
+2024-09-26,Hosp_C_Community,Letrozole,178,4
+2024-09-26,Hosp_C_Community,Trastuzumab,287,2
+2024-09-26,Hosp_C_Community,Oseltamivir,247,2
+2024-09-26,Hosp_C_Community,Cough Syrup,55,0
+2024-09-27,Hosp_C_Community,Paracetamol,190,21
+2024-09-27,Hosp_C_Community,Ibuprofen,59,10
+2024-09-27,Hosp_C_Community,Amoxicillin,273,17
+2024-09-27,Hosp_C_Community,Metformin,198,1
+2024-09-27,Hosp_C_Community,Atorvastatin,243,3
+2024-09-27,Hosp_C_Community,Letrozole,58,2
+2024-09-27,Hosp_C_Community,Trastuzumab,103,1
+2024-09-27,Hosp_C_Community,Oseltamivir,262,3
+2024-09-27,Hosp_C_Community,Cough Syrup,149,1
+2024-09-28,Hosp_C_Community,Paracetamol,220,28
+2024-09-28,Hosp_C_Community,Ibuprofen,113,16
+2024-09-28,Hosp_C_Community,Amoxicillin,83,25
+2024-09-28,Hosp_C_Community,Metformin,61,0
+2024-09-28,Hosp_C_Community,Atorvastatin,170,4
+2024-09-28,Hosp_C_Community,Letrozole,136,4
+2024-09-28,Hosp_C_Community,Trastuzumab,163,2
+2024-09-28,Hosp_C_Community,Oseltamivir,242,1
+2024-09-28,Hosp_C_Community,Cough Syrup,286,4
+2024-09-29,Hosp_C_Community,Paracetamol,158,10
+2024-09-29,Hosp_C_Community,Ibuprofen,119,14
+2024-09-29,Hosp_C_Community,Amoxicillin,170,22
+2024-09-29,Hosp_C_Community,Metformin,109,1
+2024-09-29,Hosp_C_Community,Atorvastatin,142,3
+2024-09-29,Hosp_C_Community,Letrozole,152,2
+2024-09-29,Hosp_C_Community,Trastuzumab,161,0
+2024-09-29,Hosp_C_Community,Oseltamivir,204,3
+2024-09-29,Hosp_C_Community,Cough Syrup,196,2
+2024-09-30,Hosp_C_Community,Paracetamol,153,19
+2024-09-30,Hosp_C_Community,Ibuprofen,299,19
+2024-09-30,Hosp_C_Community,Amoxicillin,118,19
+2024-09-30,Hosp_C_Community,Metformin,163,4
+2024-09-30,Hosp_C_Community,Atorvastatin,201,2
+2024-09-30,Hosp_C_Community,Letrozole,281,0
+2024-09-30,Hosp_C_Community,Trastuzumab,278,4
+2024-09-30,Hosp_C_Community,Oseltamivir,51,1
+2024-09-30,Hosp_C_Community,Cough Syrup,280,0
+2024-10-01,Hosp_C_Community,Paracetamol,287,14
+2024-10-01,Hosp_C_Community,Ibuprofen,73,20
+2024-10-01,Hosp_C_Community,Amoxicillin,66,14
+2024-10-01,Hosp_C_Community,Metformin,69,2
+2024-10-01,Hosp_C_Community,Atorvastatin,214,1
+2024-10-01,Hosp_C_Community,Letrozole,192,2
+2024-10-01,Hosp_C_Community,Trastuzumab,225,4
+2024-10-01,Hosp_C_Community,Oseltamivir,225,2
+2024-10-01,Hosp_C_Community,Cough Syrup,242,0
+2024-10-02,Hosp_C_Community,Paracetamol,161,23
+2024-10-02,Hosp_C_Community,Ibuprofen,180,26
+2024-10-02,Hosp_C_Community,Amoxicillin,294,23
+2024-10-02,Hosp_C_Community,Metformin,163,2
+2024-10-02,Hosp_C_Community,Atorvastatin,175,2
+2024-10-02,Hosp_C_Community,Letrozole,276,3
+2024-10-02,Hosp_C_Community,Trastuzumab,231,4
+2024-10-02,Hosp_C_Community,Oseltamivir,59,0
+2024-10-02,Hosp_C_Community,Cough Syrup,210,4
+2024-10-03,Hosp_C_Community,Paracetamol,183,29
+2024-10-03,Hosp_C_Community,Ibuprofen,188,21
+2024-10-03,Hosp_C_Community,Amoxicillin,289,27
+2024-10-03,Hosp_C_Community,Metformin,62,2
+2024-10-03,Hosp_C_Community,Atorvastatin,96,3
+2024-10-03,Hosp_C_Community,Letrozole,198,1
+2024-10-03,Hosp_C_Community,Trastuzumab,208,3
+2024-10-03,Hosp_C_Community,Oseltamivir,174,4
+2024-10-03,Hosp_C_Community,Cough Syrup,70,0
+2024-10-04,Hosp_C_Community,Paracetamol,184,25
+2024-10-04,Hosp_C_Community,Ibuprofen,232,23
+2024-10-04,Hosp_C_Community,Amoxicillin,150,18
+2024-10-04,Hosp_C_Community,Metformin,181,3
+2024-10-04,Hosp_C_Community,Atorvastatin,97,0
+2024-10-04,Hosp_C_Community,Letrozole,160,3
+2024-10-04,Hosp_C_Community,Trastuzumab,119,4
+2024-10-04,Hosp_C_Community,Oseltamivir,277,4
+2024-10-04,Hosp_C_Community,Cough Syrup,289,0
+2024-10-05,Hosp_C_Community,Paracetamol,239,11
+2024-10-05,Hosp_C_Community,Ibuprofen,189,26
+2024-10-05,Hosp_C_Community,Amoxicillin,56,20
+2024-10-05,Hosp_C_Community,Metformin,117,4
+2024-10-05,Hosp_C_Community,Atorvastatin,87,2
+2024-10-05,Hosp_C_Community,Letrozole,50,0
+2024-10-05,Hosp_C_Community,Trastuzumab,91,3
+2024-10-05,Hosp_C_Community,Oseltamivir,201,4
+2024-10-05,Hosp_C_Community,Cough Syrup,284,0
+2024-10-06,Hosp_C_Community,Paracetamol,119,23
+2024-10-06,Hosp_C_Community,Ibuprofen,220,13
+2024-10-06,Hosp_C_Community,Amoxicillin,105,18
+2024-10-06,Hosp_C_Community,Metformin,297,2
+2024-10-06,Hosp_C_Community,Atorvastatin,267,2
+2024-10-06,Hosp_C_Community,Letrozole,268,3
+2024-10-06,Hosp_C_Community,Trastuzumab,273,0
+2024-10-06,Hosp_C_Community,Oseltamivir,106,4
+2024-10-06,Hosp_C_Community,Cough Syrup,295,2
+2024-10-07,Hosp_C_Community,Paracetamol,126,21
+2024-10-07,Hosp_C_Community,Ibuprofen,57,24
+2024-10-07,Hosp_C_Community,Amoxicillin,75,21
+2024-10-07,Hosp_C_Community,Metformin,92,2
+2024-10-07,Hosp_C_Community,Atorvastatin,159,2
+2024-10-07,Hosp_C_Community,Letrozole,259,4
+2024-10-07,Hosp_C_Community,Trastuzumab,149,0
+2024-10-07,Hosp_C_Community,Oseltamivir,164,2
+2024-10-07,Hosp_C_Community,Cough Syrup,186,0
+2024-10-08,Hosp_C_Community,Paracetamol,143,26
+2024-10-08,Hosp_C_Community,Ibuprofen,198,13
+2024-10-08,Hosp_C_Community,Amoxicillin,102,15
+2024-10-08,Hosp_C_Community,Metformin,253,0
+2024-10-08,Hosp_C_Community,Atorvastatin,103,0
+2024-10-08,Hosp_C_Community,Letrozole,69,0
+2024-10-08,Hosp_C_Community,Trastuzumab,98,1
+2024-10-08,Hosp_C_Community,Oseltamivir,184,4
+2024-10-08,Hosp_C_Community,Cough Syrup,97,4
+2024-10-09,Hosp_C_Community,Paracetamol,97,25
+2024-10-09,Hosp_C_Community,Ibuprofen,161,23
+2024-10-09,Hosp_C_Community,Amoxicillin,55,11
+2024-10-09,Hosp_C_Community,Metformin,240,3
+2024-10-09,Hosp_C_Community,Atorvastatin,62,3
+2024-10-09,Hosp_C_Community,Letrozole,154,1
+2024-10-09,Hosp_C_Community,Trastuzumab,291,4
+2024-10-09,Hosp_C_Community,Oseltamivir,63,3
+2024-10-09,Hosp_C_Community,Cough Syrup,170,3
+2024-10-10,Hosp_C_Community,Paracetamol,97,10
+2024-10-10,Hosp_C_Community,Ibuprofen,296,15
+2024-10-10,Hosp_C_Community,Amoxicillin,156,25
+2024-10-10,Hosp_C_Community,Metformin,182,2
+2024-10-10,Hosp_C_Community,Atorvastatin,114,0
+2024-10-10,Hosp_C_Community,Letrozole,131,4
+2024-10-10,Hosp_C_Community,Trastuzumab,171,2
+2024-10-10,Hosp_C_Community,Oseltamivir,201,3
+2024-10-10,Hosp_C_Community,Cough Syrup,59,0
+2024-10-11,Hosp_C_Community,Paracetamol,114,15
+2024-10-11,Hosp_C_Community,Ibuprofen,244,14
+2024-10-11,Hosp_C_Community,Amoxicillin,93,20
+2024-10-11,Hosp_C_Community,Metformin,126,1
+2024-10-11,Hosp_C_Community,Atorvastatin,176,0
+2024-10-11,Hosp_C_Community,Letrozole,258,4
+2024-10-11,Hosp_C_Community,Trastuzumab,252,3
+2024-10-11,Hosp_C_Community,Oseltamivir,59,4
+2024-10-11,Hosp_C_Community,Cough Syrup,97,1
+2024-10-12,Hosp_C_Community,Paracetamol,270,28
+2024-10-12,Hosp_C_Community,Ibuprofen,213,16
+2024-10-12,Hosp_C_Community,Amoxicillin,168,21
+2024-10-12,Hosp_C_Community,Metformin,259,3
+2024-10-12,Hosp_C_Community,Atorvastatin,240,4
+2024-10-12,Hosp_C_Community,Letrozole,264,1
+2024-10-12,Hosp_C_Community,Trastuzumab,155,3
+2024-10-12,Hosp_C_Community,Oseltamivir,89,2
+2024-10-12,Hosp_C_Community,Cough Syrup,96,0
+2024-10-13,Hosp_C_Community,Paracetamol,51,10
+2024-10-13,Hosp_C_Community,Ibuprofen,272,21
+2024-10-13,Hosp_C_Community,Amoxicillin,65,19
+2024-10-13,Hosp_C_Community,Metformin,195,0
+2024-10-13,Hosp_C_Community,Atorvastatin,79,1
+2024-10-13,Hosp_C_Community,Letrozole,276,1
+2024-10-13,Hosp_C_Community,Trastuzumab,111,4
+2024-10-13,Hosp_C_Community,Oseltamivir,257,2
+2024-10-13,Hosp_C_Community,Cough Syrup,90,2
+2024-10-14,Hosp_C_Community,Paracetamol,110,18
+2024-10-14,Hosp_C_Community,Ibuprofen,182,24
+2024-10-14,Hosp_C_Community,Amoxicillin,99,13
+2024-10-14,Hosp_C_Community,Metformin,100,3
+2024-10-14,Hosp_C_Community,Atorvastatin,171,1
+2024-10-14,Hosp_C_Community,Letrozole,57,0
+2024-10-14,Hosp_C_Community,Trastuzumab,94,4
+2024-10-14,Hosp_C_Community,Oseltamivir,77,2
+2024-10-14,Hosp_C_Community,Cough Syrup,76,0
+2024-10-15,Hosp_C_Community,Paracetamol,52,15
+2024-10-15,Hosp_C_Community,Ibuprofen,254,19
+2024-10-15,Hosp_C_Community,Amoxicillin,260,17
+2024-10-15,Hosp_C_Community,Metformin,227,2
+2024-10-15,Hosp_C_Community,Atorvastatin,73,0
+2024-10-15,Hosp_C_Community,Letrozole,89,1
+2024-10-15,Hosp_C_Community,Trastuzumab,243,3
+2024-10-15,Hosp_C_Community,Oseltamivir,200,1
+2024-10-15,Hosp_C_Community,Cough Syrup,198,2
+2024-10-16,Hosp_C_Community,Paracetamol,142,28
+2024-10-16,Hosp_C_Community,Ibuprofen,132,15
+2024-10-16,Hosp_C_Community,Amoxicillin,286,28
+2024-10-16,Hosp_C_Community,Metformin,126,2
+2024-10-16,Hosp_C_Community,Atorvastatin,75,4
+2024-10-16,Hosp_C_Community,Letrozole,277,1
+2024-10-16,Hosp_C_Community,Trastuzumab,224,3
+2024-10-16,Hosp_C_Community,Oseltamivir,207,2
+2024-10-16,Hosp_C_Community,Cough Syrup,120,3
+2024-10-17,Hosp_C_Community,Paracetamol,184,29
+2024-10-17,Hosp_C_Community,Ibuprofen,101,20
+2024-10-17,Hosp_C_Community,Amoxicillin,204,23
+2024-10-17,Hosp_C_Community,Metformin,135,3
+2024-10-17,Hosp_C_Community,Atorvastatin,290,1
+2024-10-17,Hosp_C_Community,Letrozole,201,4
+2024-10-17,Hosp_C_Community,Trastuzumab,287,1
+2024-10-17,Hosp_C_Community,Oseltamivir,135,0
+2024-10-17,Hosp_C_Community,Cough Syrup,194,1
+2024-10-18,Hosp_C_Community,Paracetamol,67,25
+2024-10-18,Hosp_C_Community,Ibuprofen,264,20
+2024-10-18,Hosp_C_Community,Amoxicillin,278,18
+2024-10-18,Hosp_C_Community,Metformin,180,3
+2024-10-18,Hosp_C_Community,Atorvastatin,253,3
+2024-10-18,Hosp_C_Community,Letrozole,272,0
+2024-10-18,Hosp_C_Community,Trastuzumab,294,1
+2024-10-18,Hosp_C_Community,Oseltamivir,113,4
+2024-10-18,Hosp_C_Community,Cough Syrup,154,3
+2024-10-19,Hosp_C_Community,Paracetamol,162,20
+2024-10-19,Hosp_C_Community,Ibuprofen,83,28
+2024-10-19,Hosp_C_Community,Amoxicillin,120,27
+2024-10-19,Hosp_C_Community,Metformin,89,3
+2024-10-19,Hosp_C_Community,Atorvastatin,294,3
+2024-10-19,Hosp_C_Community,Letrozole,172,3
+2024-10-19,Hosp_C_Community,Trastuzumab,258,4
+2024-10-19,Hosp_C_Community,Oseltamivir,221,0
+2024-10-19,Hosp_C_Community,Cough Syrup,107,3
+2024-10-20,Hosp_C_Community,Paracetamol,245,19
+2024-10-20,Hosp_C_Community,Ibuprofen,276,16
+2024-10-20,Hosp_C_Community,Amoxicillin,283,22
+2024-10-20,Hosp_C_Community,Metformin,245,1
+2024-10-20,Hosp_C_Community,Atorvastatin,92,0
+2024-10-20,Hosp_C_Community,Letrozole,213,1
+2024-10-20,Hosp_C_Community,Trastuzumab,121,2
+2024-10-20,Hosp_C_Community,Oseltamivir,177,1
+2024-10-20,Hosp_C_Community,Cough Syrup,214,3
+2024-10-21,Hosp_C_Community,Paracetamol,223,29
+2024-10-21,Hosp_C_Community,Ibuprofen,155,21
+2024-10-21,Hosp_C_Community,Amoxicillin,109,10
+2024-10-21,Hosp_C_Community,Metformin,166,0
+2024-10-21,Hosp_C_Community,Atorvastatin,154,2
+2024-10-21,Hosp_C_Community,Letrozole,234,1
+2024-10-21,Hosp_C_Community,Trastuzumab,269,0
+2024-10-21,Hosp_C_Community,Oseltamivir,135,1
+2024-10-21,Hosp_C_Community,Cough Syrup,294,3
+2024-10-22,Hosp_C_Community,Paracetamol,215,11
+2024-10-22,Hosp_C_Community,Ibuprofen,254,20
+2024-10-22,Hosp_C_Community,Amoxicillin,82,11
+2024-10-22,Hosp_C_Community,Metformin,207,0
+2024-10-22,Hosp_C_Community,Atorvastatin,153,1
+2024-10-22,Hosp_C_Community,Letrozole,151,4
+2024-10-22,Hosp_C_Community,Trastuzumab,225,2
+2024-10-22,Hosp_C_Community,Oseltamivir,129,4
+2024-10-22,Hosp_C_Community,Cough Syrup,267,3
+2024-10-23,Hosp_C_Community,Paracetamol,193,29
+2024-10-23,Hosp_C_Community,Ibuprofen,273,26
+2024-10-23,Hosp_C_Community,Amoxicillin,257,15
+2024-10-23,Hosp_C_Community,Metformin,249,2
+2024-10-23,Hosp_C_Community,Atorvastatin,207,0
+2024-10-23,Hosp_C_Community,Letrozole,235,1
+2024-10-23,Hosp_C_Community,Trastuzumab,127,3
+2024-10-23,Hosp_C_Community,Oseltamivir,66,3
+2024-10-23,Hosp_C_Community,Cough Syrup,64,1
+2024-10-24,Hosp_C_Community,Paracetamol,73,29
+2024-10-24,Hosp_C_Community,Ibuprofen,62,29
+2024-10-24,Hosp_C_Community,Amoxicillin,128,13
+2024-10-24,Hosp_C_Community,Metformin,231,1
+2024-10-24,Hosp_C_Community,Atorvastatin,77,1
+2024-10-24,Hosp_C_Community,Letrozole,179,0
+2024-10-24,Hosp_C_Community,Trastuzumab,160,1
+2024-10-24,Hosp_C_Community,Oseltamivir,228,1
+2024-10-24,Hosp_C_Community,Cough Syrup,133,1
+2024-10-25,Hosp_C_Community,Paracetamol,211,28
+2024-10-25,Hosp_C_Community,Ibuprofen,245,29
+2024-10-25,Hosp_C_Community,Amoxicillin,216,16
+2024-10-25,Hosp_C_Community,Metformin,194,2
+2024-10-25,Hosp_C_Community,Atorvastatin,167,2
+2024-10-25,Hosp_C_Community,Letrozole,209,0
+2024-10-25,Hosp_C_Community,Trastuzumab,212,0
+2024-10-25,Hosp_C_Community,Oseltamivir,91,4
+2024-10-25,Hosp_C_Community,Cough Syrup,247,3
+2024-10-26,Hosp_C_Community,Paracetamol,295,15
+2024-10-26,Hosp_C_Community,Ibuprofen,294,23
+2024-10-26,Hosp_C_Community,Amoxicillin,143,19
+2024-10-26,Hosp_C_Community,Metformin,203,2
+2024-10-26,Hosp_C_Community,Atorvastatin,185,3
+2024-10-26,Hosp_C_Community,Letrozole,121,1
+2024-10-26,Hosp_C_Community,Trastuzumab,193,0
+2024-10-26,Hosp_C_Community,Oseltamivir,190,3
+2024-10-26,Hosp_C_Community,Cough Syrup,268,0
+2024-10-27,Hosp_C_Community,Paracetamol,228,14
+2024-10-27,Hosp_C_Community,Ibuprofen,104,14
+2024-10-27,Hosp_C_Community,Amoxicillin,69,13
+2024-10-27,Hosp_C_Community,Metformin,83,1
+2024-10-27,Hosp_C_Community,Atorvastatin,158,1
+2024-10-27,Hosp_C_Community,Letrozole,260,0
+2024-10-27,Hosp_C_Community,Trastuzumab,182,0
+2024-10-27,Hosp_C_Community,Oseltamivir,195,3
+2024-10-27,Hosp_C_Community,Cough Syrup,232,4
+2024-10-28,Hosp_C_Community,Paracetamol,255,15
+2024-10-28,Hosp_C_Community,Ibuprofen,255,26
+2024-10-28,Hosp_C_Community,Amoxicillin,67,29
+2024-10-28,Hosp_C_Community,Metformin,164,0
+2024-10-28,Hosp_C_Community,Atorvastatin,257,3
+2024-10-28,Hosp_C_Community,Letrozole,81,3
+2024-10-28,Hosp_C_Community,Trastuzumab,157,0
+2024-10-28,Hosp_C_Community,Oseltamivir,76,3
+2024-10-28,Hosp_C_Community,Cough Syrup,146,1
+2024-10-29,Hosp_C_Community,Paracetamol,217,11
+2024-10-29,Hosp_C_Community,Ibuprofen,146,25
+2024-10-29,Hosp_C_Community,Amoxicillin,88,20
+2024-10-29,Hosp_C_Community,Metformin,176,4
+2024-10-29,Hosp_C_Community,Atorvastatin,175,1
+2024-10-29,Hosp_C_Community,Letrozole,255,0
+2024-10-29,Hosp_C_Community,Trastuzumab,77,1
+2024-10-29,Hosp_C_Community,Oseltamivir,241,0
+2024-10-29,Hosp_C_Community,Cough Syrup,168,3
+2024-10-30,Hosp_C_Community,Paracetamol,193,25
+2024-10-30,Hosp_C_Community,Ibuprofen,84,26
+2024-10-30,Hosp_C_Community,Amoxicillin,250,12
+2024-10-30,Hosp_C_Community,Metformin,101,4
+2024-10-30,Hosp_C_Community,Atorvastatin,280,1
+2024-10-30,Hosp_C_Community,Letrozole,189,2
+2024-10-30,Hosp_C_Community,Trastuzumab,97,2
+2024-10-30,Hosp_C_Community,Oseltamivir,297,0
+2024-10-30,Hosp_C_Community,Cough Syrup,101,0
+2024-10-31,Hosp_C_Community,Paracetamol,198,25
+2024-10-31,Hosp_C_Community,Ibuprofen,114,13
+2024-10-31,Hosp_C_Community,Amoxicillin,291,17
+2024-10-31,Hosp_C_Community,Metformin,293,4
+2024-10-31,Hosp_C_Community,Atorvastatin,92,3
+2024-10-31,Hosp_C_Community,Letrozole,230,4
+2024-10-31,Hosp_C_Community,Trastuzumab,134,2
+2024-10-31,Hosp_C_Community,Oseltamivir,68,2
+2024-10-31,Hosp_C_Community,Cough Syrup,99,2
+2024-11-01,Hosp_C_Community,Paracetamol,135,11
+2024-11-01,Hosp_C_Community,Ibuprofen,282,26
+2024-11-01,Hosp_C_Community,Amoxicillin,227,22
+2024-11-01,Hosp_C_Community,Metformin,114,3
+2024-11-01,Hosp_C_Community,Atorvastatin,69,3
+2024-11-01,Hosp_C_Community,Letrozole,262,4
+2024-11-01,Hosp_C_Community,Trastuzumab,121,2
+2024-11-01,Hosp_C_Community,Oseltamivir,224,2
+2024-11-01,Hosp_C_Community,Cough Syrup,276,3
+2024-11-02,Hosp_C_Community,Paracetamol,179,23
+2024-11-02,Hosp_C_Community,Ibuprofen,252,20
+2024-11-02,Hosp_C_Community,Amoxicillin,130,13
+2024-11-02,Hosp_C_Community,Metformin,62,0
+2024-11-02,Hosp_C_Community,Atorvastatin,94,0
+2024-11-02,Hosp_C_Community,Letrozole,188,3
+2024-11-02,Hosp_C_Community,Trastuzumab,148,3
+2024-11-02,Hosp_C_Community,Oseltamivir,240,4
+2024-11-02,Hosp_C_Community,Cough Syrup,154,1
+2024-11-03,Hosp_C_Community,Paracetamol,136,20
+2024-11-03,Hosp_C_Community,Ibuprofen,208,15
+2024-11-03,Hosp_C_Community,Amoxicillin,60,22
+2024-11-03,Hosp_C_Community,Metformin,61,1
+2024-11-03,Hosp_C_Community,Atorvastatin,102,2
+2024-11-03,Hosp_C_Community,Letrozole,296,3
+2024-11-03,Hosp_C_Community,Trastuzumab,194,3
+2024-11-03,Hosp_C_Community,Oseltamivir,269,2
+2024-11-03,Hosp_C_Community,Cough Syrup,73,2
+2024-11-04,Hosp_C_Community,Paracetamol,237,16
+2024-11-04,Hosp_C_Community,Ibuprofen,139,10
+2024-11-04,Hosp_C_Community,Amoxicillin,209,24
+2024-11-04,Hosp_C_Community,Metformin,293,4
+2024-11-04,Hosp_C_Community,Atorvastatin,195,3
+2024-11-04,Hosp_C_Community,Letrozole,171,4
+2024-11-04,Hosp_C_Community,Trastuzumab,201,1
+2024-11-04,Hosp_C_Community,Oseltamivir,132,3
+2024-11-04,Hosp_C_Community,Cough Syrup,160,0
+2024-11-05,Hosp_C_Community,Paracetamol,56,28
+2024-11-05,Hosp_C_Community,Ibuprofen,280,12
+2024-11-05,Hosp_C_Community,Amoxicillin,281,10
+2024-11-05,Hosp_C_Community,Metformin,210,1
+2024-11-05,Hosp_C_Community,Atorvastatin,234,3
+2024-11-05,Hosp_C_Community,Letrozole,255,3
+2024-11-05,Hosp_C_Community,Trastuzumab,87,3
+2024-11-05,Hosp_C_Community,Oseltamivir,198,3
+2024-11-05,Hosp_C_Community,Cough Syrup,146,0
+2024-11-06,Hosp_C_Community,Paracetamol,198,17
+2024-11-06,Hosp_C_Community,Ibuprofen,285,29
+2024-11-06,Hosp_C_Community,Amoxicillin,275,19
+2024-11-06,Hosp_C_Community,Metformin,100,0
+2024-11-06,Hosp_C_Community,Atorvastatin,298,0
+2024-11-06,Hosp_C_Community,Letrozole,87,3
+2024-11-06,Hosp_C_Community,Trastuzumab,234,2
+2024-11-06,Hosp_C_Community,Oseltamivir,236,0
+2024-11-06,Hosp_C_Community,Cough Syrup,211,2
+2024-11-07,Hosp_C_Community,Paracetamol,236,20
+2024-11-07,Hosp_C_Community,Ibuprofen,152,27
+2024-11-07,Hosp_C_Community,Amoxicillin,53,14
+2024-11-07,Hosp_C_Community,Metformin,117,3
+2024-11-07,Hosp_C_Community,Atorvastatin,172,4
+2024-11-07,Hosp_C_Community,Letrozole,129,0
+2024-11-07,Hosp_C_Community,Trastuzumab,255,2
+2024-11-07,Hosp_C_Community,Oseltamivir,206,1
+2024-11-07,Hosp_C_Community,Cough Syrup,263,2
+2024-11-08,Hosp_C_Community,Paracetamol,206,15
+2024-11-08,Hosp_C_Community,Ibuprofen,218,22
+2024-11-08,Hosp_C_Community,Amoxicillin,186,22
+2024-11-08,Hosp_C_Community,Metformin,214,4
+2024-11-08,Hosp_C_Community,Atorvastatin,122,2
+2024-11-08,Hosp_C_Community,Letrozole,232,0
+2024-11-08,Hosp_C_Community,Trastuzumab,145,2
+2024-11-08,Hosp_C_Community,Oseltamivir,83,1
+2024-11-08,Hosp_C_Community,Cough Syrup,224,0
+2024-11-09,Hosp_C_Community,Paracetamol,281,26
+2024-11-09,Hosp_C_Community,Ibuprofen,117,28
+2024-11-09,Hosp_C_Community,Amoxicillin,103,18
+2024-11-09,Hosp_C_Community,Metformin,200,3
+2024-11-09,Hosp_C_Community,Atorvastatin,122,4
+2024-11-09,Hosp_C_Community,Letrozole,282,4
+2024-11-09,Hosp_C_Community,Trastuzumab,257,0
+2024-11-09,Hosp_C_Community,Oseltamivir,75,0
+2024-11-09,Hosp_C_Community,Cough Syrup,112,4
+2024-11-10,Hosp_C_Community,Paracetamol,229,25
+2024-11-10,Hosp_C_Community,Ibuprofen,279,26
+2024-11-10,Hosp_C_Community,Amoxicillin,282,28
+2024-11-10,Hosp_C_Community,Metformin,195,0
+2024-11-10,Hosp_C_Community,Atorvastatin,168,4
+2024-11-10,Hosp_C_Community,Letrozole,109,3
+2024-11-10,Hosp_C_Community,Trastuzumab,252,3
+2024-11-10,Hosp_C_Community,Oseltamivir,162,3
+2024-11-10,Hosp_C_Community,Cough Syrup,250,0
+2024-11-11,Hosp_C_Community,Paracetamol,186,24
+2024-11-11,Hosp_C_Community,Ibuprofen,254,25
+2024-11-11,Hosp_C_Community,Amoxicillin,81,11
+2024-11-11,Hosp_C_Community,Metformin,267,2
+2024-11-11,Hosp_C_Community,Atorvastatin,87,1
+2024-11-11,Hosp_C_Community,Letrozole,185,3
+2024-11-11,Hosp_C_Community,Trastuzumab,70,2
+2024-11-11,Hosp_C_Community,Oseltamivir,169,3
+2024-11-11,Hosp_C_Community,Cough Syrup,95,3
+2024-11-12,Hosp_C_Community,Paracetamol,149,11
+2024-11-12,Hosp_C_Community,Ibuprofen,107,13
+2024-11-12,Hosp_C_Community,Amoxicillin,121,22
+2024-11-12,Hosp_C_Community,Metformin,283,1
+2024-11-12,Hosp_C_Community,Atorvastatin,186,0
+2024-11-12,Hosp_C_Community,Letrozole,126,1
+2024-11-12,Hosp_C_Community,Trastuzumab,256,1
+2024-11-12,Hosp_C_Community,Oseltamivir,92,4
+2024-11-12,Hosp_C_Community,Cough Syrup,144,4
+2024-11-13,Hosp_C_Community,Paracetamol,65,14
+2024-11-13,Hosp_C_Community,Ibuprofen,51,29
+2024-11-13,Hosp_C_Community,Amoxicillin,141,18
+2024-11-13,Hosp_C_Community,Metformin,231,2
+2024-11-13,Hosp_C_Community,Atorvastatin,80,0
+2024-11-13,Hosp_C_Community,Letrozole,213,2
+2024-11-13,Hosp_C_Community,Trastuzumab,114,1
+2024-11-13,Hosp_C_Community,Oseltamivir,270,0
+2024-11-13,Hosp_C_Community,Cough Syrup,249,0
+2024-11-14,Hosp_C_Community,Paracetamol,161,22
+2024-11-14,Hosp_C_Community,Ibuprofen,76,18
+2024-11-14,Hosp_C_Community,Amoxicillin,120,25
+2024-11-14,Hosp_C_Community,Metformin,251,0
+2024-11-14,Hosp_C_Community,Atorvastatin,135,0
+2024-11-14,Hosp_C_Community,Letrozole,76,4
+2024-11-14,Hosp_C_Community,Trastuzumab,130,3
+2024-11-14,Hosp_C_Community,Oseltamivir,248,2
+2024-11-14,Hosp_C_Community,Cough Syrup,281,3
+2024-11-15,Hosp_C_Community,Paracetamol,53,13
+2024-11-15,Hosp_C_Community,Ibuprofen,227,12
+2024-11-15,Hosp_C_Community,Amoxicillin,50,26
+2024-11-15,Hosp_C_Community,Metformin,248,4
+2024-11-15,Hosp_C_Community,Atorvastatin,196,1
+2024-11-15,Hosp_C_Community,Letrozole,276,0
+2024-11-15,Hosp_C_Community,Trastuzumab,257,1
+2024-11-15,Hosp_C_Community,Oseltamivir,224,2
+2024-11-15,Hosp_C_Community,Cough Syrup,282,1
+2024-11-16,Hosp_C_Community,Paracetamol,138,28
+2024-11-16,Hosp_C_Community,Ibuprofen,62,20
+2024-11-16,Hosp_C_Community,Amoxicillin,101,28
+2024-11-16,Hosp_C_Community,Metformin,66,4
+2024-11-16,Hosp_C_Community,Atorvastatin,62,2
+2024-11-16,Hosp_C_Community,Letrozole,133,0
+2024-11-16,Hosp_C_Community,Trastuzumab,155,4
+2024-11-16,Hosp_C_Community,Oseltamivir,153,2
+2024-11-16,Hosp_C_Community,Cough Syrup,247,3
+2024-11-17,Hosp_C_Community,Paracetamol,179,25
+2024-11-17,Hosp_C_Community,Ibuprofen,167,14
+2024-11-17,Hosp_C_Community,Amoxicillin,86,21
+2024-11-17,Hosp_C_Community,Metformin,148,4
+2024-11-17,Hosp_C_Community,Atorvastatin,65,3
+2024-11-17,Hosp_C_Community,Letrozole,126,3
+2024-11-17,Hosp_C_Community,Trastuzumab,219,1
+2024-11-17,Hosp_C_Community,Oseltamivir,113,4
+2024-11-17,Hosp_C_Community,Cough Syrup,180,0
+2024-11-18,Hosp_C_Community,Paracetamol,296,11
+2024-11-18,Hosp_C_Community,Ibuprofen,80,21
+2024-11-18,Hosp_C_Community,Amoxicillin,292,21
+2024-11-18,Hosp_C_Community,Metformin,129,2
+2024-11-18,Hosp_C_Community,Atorvastatin,243,3
+2024-11-18,Hosp_C_Community,Letrozole,182,2
+2024-11-18,Hosp_C_Community,Trastuzumab,299,0
+2024-11-18,Hosp_C_Community,Oseltamivir,84,2
+2024-11-18,Hosp_C_Community,Cough Syrup,71,4
+2024-11-19,Hosp_C_Community,Paracetamol,121,11
+2024-11-19,Hosp_C_Community,Ibuprofen,153,10
+2024-11-19,Hosp_C_Community,Amoxicillin,145,26
+2024-11-19,Hosp_C_Community,Metformin,164,4
+2024-11-19,Hosp_C_Community,Atorvastatin,271,3
+2024-11-19,Hosp_C_Community,Letrozole,129,1
+2024-11-19,Hosp_C_Community,Trastuzumab,291,1
+2024-11-19,Hosp_C_Community,Oseltamivir,96,1
+2024-11-19,Hosp_C_Community,Cough Syrup,238,0
+2024-11-20,Hosp_C_Community,Paracetamol,184,21
+2024-11-20,Hosp_C_Community,Ibuprofen,275,19
+2024-11-20,Hosp_C_Community,Amoxicillin,118,12
+2024-11-20,Hosp_C_Community,Metformin,132,4
+2024-11-20,Hosp_C_Community,Atorvastatin,93,2
+2024-11-20,Hosp_C_Community,Letrozole,247,3
+2024-11-20,Hosp_C_Community,Trastuzumab,286,2
+2024-11-20,Hosp_C_Community,Oseltamivir,67,4
+2024-11-20,Hosp_C_Community,Cough Syrup,276,3
+2024-11-21,Hosp_C_Community,Paracetamol,165,13
+2024-11-21,Hosp_C_Community,Ibuprofen,279,13
+2024-11-21,Hosp_C_Community,Amoxicillin,54,18
+2024-11-21,Hosp_C_Community,Metformin,157,4
+2024-11-21,Hosp_C_Community,Atorvastatin,150,4
+2024-11-21,Hosp_C_Community,Letrozole,124,2
+2024-11-21,Hosp_C_Community,Trastuzumab,62,3
+2024-11-21,Hosp_C_Community,Oseltamivir,249,0
+2024-11-21,Hosp_C_Community,Cough Syrup,259,2
+2024-11-22,Hosp_C_Community,Paracetamol,183,25
+2024-11-22,Hosp_C_Community,Ibuprofen,155,13
+2024-11-22,Hosp_C_Community,Amoxicillin,209,22
+2024-11-22,Hosp_C_Community,Metformin,91,4
+2024-11-22,Hosp_C_Community,Atorvastatin,159,0
+2024-11-22,Hosp_C_Community,Letrozole,252,1
+2024-11-22,Hosp_C_Community,Trastuzumab,124,0
+2024-11-22,Hosp_C_Community,Oseltamivir,179,2
+2024-11-22,Hosp_C_Community,Cough Syrup,60,1
+2024-11-23,Hosp_C_Community,Paracetamol,77,19
+2024-11-23,Hosp_C_Community,Ibuprofen,263,26
+2024-11-23,Hosp_C_Community,Amoxicillin,71,20
+2024-11-23,Hosp_C_Community,Metformin,260,0
+2024-11-23,Hosp_C_Community,Atorvastatin,265,3
+2024-11-23,Hosp_C_Community,Letrozole,145,1
+2024-11-23,Hosp_C_Community,Trastuzumab,297,1
+2024-11-23,Hosp_C_Community,Oseltamivir,287,2
+2024-11-23,Hosp_C_Community,Cough Syrup,101,3
+2024-11-24,Hosp_C_Community,Paracetamol,260,26
+2024-11-24,Hosp_C_Community,Ibuprofen,283,28
+2024-11-24,Hosp_C_Community,Amoxicillin,176,20
+2024-11-24,Hosp_C_Community,Metformin,128,1
+2024-11-24,Hosp_C_Community,Atorvastatin,156,2
+2024-11-24,Hosp_C_Community,Letrozole,111,2
+2024-11-24,Hosp_C_Community,Trastuzumab,195,0
+2024-11-24,Hosp_C_Community,Oseltamivir,156,3
+2024-11-24,Hosp_C_Community,Cough Syrup,235,4
+2024-11-25,Hosp_C_Community,Paracetamol,126,23
+2024-11-25,Hosp_C_Community,Ibuprofen,135,21
+2024-11-25,Hosp_C_Community,Amoxicillin,261,21
+2024-11-25,Hosp_C_Community,Metformin,268,2
+2024-11-25,Hosp_C_Community,Atorvastatin,219,3
+2024-11-25,Hosp_C_Community,Letrozole,112,4
+2024-11-25,Hosp_C_Community,Trastuzumab,169,0
+2024-11-25,Hosp_C_Community,Oseltamivir,211,0
+2024-11-25,Hosp_C_Community,Cough Syrup,170,3
+2024-11-26,Hosp_C_Community,Paracetamol,198,15
+2024-11-26,Hosp_C_Community,Ibuprofen,243,26
+2024-11-26,Hosp_C_Community,Amoxicillin,81,13
+2024-11-26,Hosp_C_Community,Metformin,221,2
+2024-11-26,Hosp_C_Community,Atorvastatin,243,1
+2024-11-26,Hosp_C_Community,Letrozole,275,3
+2024-11-26,Hosp_C_Community,Trastuzumab,83,3
+2024-11-26,Hosp_C_Community,Oseltamivir,132,0
+2024-11-26,Hosp_C_Community,Cough Syrup,248,4
+2024-11-27,Hosp_C_Community,Paracetamol,168,15
+2024-11-27,Hosp_C_Community,Ibuprofen,276,24
+2024-11-27,Hosp_C_Community,Amoxicillin,206,12
+2024-11-27,Hosp_C_Community,Metformin,252,2
+2024-11-27,Hosp_C_Community,Atorvastatin,205,1
+2024-11-27,Hosp_C_Community,Letrozole,163,0
+2024-11-27,Hosp_C_Community,Trastuzumab,225,2
+2024-11-27,Hosp_C_Community,Oseltamivir,187,0
+2024-11-27,Hosp_C_Community,Cough Syrup,277,2
+2024-11-28,Hosp_C_Community,Paracetamol,219,15
+2024-11-28,Hosp_C_Community,Ibuprofen,55,29
+2024-11-28,Hosp_C_Community,Amoxicillin,198,11
+2024-11-28,Hosp_C_Community,Metformin,267,1
+2024-11-28,Hosp_C_Community,Atorvastatin,105,1
+2024-11-28,Hosp_C_Community,Letrozole,136,1
+2024-11-28,Hosp_C_Community,Trastuzumab,119,3
+2024-11-28,Hosp_C_Community,Oseltamivir,162,4
+2024-11-28,Hosp_C_Community,Cough Syrup,104,0
+2024-11-29,Hosp_C_Community,Paracetamol,262,28
+2024-11-29,Hosp_C_Community,Ibuprofen,161,24
+2024-11-29,Hosp_C_Community,Amoxicillin,235,24
+2024-11-29,Hosp_C_Community,Metformin,114,3
+2024-11-29,Hosp_C_Community,Atorvastatin,59,1
+2024-11-29,Hosp_C_Community,Letrozole,91,3
+2024-11-29,Hosp_C_Community,Trastuzumab,144,2
+2024-11-29,Hosp_C_Community,Oseltamivir,167,4
+2024-11-29,Hosp_C_Community,Cough Syrup,250,2
+2024-11-30,Hosp_C_Community,Paracetamol,79,10
+2024-11-30,Hosp_C_Community,Ibuprofen,135,27
+2024-11-30,Hosp_C_Community,Amoxicillin,223,14
+2024-11-30,Hosp_C_Community,Metformin,80,2
+2024-11-30,Hosp_C_Community,Atorvastatin,233,0
+2024-11-30,Hosp_C_Community,Letrozole,142,3
+2024-11-30,Hosp_C_Community,Trastuzumab,65,4
+2024-11-30,Hosp_C_Community,Oseltamivir,189,3
+2024-11-30,Hosp_C_Community,Cough Syrup,131,1
+2024-12-01,Hosp_C_Community,Paracetamol,100,24
+2024-12-01,Hosp_C_Community,Ibuprofen,150,20
+2024-12-01,Hosp_C_Community,Amoxicillin,263,27
+2024-12-01,Hosp_C_Community,Metformin,177,2
+2024-12-01,Hosp_C_Community,Atorvastatin,55,2
+2024-12-01,Hosp_C_Community,Letrozole,111,4
+2024-12-01,Hosp_C_Community,Trastuzumab,186,3
+2024-12-01,Hosp_C_Community,Oseltamivir,260,67
+2024-12-01,Hosp_C_Community,Cough Syrup,268,52
+2024-12-02,Hosp_C_Community,Paracetamol,231,25
+2024-12-02,Hosp_C_Community,Ibuprofen,79,16
+2024-12-02,Hosp_C_Community,Amoxicillin,288,22
+2024-12-02,Hosp_C_Community,Metformin,171,3
+2024-12-02,Hosp_C_Community,Atorvastatin,248,2
+2024-12-02,Hosp_C_Community,Letrozole,94,4
+2024-12-02,Hosp_C_Community,Trastuzumab,168,2
+2024-12-02,Hosp_C_Community,Oseltamivir,256,67
+2024-12-02,Hosp_C_Community,Cough Syrup,276,46
+2024-12-03,Hosp_C_Community,Paracetamol,114,11
+2024-12-03,Hosp_C_Community,Ibuprofen,181,23
+2024-12-03,Hosp_C_Community,Amoxicillin,81,13
+2024-12-03,Hosp_C_Community,Metformin,179,1
+2024-12-03,Hosp_C_Community,Atorvastatin,292,3
+2024-12-03,Hosp_C_Community,Letrozole,138,1
+2024-12-03,Hosp_C_Community,Trastuzumab,98,3
+2024-12-03,Hosp_C_Community,Oseltamivir,240,60
+2024-12-03,Hosp_C_Community,Cough Syrup,136,71
+2024-12-04,Hosp_C_Community,Paracetamol,110,10
+2024-12-04,Hosp_C_Community,Ibuprofen,194,27
+2024-12-04,Hosp_C_Community,Amoxicillin,139,17
+2024-12-04,Hosp_C_Community,Metformin,211,2
+2024-12-04,Hosp_C_Community,Atorvastatin,67,2
+2024-12-04,Hosp_C_Community,Letrozole,204,1
+2024-12-04,Hosp_C_Community,Trastuzumab,59,3
+2024-12-04,Hosp_C_Community,Oseltamivir,199,55
+2024-12-04,Hosp_C_Community,Cough Syrup,61,50
+2024-12-05,Hosp_C_Community,Paracetamol,210,23
+2024-12-05,Hosp_C_Community,Ibuprofen,225,10
+2024-12-05,Hosp_C_Community,Amoxicillin,166,26
+2024-12-05,Hosp_C_Community,Metformin,75,1
+2024-12-05,Hosp_C_Community,Atorvastatin,257,1
+2024-12-05,Hosp_C_Community,Letrozole,91,4
+2024-12-05,Hosp_C_Community,Trastuzumab,203,3
+2024-12-05,Hosp_C_Community,Oseltamivir,189,59
+2024-12-05,Hosp_C_Community,Cough Syrup,98,53
+2024-12-06,Hosp_C_Community,Paracetamol,197,22
+2024-12-06,Hosp_C_Community,Ibuprofen,89,16
+2024-12-06,Hosp_C_Community,Amoxicillin,169,17
+2024-12-06,Hosp_C_Community,Metformin,67,0
+2024-12-06,Hosp_C_Community,Atorvastatin,247,2
+2024-12-06,Hosp_C_Community,Letrozole,277,4
+2024-12-06,Hosp_C_Community,Trastuzumab,235,4
+2024-12-06,Hosp_C_Community,Oseltamivir,280,48
+2024-12-06,Hosp_C_Community,Cough Syrup,184,59
+2024-12-07,Hosp_C_Community,Paracetamol,239,29
+2024-12-07,Hosp_C_Community,Ibuprofen,90,22
+2024-12-07,Hosp_C_Community,Amoxicillin,259,26
+2024-12-07,Hosp_C_Community,Metformin,266,0
+2024-12-07,Hosp_C_Community,Atorvastatin,295,1
+2024-12-07,Hosp_C_Community,Letrozole,225,3
+2024-12-07,Hosp_C_Community,Trastuzumab,167,4
+2024-12-07,Hosp_C_Community,Oseltamivir,113,66
+2024-12-07,Hosp_C_Community,Cough Syrup,135,44
+2024-12-08,Hosp_C_Community,Paracetamol,81,18
+2024-12-08,Hosp_C_Community,Ibuprofen,205,26
+2024-12-08,Hosp_C_Community,Amoxicillin,166,22
+2024-12-08,Hosp_C_Community,Metformin,104,1
+2024-12-08,Hosp_C_Community,Atorvastatin,129,2
+2024-12-08,Hosp_C_Community,Letrozole,299,3
+2024-12-08,Hosp_C_Community,Trastuzumab,244,3
+2024-12-08,Hosp_C_Community,Oseltamivir,218,54
+2024-12-08,Hosp_C_Community,Cough Syrup,109,52
+2024-12-09,Hosp_C_Community,Paracetamol,113,10
+2024-12-09,Hosp_C_Community,Ibuprofen,290,20
+2024-12-09,Hosp_C_Community,Amoxicillin,165,24
+2024-12-09,Hosp_C_Community,Metformin,85,1
+2024-12-09,Hosp_C_Community,Atorvastatin,223,0
+2024-12-09,Hosp_C_Community,Letrozole,299,0
+2024-12-09,Hosp_C_Community,Trastuzumab,216,2
+2024-12-09,Hosp_C_Community,Oseltamivir,232,41
+2024-12-09,Hosp_C_Community,Cough Syrup,243,77
+2024-12-10,Hosp_C_Community,Paracetamol,273,28
+2024-12-10,Hosp_C_Community,Ibuprofen,295,19
+2024-12-10,Hosp_C_Community,Amoxicillin,53,21
+2024-12-10,Hosp_C_Community,Metformin,291,3
+2024-12-10,Hosp_C_Community,Atorvastatin,73,1
+2024-12-10,Hosp_C_Community,Letrozole,74,3
+2024-12-10,Hosp_C_Community,Trastuzumab,120,1
+2024-12-10,Hosp_C_Community,Oseltamivir,235,51
+2024-12-10,Hosp_C_Community,Cough Syrup,178,64
+2024-12-11,Hosp_C_Community,Paracetamol,285,24
+2024-12-11,Hosp_C_Community,Ibuprofen,96,23
+2024-12-11,Hosp_C_Community,Amoxicillin,107,16
+2024-12-11,Hosp_C_Community,Metformin,258,2
+2024-12-11,Hosp_C_Community,Atorvastatin,88,3
+2024-12-11,Hosp_C_Community,Letrozole,180,2
+2024-12-11,Hosp_C_Community,Trastuzumab,299,0
+2024-12-11,Hosp_C_Community,Oseltamivir,206,53
+2024-12-11,Hosp_C_Community,Cough Syrup,212,67
+2024-12-12,Hosp_C_Community,Paracetamol,250,20
+2024-12-12,Hosp_C_Community,Ibuprofen,172,11
+2024-12-12,Hosp_C_Community,Amoxicillin,76,22
+2024-12-12,Hosp_C_Community,Metformin,277,2
+2024-12-12,Hosp_C_Community,Atorvastatin,122,4
+2024-12-12,Hosp_C_Community,Letrozole,292,2
+2024-12-12,Hosp_C_Community,Trastuzumab,79,4
+2024-12-12,Hosp_C_Community,Oseltamivir,148,45
+2024-12-12,Hosp_C_Community,Cough Syrup,269,71
+2024-12-13,Hosp_C_Community,Paracetamol,50,21
+2024-12-13,Hosp_C_Community,Ibuprofen,298,15
+2024-12-13,Hosp_C_Community,Amoxicillin,269,22
+2024-12-13,Hosp_C_Community,Metformin,235,0
+2024-12-13,Hosp_C_Community,Atorvastatin,178,2
+2024-12-13,Hosp_C_Community,Letrozole,287,1
+2024-12-13,Hosp_C_Community,Trastuzumab,160,1
+2024-12-13,Hosp_C_Community,Oseltamivir,213,64
+2024-12-13,Hosp_C_Community,Cough Syrup,163,49
+2024-12-14,Hosp_C_Community,Paracetamol,289,27
+2024-12-14,Hosp_C_Community,Ibuprofen,275,23
+2024-12-14,Hosp_C_Community,Amoxicillin,295,26
+2024-12-14,Hosp_C_Community,Metformin,52,1
+2024-12-14,Hosp_C_Community,Atorvastatin,89,0
+2024-12-14,Hosp_C_Community,Letrozole,174,1
+2024-12-14,Hosp_C_Community,Trastuzumab,211,1
+2024-12-14,Hosp_C_Community,Oseltamivir,144,48
+2024-12-14,Hosp_C_Community,Cough Syrup,143,59
+2024-12-15,Hosp_C_Community,Paracetamol,190,13
+2024-12-15,Hosp_C_Community,Ibuprofen,259,10
+2024-12-15,Hosp_C_Community,Amoxicillin,147,11
+2024-12-15,Hosp_C_Community,Metformin,149,2
+2024-12-15,Hosp_C_Community,Atorvastatin,194,3
+2024-12-15,Hosp_C_Community,Letrozole,63,1
+2024-12-15,Hosp_C_Community,Trastuzumab,161,2
+2024-12-15,Hosp_C_Community,Oseltamivir,234,52
+2024-12-15,Hosp_C_Community,Cough Syrup,146,41
+2024-12-16,Hosp_C_Community,Paracetamol,233,22
+2024-12-16,Hosp_C_Community,Ibuprofen,240,28
+2024-12-16,Hosp_C_Community,Amoxicillin,98,10
+2024-12-16,Hosp_C_Community,Metformin,215,2
+2024-12-16,Hosp_C_Community,Atorvastatin,229,0
+2024-12-16,Hosp_C_Community,Letrozole,217,0
+2024-12-16,Hosp_C_Community,Trastuzumab,70,1
+2024-12-16,Hosp_C_Community,Oseltamivir,280,78
+2024-12-16,Hosp_C_Community,Cough Syrup,209,43
+2024-12-17,Hosp_C_Community,Paracetamol,287,11
+2024-12-17,Hosp_C_Community,Ibuprofen,97,28
+2024-12-17,Hosp_C_Community,Amoxicillin,185,24
+2024-12-17,Hosp_C_Community,Metformin,187,4
+2024-12-17,Hosp_C_Community,Atorvastatin,165,4
+2024-12-17,Hosp_C_Community,Letrozole,203,3
+2024-12-17,Hosp_C_Community,Trastuzumab,72,4
+2024-12-17,Hosp_C_Community,Oseltamivir,186,59
+2024-12-17,Hosp_C_Community,Cough Syrup,141,76
+2024-12-18,Hosp_C_Community,Paracetamol,140,13
+2024-12-18,Hosp_C_Community,Ibuprofen,212,29
+2024-12-18,Hosp_C_Community,Amoxicillin,119,16
+2024-12-18,Hosp_C_Community,Metformin,95,3
+2024-12-18,Hosp_C_Community,Atorvastatin,225,3
+2024-12-18,Hosp_C_Community,Letrozole,57,1
+2024-12-18,Hosp_C_Community,Trastuzumab,254,0
+2024-12-18,Hosp_C_Community,Oseltamivir,262,70
+2024-12-18,Hosp_C_Community,Cough Syrup,293,75
+2024-12-19,Hosp_C_Community,Paracetamol,123,26
+2024-12-19,Hosp_C_Community,Ibuprofen,151,24
+2024-12-19,Hosp_C_Community,Amoxicillin,128,25
+2024-12-19,Hosp_C_Community,Metformin,112,2
+2024-12-19,Hosp_C_Community,Atorvastatin,133,2
+2024-12-19,Hosp_C_Community,Letrozole,183,0
+2024-12-19,Hosp_C_Community,Trastuzumab,112,4
+2024-12-19,Hosp_C_Community,Oseltamivir,171,54
+2024-12-19,Hosp_C_Community,Cough Syrup,131,52
+2024-12-20,Hosp_C_Community,Paracetamol,275,26
+2024-12-20,Hosp_C_Community,Ibuprofen,229,18
+2024-12-20,Hosp_C_Community,Amoxicillin,221,13
+2024-12-20,Hosp_C_Community,Metformin,254,3
+2024-12-20,Hosp_C_Community,Atorvastatin,184,2
+2024-12-20,Hosp_C_Community,Letrozole,58,0
+2024-12-20,Hosp_C_Community,Trastuzumab,82,3
+2024-12-20,Hosp_C_Community,Oseltamivir,181,40
+2024-12-20,Hosp_C_Community,Cough Syrup,295,73
+2024-12-21,Hosp_C_Community,Paracetamol,97,27
+2024-12-21,Hosp_C_Community,Ibuprofen,157,14
+2024-12-21,Hosp_C_Community,Amoxicillin,97,21
+2024-12-21,Hosp_C_Community,Metformin,264,1
+2024-12-21,Hosp_C_Community,Atorvastatin,238,4
+2024-12-21,Hosp_C_Community,Letrozole,74,3
+2024-12-21,Hosp_C_Community,Trastuzumab,271,4
+2024-12-21,Hosp_C_Community,Oseltamivir,219,53
+2024-12-21,Hosp_C_Community,Cough Syrup,233,47
+2024-12-22,Hosp_C_Community,Paracetamol,97,20
+2024-12-22,Hosp_C_Community,Ibuprofen,193,23
+2024-12-22,Hosp_C_Community,Amoxicillin,212,11
+2024-12-22,Hosp_C_Community,Metformin,52,3
+2024-12-22,Hosp_C_Community,Atorvastatin,295,4
+2024-12-22,Hosp_C_Community,Letrozole,187,3
+2024-12-22,Hosp_C_Community,Trastuzumab,206,1
+2024-12-22,Hosp_C_Community,Oseltamivir,253,66
+2024-12-22,Hosp_C_Community,Cough Syrup,118,76
+2024-12-23,Hosp_C_Community,Paracetamol,76,17
+2024-12-23,Hosp_C_Community,Ibuprofen,295,15
+2024-12-23,Hosp_C_Community,Amoxicillin,52,14
+2024-12-23,Hosp_C_Community,Metformin,250,3
+2024-12-23,Hosp_C_Community,Atorvastatin,53,4
+2024-12-23,Hosp_C_Community,Letrozole,188,4
+2024-12-23,Hosp_C_Community,Trastuzumab,64,1
+2024-12-23,Hosp_C_Community,Oseltamivir,62,46
+2024-12-23,Hosp_C_Community,Cough Syrup,153,45
+2024-12-24,Hosp_C_Community,Paracetamol,50,20
+2024-12-24,Hosp_C_Community,Ibuprofen,186,20
+2024-12-24,Hosp_C_Community,Amoxicillin,222,11
+2024-12-24,Hosp_C_Community,Metformin,191,1
+2024-12-24,Hosp_C_Community,Atorvastatin,65,4
+2024-12-24,Hosp_C_Community,Letrozole,142,3
+2024-12-24,Hosp_C_Community,Trastuzumab,252,2
+2024-12-24,Hosp_C_Community,Oseltamivir,63,41
+2024-12-24,Hosp_C_Community,Cough Syrup,273,70
+2024-12-25,Hosp_C_Community,Paracetamol,152,19
+2024-12-25,Hosp_C_Community,Ibuprofen,229,18
+2024-12-25,Hosp_C_Community,Amoxicillin,95,23
+2024-12-25,Hosp_C_Community,Metformin,124,3
+2024-12-25,Hosp_C_Community,Atorvastatin,146,3
+2024-12-25,Hosp_C_Community,Letrozole,75,2
+2024-12-25,Hosp_C_Community,Trastuzumab,215,1
+2024-12-25,Hosp_C_Community,Oseltamivir,263,44
+2024-12-25,Hosp_C_Community,Cough Syrup,212,41
+2024-12-26,Hosp_C_Community,Paracetamol,73,11
+2024-12-26,Hosp_C_Community,Ibuprofen,276,28
+2024-12-26,Hosp_C_Community,Amoxicillin,210,19
+2024-12-26,Hosp_C_Community,Metformin,102,4
+2024-12-26,Hosp_C_Community,Atorvastatin,58,2
+2024-12-26,Hosp_C_Community,Letrozole,294,1
+2024-12-26,Hosp_C_Community,Trastuzumab,168,2
+2024-12-26,Hosp_C_Community,Oseltamivir,131,58
+2024-12-26,Hosp_C_Community,Cough Syrup,246,64
+2024-12-27,Hosp_C_Community,Paracetamol,268,19
+2024-12-27,Hosp_C_Community,Ibuprofen,191,23
+2024-12-27,Hosp_C_Community,Amoxicillin,172,29
+2024-12-27,Hosp_C_Community,Metformin,167,2
+2024-12-27,Hosp_C_Community,Atorvastatin,55,4
+2024-12-27,Hosp_C_Community,Letrozole,239,0
+2024-12-27,Hosp_C_Community,Trastuzumab,196,1
+2024-12-27,Hosp_C_Community,Oseltamivir,148,76
+2024-12-27,Hosp_C_Community,Cough Syrup,132,63
+2024-12-28,Hosp_C_Community,Paracetamol,121,26
+2024-12-28,Hosp_C_Community,Ibuprofen,122,15
+2024-12-28,Hosp_C_Community,Amoxicillin,162,17
+2024-12-28,Hosp_C_Community,Metformin,70,2
+2024-12-28,Hosp_C_Community,Atorvastatin,57,0
+2024-12-28,Hosp_C_Community,Letrozole,77,1
+2024-12-28,Hosp_C_Community,Trastuzumab,248,1
+2024-12-28,Hosp_C_Community,Oseltamivir,135,49
+2024-12-28,Hosp_C_Community,Cough Syrup,295,72
+2024-12-29,Hosp_C_Community,Paracetamol,134,28
+2024-12-29,Hosp_C_Community,Ibuprofen,230,14
+2024-12-29,Hosp_C_Community,Amoxicillin,98,12
+2024-12-29,Hosp_C_Community,Metformin,68,0
+2024-12-29,Hosp_C_Community,Atorvastatin,78,0
+2024-12-29,Hosp_C_Community,Letrozole,168,3
+2024-12-29,Hosp_C_Community,Trastuzumab,218,4
+2024-12-29,Hosp_C_Community,Oseltamivir,120,45
+2024-12-29,Hosp_C_Community,Cough Syrup,226,61
+2024-12-30,Hosp_C_Community,Paracetamol,105,18
+2024-12-30,Hosp_C_Community,Ibuprofen,59,23
+2024-12-30,Hosp_C_Community,Amoxicillin,99,24
+2024-12-30,Hosp_C_Community,Metformin,267,0
+2024-12-30,Hosp_C_Community,Atorvastatin,271,0
+2024-12-30,Hosp_C_Community,Letrozole,87,0
+2024-12-30,Hosp_C_Community,Trastuzumab,247,1
+2024-12-30,Hosp_C_Community,Oseltamivir,242,42
+2024-12-30,Hosp_C_Community,Cough Syrup,66,47
